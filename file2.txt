@@ -1,1 +1,2 @@
 This is file2
+Change in file2
