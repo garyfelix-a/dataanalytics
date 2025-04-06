@@ -1,1 +1,2 @@
-Hey Buddy!!!Bye Buddy!!!Hey You!!!
+The file.txt is been rewritten
+Appending this content at the end using write command.
