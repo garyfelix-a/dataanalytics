@@ -9,4 +9,4 @@ age = int(input("Enter your age: "))
 try:
     checkage(age)
 except ValueError as e:
-    print("Age must be 183")
+    print(e)

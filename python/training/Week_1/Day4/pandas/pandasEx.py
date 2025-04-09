@@ -13,8 +13,8 @@ data = {
 df = pd.DataFrame(data)
 print(df)
 print(df.head())
-print(df.info())
-print(df.describe())
+print("info:", df.info())
+print("describe: ",df.describe())
 print(df.columns)
 print(df.shape)
 
