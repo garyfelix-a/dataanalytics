@@ -1,19 +1,20 @@
-# class Private:
-#     def __init__(self):
-#         self.__salary = 50000
+class BankAccount:
+    def __init__(self, name, balance):
+        self.name = name
+        self.__balance = balance
     
-#     def salary(self):
-#         return self.__salary 
+    def get_balance(self):
+        return self.__balance 
     
-# obj = Private()
-# print(obj.salary())
+obj = BankAccount('Gary', 20000)
+print(obj.get_balance())
 
-class Protected:
-    def __init__(self):
-        self._salary = 40000
+# class Protected:
+#     def __init__(self):
+#         self._salary = 40000
         
-    def salary(self):
-        return self._salary
+#     def salary(self):
+#         return self._salary
     
-obj = Protected()
-print(obj.salary)
+# obj = Protected()
+# print(obj.salary)

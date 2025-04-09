@@ -16,7 +16,7 @@ print(df.head())
 print("info:", df.info())
 print("describe: ",df.describe())
 print(df.columns)
-print(df.shape)
+print("\nshape: ",df.shape)
 
 # selection and filtering
 print(df['Age'])
