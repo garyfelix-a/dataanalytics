@@ -21,10 +21,16 @@ CREATE TABLE top_1000_movies (
 
 select * from top_1000_movies;
 
+select series_title, released_year, certificate, genre, imdb_rating 
+from top_1000_movies
+where certificate = 'U'
+order by imdb_rating
+desc
+limit 10;
+
+
 select * from top_1000_movies
 WHERE genre like 'Mystery%'
 ORDER BY imdb_rating
 DESC;
 
-SELECT * FROM top_1000_movies
-WHERE series_title = "Interstellar";

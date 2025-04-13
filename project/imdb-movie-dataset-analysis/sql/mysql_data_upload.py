@@ -64,6 +64,7 @@ def insert_into_mysql(csv_path):
     conn.close()
     
 
+# the below code runs only in this file and not in another file as module. 
 if __name__ == "__main__":
     csv_path = "C:/Users/Sharley Angel/OneDrive/Desktop/Git-training/dataanalytics/project/imdb-movie-dataset-analysis/data/clean/imdb_top_1000.csv"
     insert_into_mysql(csv_path)    
