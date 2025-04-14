@@ -1,0 +1,24 @@
+DELIMITER //
+CREATE PROCEDURE GETUSER2(IN UID INT, 
+OUT uname VARCHAR(50))
+BEGIN
+	SELECT UserName INTO uname FROM USERS WHERE UserId = UID;
+END //
+DELIMITER ;
+SET @username = '';
+CALL GETUSER2(1, @username);
+SELECT @username;
+
+
+DELIMITER //
+CREATE PROCEDURE GETEMAIL(IN UID INT, 
+OUT email_id VARCHAR(50))
+BEGIN
+	SELECT Email into email_id FROM Users WHERE UserId = UID;
+END //
+DELIMITER ;
+SET @emailid = '';
+CALL GETEMAIL(1, @emailid);
+SELECT @emailid;
+
+SELECT * FROM USERS;

@@ -2,7 +2,7 @@
 -- if we have only one input to perform operations, we'll use this
 -- used for output formatting. 
 
-SELECT UCASE("randy ortan") AS UPPERCASE_STRING;
+SELECT ucase("randy ortan") AS UPPERCASE_STRING;
 
 SELECT LCASE("RANDY ORTAN") AS LOWERCASE_STRING;
 

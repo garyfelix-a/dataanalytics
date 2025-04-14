@@ -36,7 +36,7 @@ SELECT AVG(PRICE) AS AveragePrice, ProductID
 FROM Products
 GROUP BY ProductId;
 
-COUNT 
+-- COUNT 
 SELECT COUNT(*) AS NumberOfCols
 FROM Products;
 
