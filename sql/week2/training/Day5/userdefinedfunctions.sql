@@ -1,5 +1,4 @@
 DELIMITER //
-
 CREATE FUNCTION CalculateRectangleArea(length FLOAT, 
 width FLOAT)
 RETURNS FLOAT

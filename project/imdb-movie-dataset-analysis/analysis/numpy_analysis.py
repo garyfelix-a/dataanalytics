@@ -14,12 +14,13 @@ def add_rating_category(df):
 
 # this function analyzes IMDB ratings over the years
 def year_wise_trends(df):
+    # getting all unique years from released_year col and sorting it. 
     years = df['released_year'].unique()
     years.sort()
     stats = []
     for year in years:
-        data = df[df['released_year'] == year]
-        ratings = data['imdb_rating'].to_numpy()
+        data = df[df['released_year'] == year]  # filtering movies released in 'year'
+        ratings = data['imdb_rating'].to_numpy() # extract imdb ratings as a numpy array
         stats.append((year, np.mean(ratings), np.median(ratings), np.std(ratings)))
     
     return stats

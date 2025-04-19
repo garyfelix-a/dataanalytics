@@ -65,6 +65,20 @@ SELECT
 FROM employees;
 
 
+SELECT * FROM EMPLOYEES;
+
+-- practices
+
+SELECT name, department, salary,
+	rank() over (partition by department order by salary 
+    desc) as rank_in_dept
+from employees;
+
+select name, department, salary,
+	sum(salary) over (partition by department order by 
+    salary) as cumulative_salary
+from employees;
+
 
 
 

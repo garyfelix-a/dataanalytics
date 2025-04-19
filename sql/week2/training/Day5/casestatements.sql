@@ -76,3 +76,11 @@ END;
 
 SELECT * FROM EMPLOYEES;
 EXPLAIN SELECT * FROM EMPLOYEES WHERE DEPARTMENT = 'SALES';
+
+select name, department, 
+case 
+	when salary > 50000 then "High"
+    when salary between 30000 and 50000 then "medium"
+    else 'low'
+end as salary_measure
+from employees;
