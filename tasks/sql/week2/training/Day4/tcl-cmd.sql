@@ -1,0 +1,13 @@
+SELECT * FROM PRODUCTS;
+
+START transaction;
+savepoint POINT;
+
+INSERT INTO PRODUCTS VALUES (7, 'Product7', 1100);
+INSERT INTO PRODUCTS VALUES (8, 'Product8', 1200);
+
+SELECT * FROM PRODUCTS;
+
+rollback to POINT;
+
+commit;
