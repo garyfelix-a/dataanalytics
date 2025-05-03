@@ -1,0 +1,15 @@
+CustId,Name,LastName,ProductId,City,Balance,IsActive,int64_field_0,string_field_1,string_field_2,double_field_3,bool_field_4
+2,Timothy,Bell,4,Munozburgh,3531.39,false,4,Bluetooth Speaker,Electronics,1499.75,true
+4,Cathy,Sanchez,4,Ryanmouth,8007.41,false,4,Bluetooth Speaker,Electronics,1499.75,true
+7,Dana,Doyle,1,Melanieville,2319.54,false,1,Wireless Mouse,Electronics,899.99,true
+10,Danielle,Luna,2,East Ryanstad,8347.72,false,2,Notebook,Stationery,49.5,true
+11,Jamie,Miller,5,Stephanieborough,6698.15,false,5,Water Bottle,Sports,299.25,false
+12,Kevin,Dougherty,5,Michelefurt,7640.41,true,5,Water Bottle,Sports,299.25,false
+15,Christie,Burch,2,Brownfort,8089.61,true,2,Notebook,Stationery,49.5,true
+16,Victor,Floyd,4,Navarromouth,3512.15,true,4,Bluetooth Speaker,Electronics,1499.75,true
+17,Janice,Jones,4,Lake Katherinechester,7902.44,true,4,Bluetooth Speaker,Electronics,1499.75,true
+19,Michael,Bowman,2,Gregorymouth,3108.63,false,2,Notebook,Stationery,49.5,true
+21,Colton,Jones,3,Karenchester,1153.98,true,3,Coffee Mug,Kitchenware,199.0,false
+27,Pamela,Lee,4,South Cassidy,6094.98,true,4,Bluetooth Speaker,Electronics,1499.75,true
+28,Ryan,Lawson,4,South Danielmouth,1953.57,false,4,Bluetooth Speaker,Electronics,1499.75,true
+29,Shannon,Guerra,4,South Brian,6475.27,false,4,Bluetooth Speaker,Electronics,1499.75,true
