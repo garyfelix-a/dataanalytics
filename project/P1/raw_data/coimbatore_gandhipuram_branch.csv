@@ -1,0 +1,506 @@
+TRANSACTION_ID,BRANCH_ID,CITY,DATE,AMOUNT,STATUS,TRANSACTION_TYPE,BRANCH_NAME,CUSTOMER_ID,PURPOSE
+T405322,1,Coimbatore,2025-05-09,50435.65,SUCCESS,TRANSFER,Gandhipuram Branch,C4650,Bill Payment
+T405323,1,Coimbatore,2025-05-09,16278.67,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C1402,Loan Payment
+T405324,1,Coimbatore,2025-05-09,46532.4,FAILED,DEPOSIT,Gandhipuram Branch,C1245,Bill Payment
+T405325,1,Coimbatore,2025-05-09,42315.03,SUCCESS,TRANSFER,Gandhipuram Branch,C9791,Loan Payment
+T405326,1,Coimbatore,2025-05-09,54266.3,FAILED,WITHDRAWAL,Gandhipuram Branch,C7234,Shopping
+T405327,1,Coimbatore,2025-05-09,42879.76,SUCCESS,TRANSFER,Gandhipuram Branch,C8183,Bill Payment
+T405328,1,Coimbatore,2025-05-09,72905.99,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C3484,Bill Payment
+T405329,1,Coimbatore,2025-05-09,85982.52,SUCCESS,DEPOSIT,Gandhipuram Branch,C2244,Medical Expenses
+T405330,1,Coimbatore,2025-05-09,65239.59,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C3685,Others
+T405331,1,Coimbatore,2025-05-09,28170.85,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C4345,Others
+T405332,1,Coimbatore,2025-05-09,64291.17,SUCCESS,DEPOSIT,Gandhipuram Branch,C6818,Loan Payment
+T405333,1,Coimbatore,2025-05-09,13738.98,FAILED,DEPOSIT,Gandhipuram Branch,C3930,Others
+T405334,1,Coimbatore,2025-05-09,66578.23,FAILED,TRANSFER,Gandhipuram Branch,C4897,Travel
+T405335,1,Coimbatore,2025-05-09,36076.68,FAILED,DEPOSIT,Gandhipuram Branch,C3101,Travel
+T405336,1,Coimbatore,2025-05-09,11287.24,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2920,Others
+T405337,1,Coimbatore,2025-05-09,98066.03,FAILED,TRANSFER,Gandhipuram Branch,C5625,Others
+T405338,1,Coimbatore,2025-05-09,75895.9,FAILED,DEPOSIT,Gandhipuram Branch,C4975,Education Fees
+T405339,1,Coimbatore,2025-05-09,3311.83,SUCCESS,DEPOSIT,Gandhipuram Branch,C8181,Loan Payment
+T405340,1,Coimbatore,2025-05-09,42115.95,FAILED,WITHDRAWAL,Gandhipuram Branch,C3190,Travel
+T405341,1,Coimbatore,2025-05-09,15889.75,FAILED,TRANSFER,Gandhipuram Branch,C4544,Shopping
+T405342,1,Coimbatore,2025-05-09,69203.86,SUCCESS,DEPOSIT,Gandhipuram Branch,C4292,Others
+T405343,1,Coimbatore,2025-05-09,93959.24,FAILED,WITHDRAWAL,Gandhipuram Branch,C1417,Shopping
+T405344,1,Coimbatore,2025-05-09,94108.52,FAILED,TRANSFER,Gandhipuram Branch,C2538,Loan Payment
+T405345,1,Coimbatore,2025-05-09,21808.08,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C5608,Bill Payment
+T405346,1,Coimbatore,2025-05-09,50871.44,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C7214,Loan Payment
+T405347,1,Coimbatore,2025-05-09,77969.78,FAILED,DEPOSIT,Gandhipuram Branch,C6589,Travel
+T405348,1,Coimbatore,2025-05-09,35970.05,FAILED,WITHDRAWAL,Gandhipuram Branch,C3333,Education Fees
+T405349,1,Coimbatore,2025-05-09,88471.35,SUCCESS,TRANSFER,Gandhipuram Branch,C8011,Medical Expenses
+T405350,1,Coimbatore,2025-05-09,79039.17,FAILED,WITHDRAWAL,Gandhipuram Branch,C7743,Shopping
+T405351,1,Coimbatore,2025-05-09,82522.54,FAILED,WITHDRAWAL,Gandhipuram Branch,C8514,Shopping
+T405352,1,Coimbatore,2025-05-09,94553.11,FAILED,TRANSFER,Gandhipuram Branch,C4856,Loan Payment
+T405353,1,Coimbatore,2025-05-09,30755.5,FAILED,WITHDRAWAL,Gandhipuram Branch,C3688,Medical Expenses
+T405354,1,Coimbatore,2025-05-09,5396.31,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C1719,Shopping
+T405355,1,Coimbatore,2025-05-09,9614.2,SUCCESS,DEPOSIT,Gandhipuram Branch,C4384,Others
+T405356,1,Coimbatore,2025-05-09,83676.62,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C6046,Travel
+T405357,1,Coimbatore,2025-05-09,50300.95,FAILED,DEPOSIT,Gandhipuram Branch,C2947,Education Fees
+T405358,1,Coimbatore,2025-05-09,62005.46,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C4781,Shopping
+T405359,1,Coimbatore,2025-05-09,91584.98,FAILED,WITHDRAWAL,Gandhipuram Branch,C8306,Shopping
+T405360,1,Coimbatore,2025-05-09,8683.75,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C9577,Bill Payment
+T405361,1,Coimbatore,2025-05-09,33172.21,SUCCESS,TRANSFER,Gandhipuram Branch,C5104,Loan Payment
+T405362,1,Coimbatore,2025-05-09,53612.79,SUCCESS,DEPOSIT,Gandhipuram Branch,C2476,Others
+T405363,1,Coimbatore,2025-05-09,77559.83,SUCCESS,DEPOSIT,Gandhipuram Branch,C3995,Education Fees
+T405364,1,Coimbatore,2025-05-09,59873.57,FAILED,DEPOSIT,Gandhipuram Branch,C6360,Bill Payment
+T405365,1,Coimbatore,2025-05-09,76242.85,FAILED,WITHDRAWAL,Gandhipuram Branch,C8081,Loan Payment
+T405366,1,Coimbatore,2025-05-09,71487.19,FAILED,WITHDRAWAL,Gandhipuram Branch,C2807,Others
+T405367,1,Coimbatore,2025-05-09,82186.19,SUCCESS,TRANSFER,Gandhipuram Branch,C1624,Medical Expenses
+T405368,1,Coimbatore,2025-05-09,55025.33,FAILED,DEPOSIT,Gandhipuram Branch,C4486,Loan Payment
+T405369,1,Coimbatore,2025-05-09,14529.25,FAILED,DEPOSIT,Gandhipuram Branch,C3251,Others
+T405370,1,Coimbatore,2025-05-09,5516.15,FAILED,TRANSFER,Gandhipuram Branch,C3301,Bill Payment
+T405371,1,Coimbatore,2025-05-09,51648.79,FAILED,DEPOSIT,Gandhipuram Branch,C7520,Bill Payment
+T405372,1,Coimbatore,2025-05-09,66510.52,SUCCESS,TRANSFER,Gandhipuram Branch,C9607,Education Fees
+T405373,1,Coimbatore,2025-05-09,77134.48,FAILED,DEPOSIT,Gandhipuram Branch,C8363,Education Fees
+T405374,1,Coimbatore,2025-05-09,20189.88,SUCCESS,DEPOSIT,Gandhipuram Branch,C6624,Others
+T405375,1,Coimbatore,2025-05-09,7932.35,SUCCESS,DEPOSIT,Gandhipuram Branch,C5637,Loan Payment
+T405376,1,Coimbatore,2025-05-09,66162.92,FAILED,TRANSFER,Gandhipuram Branch,C1005,Others
+T405377,1,Coimbatore,2025-05-09,88243.74,SUCCESS,TRANSFER,Gandhipuram Branch,C3422,Medical Expenses
+T405378,1,Coimbatore,2025-05-09,88419.85,FAILED,DEPOSIT,Gandhipuram Branch,C4336,Loan Payment
+T405379,1,Coimbatore,2025-05-09,2640.41,SUCCESS,DEPOSIT,Gandhipuram Branch,C2913,Others
+T405380,1,Coimbatore,2025-05-09,25553.99,FAILED,WITHDRAWAL,Gandhipuram Branch,C5727,Shopping
+T405381,1,Coimbatore,2025-05-09,89144.64,SUCCESS,DEPOSIT,Gandhipuram Branch,C8857,Others
+T405382,1,Coimbatore,2025-05-09,47507.49,SUCCESS,TRANSFER,Gandhipuram Branch,C1464,Shopping
+T405383,1,Coimbatore,2025-05-09,27162.07,SUCCESS,DEPOSIT,Gandhipuram Branch,C1757,Shopping
+T405384,1,Coimbatore,2025-05-09,71328.58,SUCCESS,TRANSFER,Gandhipuram Branch,C8918,Medical Expenses
+T405385,1,Coimbatore,2025-05-09,31820.45,SUCCESS,TRANSFER,Gandhipuram Branch,C3571,Medical Expenses
+T405386,1,Coimbatore,2025-05-09,93626.43,FAILED,WITHDRAWAL,Gandhipuram Branch,C8488,Bill Payment
+T405387,1,Coimbatore,2025-05-08,471.68,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C6525,Travel
+T405388,1,Coimbatore,2025-05-08,33969.66,FAILED,DEPOSIT,Gandhipuram Branch,C5120,Loan Payment
+T405389,1,Coimbatore,2025-05-08,59915.88,SUCCESS,DEPOSIT,Gandhipuram Branch,C4753,Medical Expenses
+T405390,1,Coimbatore,2025-05-08,33252.29,FAILED,WITHDRAWAL,Gandhipuram Branch,C1747,Shopping
+T405391,1,Coimbatore,2025-05-08,27551.99,FAILED,WITHDRAWAL,Gandhipuram Branch,C4806,Medical Expenses
+T405392,1,Coimbatore,2025-05-08,70512.3,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2697,Travel
+T405393,1,Coimbatore,2025-05-08,9933.05,SUCCESS,DEPOSIT,Gandhipuram Branch,C7809,Others
+T405394,1,Coimbatore,2025-05-08,91691.16,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C7415,Education Fees
+T405395,1,Coimbatore,2025-05-08,96809.66,SUCCESS,TRANSFER,Gandhipuram Branch,C1954,Medical Expenses
+T405396,1,Coimbatore,2025-05-08,171.17,FAILED,DEPOSIT,Gandhipuram Branch,C6261,Shopping
+T405397,1,Coimbatore,2025-05-08,10588.94,FAILED,WITHDRAWAL,Gandhipuram Branch,C7528,Medical Expenses
+T405398,1,Coimbatore,2025-05-08,32893.42,FAILED,DEPOSIT,Gandhipuram Branch,C8787,Education Fees
+T405399,1,Coimbatore,2025-05-08,28960.94,FAILED,WITHDRAWAL,Gandhipuram Branch,C3910,Education Fees
+T405400,1,Coimbatore,2025-05-08,4609.92,SUCCESS,DEPOSIT,Gandhipuram Branch,C7852,Loan Payment
+T405401,1,Coimbatore,2025-05-08,42668.84,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C7185,Bill Payment
+T405402,1,Coimbatore,2025-05-08,76713.34,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C8494,Others
+T405403,1,Coimbatore,2025-05-08,4788.42,SUCCESS,DEPOSIT,Gandhipuram Branch,C5589,Bill Payment
+T405404,1,Coimbatore,2025-05-08,38080.21,SUCCESS,TRANSFER,Gandhipuram Branch,C4222,Education Fees
+T405405,1,Coimbatore,2025-05-08,66760.05,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C5888,Education Fees
+T405406,1,Coimbatore,2025-05-08,31203.24,FAILED,WITHDRAWAL,Gandhipuram Branch,C3628,Shopping
+T405407,1,Coimbatore,2025-05-08,46377.03,FAILED,TRANSFER,Gandhipuram Branch,C4311,Shopping
+T405408,1,Coimbatore,2025-05-08,91438.04,FAILED,DEPOSIT,Gandhipuram Branch,C8117,Education Fees
+T405409,1,Coimbatore,2025-05-08,42932.73,SUCCESS,DEPOSIT,Gandhipuram Branch,C6334,Shopping
+T405410,1,Coimbatore,2025-05-08,43418.24,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C1181,Shopping
+T405411,1,Coimbatore,2025-05-08,94861.78,FAILED,WITHDRAWAL,Gandhipuram Branch,C2396,Bill Payment
+T405412,1,Coimbatore,2025-05-08,51217.29,SUCCESS,TRANSFER,Gandhipuram Branch,C7665,Shopping
+T405413,1,Coimbatore,2025-05-08,45259.51,SUCCESS,TRANSFER,Gandhipuram Branch,C3846,Others
+T405414,1,Coimbatore,2025-05-08,25706.22,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C1784,Travel
+T405415,1,Coimbatore,2025-05-08,11802.27,FAILED,DEPOSIT,Gandhipuram Branch,C9054,Shopping
+T405416,1,Coimbatore,2025-05-08,34405.15,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C4533,Travel
+T405417,1,Coimbatore,2025-05-08,91730.08,SUCCESS,TRANSFER,Gandhipuram Branch,C5556,Bill Payment
+T405418,1,Coimbatore,2025-05-08,88671.4,FAILED,WITHDRAWAL,Gandhipuram Branch,C9672,Loan Payment
+T405419,1,Coimbatore,2025-05-08,81385.77,SUCCESS,DEPOSIT,Gandhipuram Branch,C6897,Shopping
+T405420,1,Coimbatore,2025-05-08,8339.11,SUCCESS,DEPOSIT,Gandhipuram Branch,C9522,Medical Expenses
+T405421,1,Coimbatore,2025-05-08,54349.98,SUCCESS,DEPOSIT,Gandhipuram Branch,C1249,Travel
+T405422,1,Coimbatore,2025-05-08,41739.6,SUCCESS,TRANSFER,Gandhipuram Branch,C4988,Medical Expenses
+T405423,1,Coimbatore,2025-05-08,44316.81,FAILED,WITHDRAWAL,Gandhipuram Branch,C8118,Bill Payment
+T405424,1,Coimbatore,2025-05-08,37178.59,SUCCESS,TRANSFER,Gandhipuram Branch,C2389,Loan Payment
+T405425,1,Coimbatore,2025-05-08,81214.6,FAILED,DEPOSIT,Gandhipuram Branch,C5388,Shopping
+T405426,1,Coimbatore,2025-05-08,2772.52,SUCCESS,TRANSFER,Gandhipuram Branch,C9890,Bill Payment
+T405427,1,Coimbatore,2025-05-08,7660.42,FAILED,TRANSFER,Gandhipuram Branch,C3690,Shopping
+T405428,1,Coimbatore,2025-05-08,54563.62,SUCCESS,DEPOSIT,Gandhipuram Branch,C6806,Medical Expenses
+T405429,1,Coimbatore,2025-05-08,30263.36,FAILED,TRANSFER,Gandhipuram Branch,C5082,Others
+T405430,1,Coimbatore,2025-05-08,2857.96,FAILED,DEPOSIT,Gandhipuram Branch,C1248,Travel
+T405431,1,Coimbatore,2025-05-08,64774.3,FAILED,DEPOSIT,Gandhipuram Branch,C8639,Medical Expenses
+T405432,1,Coimbatore,2025-05-08,23462.27,FAILED,WITHDRAWAL,Gandhipuram Branch,C5455,Loan Payment
+T405433,1,Coimbatore,2025-05-08,67105.91,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C7114,Shopping
+T405434,1,Coimbatore,2025-05-08,58462.03,SUCCESS,DEPOSIT,Gandhipuram Branch,C9319,Loan Payment
+T405435,1,Coimbatore,2025-05-08,86252.45,FAILED,DEPOSIT,Gandhipuram Branch,C6973,Others
+T405436,1,Coimbatore,2025-05-08,32784.5,SUCCESS,DEPOSIT,Gandhipuram Branch,C9435,Shopping
+T405437,1,Coimbatore,2025-05-08,2332.34,FAILED,WITHDRAWAL,Gandhipuram Branch,C6835,Medical Expenses
+T405438,1,Coimbatore,2025-05-08,72732.52,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C3677,Loan Payment
+T405439,1,Coimbatore,2025-05-08,17022.47,SUCCESS,TRANSFER,Gandhipuram Branch,C3484,Medical Expenses
+T405440,1,Coimbatore,2025-05-08,88040.92,FAILED,WITHDRAWAL,Gandhipuram Branch,C7338,Travel
+T405441,1,Coimbatore,2025-05-08,39682.3,FAILED,WITHDRAWAL,Gandhipuram Branch,C5819,Education Fees
+T405442,1,Coimbatore,2025-05-08,67927.15,FAILED,TRANSFER,Gandhipuram Branch,C2914,Education Fees
+T405443,1,Coimbatore,2025-05-08,23480.7,SUCCESS,DEPOSIT,Gandhipuram Branch,C2851,Others
+T405444,1,Coimbatore,2025-05-08,74317.79,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C8539,Bill Payment
+T405445,1,Coimbatore,2025-05-08,56524.62,FAILED,TRANSFER,Gandhipuram Branch,C1195,Others
+T405446,1,Coimbatore,2025-05-08,78388.8,SUCCESS,DEPOSIT,Gandhipuram Branch,C9807,Loan Payment
+T405447,1,Coimbatore,2025-05-08,94352.82,FAILED,DEPOSIT,Gandhipuram Branch,C3769,Medical Expenses
+T405448,1,Coimbatore,2025-05-08,3467.39,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C9927,Others
+T405449,1,Coimbatore,2025-05-08,7853.63,FAILED,TRANSFER,Gandhipuram Branch,C7558,Travel
+T405450,1,Coimbatore,2025-05-08,20685.47,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C9844,Bill Payment
+T405451,1,Coimbatore,2025-05-08,17048.21,SUCCESS,DEPOSIT,Gandhipuram Branch,C9852,Education Fees
+T405452,1,Coimbatore,2025-05-08,47504.67,FAILED,TRANSFER,Gandhipuram Branch,C2527,Bill Payment
+T405453,1,Coimbatore,2025-05-08,10359.3,SUCCESS,DEPOSIT,Gandhipuram Branch,C7701,Loan Payment
+T405454,1,Coimbatore,2025-05-08,93759.77,SUCCESS,TRANSFER,Gandhipuram Branch,C1169,Bill Payment
+T405455,1,Coimbatore,2025-05-08,74259.76,SUCCESS,DEPOSIT,Gandhipuram Branch,C6906,Shopping
+T405456,1,Coimbatore,2025-05-08,68179.4,SUCCESS,DEPOSIT,Gandhipuram Branch,C5372,Bill Payment
+T405457,1,Coimbatore,2025-05-08,84290.48,FAILED,TRANSFER,Gandhipuram Branch,C3222,Medical Expenses
+T405458,1,Coimbatore,2025-05-08,18224.48,FAILED,DEPOSIT,Gandhipuram Branch,C6207,Shopping
+T405459,1,Coimbatore,2025-05-08,99130.53,FAILED,WITHDRAWAL,Gandhipuram Branch,C3778,Loan Payment
+T405460,1,Coimbatore,2025-05-08,6761.15,SUCCESS,TRANSFER,Gandhipuram Branch,C2347,Shopping
+T405461,1,Coimbatore,2025-05-08,19078.42,FAILED,TRANSFER,Gandhipuram Branch,C4988,Shopping
+T405462,1,Coimbatore,2025-05-08,95745.09,FAILED,WITHDRAWAL,Gandhipuram Branch,C4099,Loan Payment
+T405463,1,Coimbatore,2025-05-08,66702.87,FAILED,WITHDRAWAL,Gandhipuram Branch,C8632,Education Fees
+T405464,1,Coimbatore,2025-05-08,19692.47,FAILED,WITHDRAWAL,Gandhipuram Branch,C8786,Loan Payment
+T405465,1,Coimbatore,2025-05-08,93096.15,FAILED,WITHDRAWAL,Gandhipuram Branch,C1068,Travel
+T405466,1,Coimbatore,2025-05-07,90020.77,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C5686,Medical Expenses
+T405467,1,Coimbatore,2025-05-07,42303.86,FAILED,TRANSFER,Gandhipuram Branch,C1020,Travel
+T405468,1,Coimbatore,2025-05-07,11522.31,FAILED,WITHDRAWAL,Gandhipuram Branch,C3916,Loan Payment
+T405469,1,Coimbatore,2025-05-07,41003.46,FAILED,DEPOSIT,Gandhipuram Branch,C5701,Shopping
+T405470,1,Coimbatore,2025-05-07,50451.22,SUCCESS,TRANSFER,Gandhipuram Branch,C8388,Shopping
+T405471,1,Coimbatore,2025-05-07,61845.24,SUCCESS,DEPOSIT,Gandhipuram Branch,C4659,Medical Expenses
+T405472,1,Coimbatore,2025-05-07,68604.67,FAILED,WITHDRAWAL,Gandhipuram Branch,C2162,Loan Payment
+T405473,1,Coimbatore,2025-05-07,32483.06,SUCCESS,TRANSFER,Gandhipuram Branch,C2116,Travel
+T405474,1,Coimbatore,2025-05-07,11612.55,FAILED,WITHDRAWAL,Gandhipuram Branch,C7447,Shopping
+T405475,1,Coimbatore,2025-05-07,17804.68,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2090,Shopping
+T405476,1,Coimbatore,2025-05-07,76231.66,FAILED,WITHDRAWAL,Gandhipuram Branch,C2123,Education Fees
+T405477,1,Coimbatore,2025-05-07,66168.55,FAILED,TRANSFER,Gandhipuram Branch,C2736,Shopping
+T405478,1,Coimbatore,2025-05-07,75883.31,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C4053,Others
+T405479,1,Coimbatore,2025-05-07,57519.52,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C7369,Loan Payment
+T405480,1,Coimbatore,2025-05-07,23992.19,SUCCESS,TRANSFER,Gandhipuram Branch,C2733,Shopping
+T405481,1,Coimbatore,2025-05-07,43107.97,FAILED,DEPOSIT,Gandhipuram Branch,C4591,Travel
+T405482,1,Coimbatore,2025-05-07,7872.52,FAILED,TRANSFER,Gandhipuram Branch,C9833,Education Fees
+T405483,1,Coimbatore,2025-05-07,85313.29,SUCCESS,DEPOSIT,Gandhipuram Branch,C6308,Education Fees
+T405484,1,Coimbatore,2025-05-07,5115.83,FAILED,TRANSFER,Gandhipuram Branch,C4535,Shopping
+T405485,1,Coimbatore,2025-05-07,66470.97,SUCCESS,DEPOSIT,Gandhipuram Branch,C9595,Travel
+T405486,1,Coimbatore,2025-05-07,43360.98,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2190,Travel
+T405487,1,Coimbatore,2025-05-07,90486.51,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2957,Shopping
+T405488,1,Coimbatore,2025-05-07,70472.52,SUCCESS,TRANSFER,Gandhipuram Branch,C3399,Education Fees
+T405489,1,Coimbatore,2025-05-07,3921.65,SUCCESS,DEPOSIT,Gandhipuram Branch,C8182,Medical Expenses
+T405490,1,Coimbatore,2025-05-07,77211.85,SUCCESS,DEPOSIT,Gandhipuram Branch,C6699,Shopping
+T405491,1,Coimbatore,2025-05-07,82676.86,FAILED,DEPOSIT,Gandhipuram Branch,C8278,Bill Payment
+T405492,1,Coimbatore,2025-05-07,16914.46,FAILED,DEPOSIT,Gandhipuram Branch,C3257,Travel
+T405493,1,Coimbatore,2025-05-07,6195.8,SUCCESS,DEPOSIT,Gandhipuram Branch,C1673,Loan Payment
+T405494,1,Coimbatore,2025-05-07,4331.25,FAILED,TRANSFER,Gandhipuram Branch,C1208,Loan Payment
+T405495,1,Coimbatore,2025-05-07,39309.31,SUCCESS,DEPOSIT,Gandhipuram Branch,C3023,Bill Payment
+T405496,1,Coimbatore,2025-05-07,86770.03,FAILED,DEPOSIT,Gandhipuram Branch,C8462,Bill Payment
+T405497,1,Coimbatore,2025-05-07,87620.79,SUCCESS,DEPOSIT,Gandhipuram Branch,C7425,Travel
+T405498,1,Coimbatore,2025-05-07,71523.36,SUCCESS,DEPOSIT,Gandhipuram Branch,C6760,Loan Payment
+T405499,1,Coimbatore,2025-05-07,55679.49,SUCCESS,TRANSFER,Gandhipuram Branch,C6555,Education Fees
+T405500,1,Coimbatore,2025-05-07,44598.98,FAILED,TRANSFER,Gandhipuram Branch,C9266,Bill Payment
+T405501,1,Coimbatore,2025-05-07,11428.75,SUCCESS,DEPOSIT,Gandhipuram Branch,C8197,Travel
+T405502,1,Coimbatore,2025-05-07,53048.39,SUCCESS,TRANSFER,Gandhipuram Branch,C1930,Shopping
+T405503,1,Coimbatore,2025-05-07,74933.76,FAILED,WITHDRAWAL,Gandhipuram Branch,C3737,Shopping
+T405504,1,Coimbatore,2025-05-07,62945.52,FAILED,WITHDRAWAL,Gandhipuram Branch,C1024,Bill Payment
+T405505,1,Coimbatore,2025-05-07,77932.84,FAILED,WITHDRAWAL,Gandhipuram Branch,C8835,Shopping
+T405506,1,Coimbatore,2025-05-07,39296.8,SUCCESS,DEPOSIT,Gandhipuram Branch,C7343,Loan Payment
+T405507,1,Coimbatore,2025-05-07,77131.98,FAILED,DEPOSIT,Gandhipuram Branch,C4907,Education Fees
+T405508,1,Coimbatore,2025-05-07,15906.85,SUCCESS,TRANSFER,Gandhipuram Branch,C2047,Others
+T405509,1,Coimbatore,2025-05-07,3935.21,SUCCESS,TRANSFER,Gandhipuram Branch,C5248,Education Fees
+T405510,1,Coimbatore,2025-05-07,86963.63,FAILED,WITHDRAWAL,Gandhipuram Branch,C8041,Shopping
+T405511,1,Coimbatore,2025-05-07,72938.98,FAILED,TRANSFER,Gandhipuram Branch,C3149,Education Fees
+T405512,1,Coimbatore,2025-05-07,68637.82,SUCCESS,TRANSFER,Gandhipuram Branch,C8837,Bill Payment
+T405513,1,Coimbatore,2025-05-07,28676.28,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C9664,Medical Expenses
+T405514,1,Coimbatore,2025-05-07,8153.47,FAILED,DEPOSIT,Gandhipuram Branch,C9911,Others
+T405515,1,Coimbatore,2025-05-07,46543.56,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C4331,Others
+T405516,1,Coimbatore,2025-05-07,87981.13,FAILED,DEPOSIT,Gandhipuram Branch,C1359,Medical Expenses
+T405517,1,Coimbatore,2025-05-06,78590.44,FAILED,TRANSFER,Gandhipuram Branch,C7461,Travel
+T405518,1,Coimbatore,2025-05-06,19519.64,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C3082,Others
+T405519,1,Coimbatore,2025-05-06,77978.49,SUCCESS,DEPOSIT,Gandhipuram Branch,C8466,Loan Payment
+T405520,1,Coimbatore,2025-05-06,57454.84,SUCCESS,TRANSFER,Gandhipuram Branch,C9433,Medical Expenses
+T405521,1,Coimbatore,2025-05-06,43853.01,FAILED,TRANSFER,Gandhipuram Branch,C5882,Travel
+T405522,1,Coimbatore,2025-05-06,16667.4,FAILED,WITHDRAWAL,Gandhipuram Branch,C8878,Medical Expenses
+T405523,1,Coimbatore,2025-05-06,26818.91,FAILED,WITHDRAWAL,Gandhipuram Branch,C3358,Education Fees
+T405524,1,Coimbatore,2025-05-06,92714.03,SUCCESS,TRANSFER,Gandhipuram Branch,C2574,Medical Expenses
+T405525,1,Coimbatore,2025-05-06,50106.02,SUCCESS,TRANSFER,Gandhipuram Branch,C4345,Medical Expenses
+T405526,1,Coimbatore,2025-05-06,20107.01,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C1870,Bill Payment
+T405527,1,Coimbatore,2025-05-06,99258.63,SUCCESS,DEPOSIT,Gandhipuram Branch,C5298,Shopping
+T405528,1,Coimbatore,2025-05-06,3109.1,SUCCESS,DEPOSIT,Gandhipuram Branch,C9144,Others
+T405529,1,Coimbatore,2025-05-06,42222.77,SUCCESS,TRANSFER,Gandhipuram Branch,C7339,Others
+T405530,1,Coimbatore,2025-05-06,11541.32,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C1124,Others
+T405531,1,Coimbatore,2025-05-06,20695.83,SUCCESS,TRANSFER,Gandhipuram Branch,C7792,Medical Expenses
+T405532,1,Coimbatore,2025-05-06,73845.76,FAILED,DEPOSIT,Gandhipuram Branch,C7376,Bill Payment
+T405533,1,Coimbatore,2025-05-06,80422.33,FAILED,DEPOSIT,Gandhipuram Branch,C8449,Education Fees
+T405534,1,Coimbatore,2025-05-06,5114.26,FAILED,WITHDRAWAL,Gandhipuram Branch,C5411,Bill Payment
+T405535,1,Coimbatore,2025-05-06,16064.17,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C8389,Shopping
+T405536,1,Coimbatore,2025-05-06,47764.27,FAILED,WITHDRAWAL,Gandhipuram Branch,C6915,Medical Expenses
+T405537,1,Coimbatore,2025-05-06,73605.64,FAILED,TRANSFER,Gandhipuram Branch,C8510,Education Fees
+T405538,1,Coimbatore,2025-05-06,7872.79,FAILED,WITHDRAWAL,Gandhipuram Branch,C2715,Shopping
+T405539,1,Coimbatore,2025-05-06,88542.84,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2921,Loan Payment
+T405540,1,Coimbatore,2025-05-06,99443.82,FAILED,WITHDRAWAL,Gandhipuram Branch,C2599,Bill Payment
+T405541,1,Coimbatore,2025-05-06,10122.01,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2762,Shopping
+T405542,1,Coimbatore,2025-05-06,404.15,FAILED,TRANSFER,Gandhipuram Branch,C6402,Others
+T405543,1,Coimbatore,2025-05-06,65489.44,FAILED,TRANSFER,Gandhipuram Branch,C2465,Travel
+T405544,1,Coimbatore,2025-05-06,31218.34,FAILED,DEPOSIT,Gandhipuram Branch,C7875,Shopping
+T405545,1,Coimbatore,2025-05-06,57537.1,SUCCESS,DEPOSIT,Gandhipuram Branch,C3627,Education Fees
+T405546,1,Coimbatore,2025-05-06,350.8,FAILED,DEPOSIT,Gandhipuram Branch,C7190,Travel
+T405547,1,Coimbatore,2025-05-06,39554.49,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C7080,Travel
+T405548,1,Coimbatore,2025-05-06,40192.36,SUCCESS,TRANSFER,Gandhipuram Branch,C9102,Medical Expenses
+T405549,1,Coimbatore,2025-05-06,40672.73,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C7729,Bill Payment
+T405550,1,Coimbatore,2025-05-06,32855.71,SUCCESS,TRANSFER,Gandhipuram Branch,C6655,Others
+T405551,1,Coimbatore,2025-05-06,90545.48,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C4720,Education Fees
+T405552,1,Coimbatore,2025-05-06,35178.95,SUCCESS,TRANSFER,Gandhipuram Branch,C6242,Shopping
+T405553,1,Coimbatore,2025-05-06,28320.65,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C7860,Education Fees
+T405554,1,Coimbatore,2025-05-06,51867.3,FAILED,WITHDRAWAL,Gandhipuram Branch,C3151,Shopping
+T405555,1,Coimbatore,2025-05-06,44165.69,SUCCESS,DEPOSIT,Gandhipuram Branch,C1716,Loan Payment
+T405556,1,Coimbatore,2025-05-06,14157.17,FAILED,DEPOSIT,Gandhipuram Branch,C6745,Travel
+T405557,1,Coimbatore,2025-05-06,64658.2,FAILED,DEPOSIT,Gandhipuram Branch,C6239,Others
+T405558,1,Coimbatore,2025-05-06,85155.66,SUCCESS,TRANSFER,Gandhipuram Branch,C2000,Loan Payment
+T405559,1,Coimbatore,2025-05-06,89038.61,FAILED,DEPOSIT,Gandhipuram Branch,C5113,Travel
+T405560,1,Coimbatore,2025-05-06,42268.57,FAILED,DEPOSIT,Gandhipuram Branch,C7790,Loan Payment
+T405561,1,Coimbatore,2025-05-06,57059.24,FAILED,DEPOSIT,Gandhipuram Branch,C8059,Bill Payment
+T405562,1,Coimbatore,2025-05-06,3522.52,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2792,Medical Expenses
+T405563,1,Coimbatore,2025-05-06,59088.15,FAILED,TRANSFER,Gandhipuram Branch,C6838,Loan Payment
+T405564,1,Coimbatore,2025-05-06,32634.86,FAILED,DEPOSIT,Gandhipuram Branch,C6149,Bill Payment
+T405565,1,Coimbatore,2025-05-06,19194.99,FAILED,WITHDRAWAL,Gandhipuram Branch,C7125,Medical Expenses
+T405566,1,Coimbatore,2025-05-06,51923.63,FAILED,WITHDRAWAL,Gandhipuram Branch,C5601,Others
+T405567,1,Coimbatore,2025-05-06,49348.54,FAILED,TRANSFER,Gandhipuram Branch,C9522,Bill Payment
+T405568,1,Coimbatore,2025-05-06,59395.87,SUCCESS,DEPOSIT,Gandhipuram Branch,C6203,Bill Payment
+T405569,1,Coimbatore,2025-05-06,62913.33,SUCCESS,DEPOSIT,Gandhipuram Branch,C3530,Bill Payment
+T405570,1,Coimbatore,2025-05-06,16280.96,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C9814,Bill Payment
+T405571,1,Coimbatore,2025-05-06,57562.2,FAILED,TRANSFER,Gandhipuram Branch,C5665,Medical Expenses
+T405572,1,Coimbatore,2025-05-06,75415.42,FAILED,WITHDRAWAL,Gandhipuram Branch,C4298,Shopping
+T405573,1,Coimbatore,2025-05-06,98723.84,FAILED,TRANSFER,Gandhipuram Branch,C5297,Loan Payment
+T405574,1,Coimbatore,2025-05-06,59121.99,SUCCESS,DEPOSIT,Gandhipuram Branch,C3749,Bill Payment
+T405575,1,Coimbatore,2025-05-06,50655.2,FAILED,DEPOSIT,Gandhipuram Branch,C6868,Loan Payment
+T405576,1,Coimbatore,2025-05-06,45810.45,SUCCESS,DEPOSIT,Gandhipuram Branch,C3469,Bill Payment
+T405577,1,Coimbatore,2025-05-06,26063.98,SUCCESS,DEPOSIT,Gandhipuram Branch,C2371,Education Fees
+T405578,1,Coimbatore,2025-05-06,70502.52,SUCCESS,DEPOSIT,Gandhipuram Branch,C5945,Others
+T405579,1,Coimbatore,2025-05-06,18401.47,SUCCESS,TRANSFER,Gandhipuram Branch,C9164,Shopping
+T405580,1,Coimbatore,2025-05-06,11138.46,FAILED,TRANSFER,Gandhipuram Branch,C7494,Shopping
+T405581,1,Coimbatore,2025-05-06,23246.27,SUCCESS,TRANSFER,Gandhipuram Branch,C7996,Others
+T405582,1,Coimbatore,2025-05-06,25806.38,SUCCESS,TRANSFER,Gandhipuram Branch,C9317,Bill Payment
+T405583,1,Coimbatore,2025-05-06,31163.1,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C9325,Bill Payment
+T405584,1,Coimbatore,2025-05-06,54434.41,FAILED,TRANSFER,Gandhipuram Branch,C6526,Education Fees
+T405585,1,Coimbatore,2025-05-06,42136.63,FAILED,DEPOSIT,Gandhipuram Branch,C7310,Education Fees
+T405586,1,Coimbatore,2025-05-06,97707.67,FAILED,WITHDRAWAL,Gandhipuram Branch,C9352,Loan Payment
+T405587,1,Coimbatore,2025-05-06,63301.62,FAILED,DEPOSIT,Gandhipuram Branch,C3772,Shopping
+T405588,1,Coimbatore,2025-05-06,99055.27,SUCCESS,TRANSFER,Gandhipuram Branch,C3208,Travel
+T405589,1,Coimbatore,2025-05-06,44259.78,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C6281,Education Fees
+T405590,1,Coimbatore,2025-05-06,80922.95,SUCCESS,DEPOSIT,Gandhipuram Branch,C5567,Travel
+T405591,1,Coimbatore,2025-05-06,19622.55,SUCCESS,TRANSFER,Gandhipuram Branch,C4563,Loan Payment
+T405592,1,Coimbatore,2025-05-06,14554.65,FAILED,DEPOSIT,Gandhipuram Branch,C2254,Loan Payment
+T405593,1,Coimbatore,2025-05-06,88451.84,FAILED,WITHDRAWAL,Gandhipuram Branch,C3775,Bill Payment
+T405594,1,Coimbatore,2025-05-06,22337.09,SUCCESS,DEPOSIT,Gandhipuram Branch,C2951,Shopping
+T405595,1,Coimbatore,2025-05-06,97823.11,SUCCESS,TRANSFER,Gandhipuram Branch,C8526,Bill Payment
+T405596,1,Coimbatore,2025-05-06,80327.53,SUCCESS,TRANSFER,Gandhipuram Branch,C3359,Others
+T405597,1,Coimbatore,2025-05-06,94723.63,FAILED,DEPOSIT,Gandhipuram Branch,C9428,Travel
+T405598,1,Coimbatore,2025-05-06,10030.81,FAILED,WITHDRAWAL,Gandhipuram Branch,C7139,Bill Payment
+T405599,1,Coimbatore,2025-05-06,99891.59,FAILED,DEPOSIT,Gandhipuram Branch,C3542,Loan Payment
+T405600,1,Coimbatore,2025-05-06,91428.07,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C3121,Medical Expenses
+T405601,1,Coimbatore,2025-05-06,9158.95,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C9926,Shopping
+T405602,1,Coimbatore,2025-05-06,24296.34,SUCCESS,TRANSFER,Gandhipuram Branch,C3228,Medical Expenses
+T405603,1,Coimbatore,2025-05-06,44525.66,SUCCESS,DEPOSIT,Gandhipuram Branch,C5624,Bill Payment
+T405604,1,Coimbatore,2025-05-06,50493.83,FAILED,DEPOSIT,Gandhipuram Branch,C9488,Travel
+T405605,1,Coimbatore,2025-05-05,62958.01,FAILED,DEPOSIT,Gandhipuram Branch,C9535,Bill Payment
+T405606,1,Coimbatore,2025-05-05,36340.13,FAILED,WITHDRAWAL,Gandhipuram Branch,C4841,Bill Payment
+T405607,1,Coimbatore,2025-05-05,41727.64,FAILED,WITHDRAWAL,Gandhipuram Branch,C7701,Medical Expenses
+T405608,1,Coimbatore,2025-05-05,51172.77,FAILED,DEPOSIT,Gandhipuram Branch,C8768,Medical Expenses
+T405609,1,Coimbatore,2025-05-05,41370.2,FAILED,WITHDRAWAL,Gandhipuram Branch,C4151,Shopping
+T405610,1,Coimbatore,2025-05-05,47672.04,FAILED,WITHDRAWAL,Gandhipuram Branch,C7731,Loan Payment
+T405611,1,Coimbatore,2025-05-05,25126.29,FAILED,TRANSFER,Gandhipuram Branch,C9054,Medical Expenses
+T405612,1,Coimbatore,2025-05-05,33686.38,FAILED,WITHDRAWAL,Gandhipuram Branch,C4819,Travel
+T405613,1,Coimbatore,2025-05-05,98327.54,FAILED,DEPOSIT,Gandhipuram Branch,C2272,Others
+T405614,1,Coimbatore,2025-05-05,62402.42,FAILED,DEPOSIT,Gandhipuram Branch,C1944,Shopping
+T405615,1,Coimbatore,2025-05-05,89486.81,FAILED,DEPOSIT,Gandhipuram Branch,C3511,Medical Expenses
+T405616,1,Coimbatore,2025-05-05,68524.4,SUCCESS,TRANSFER,Gandhipuram Branch,C2073,Loan Payment
+T405617,1,Coimbatore,2025-05-05,70041.5,FAILED,DEPOSIT,Gandhipuram Branch,C8285,Bill Payment
+T405618,1,Coimbatore,2025-05-05,17946.08,SUCCESS,TRANSFER,Gandhipuram Branch,C2528,Education Fees
+T405619,1,Coimbatore,2025-05-05,38646.07,FAILED,WITHDRAWAL,Gandhipuram Branch,C3684,Education Fees
+T405620,1,Coimbatore,2025-05-05,50467.3,SUCCESS,DEPOSIT,Gandhipuram Branch,C3247,Others
+T405621,1,Coimbatore,2025-05-05,40653.73,FAILED,DEPOSIT,Gandhipuram Branch,C2665,Education Fees
+T405622,1,Coimbatore,2025-05-05,24579.05,FAILED,DEPOSIT,Gandhipuram Branch,C9788,Travel
+T405623,1,Coimbatore,2025-05-05,8042.91,FAILED,WITHDRAWAL,Gandhipuram Branch,C5015,Bill Payment
+T405624,1,Coimbatore,2025-05-05,76162.76,FAILED,TRANSFER,Gandhipuram Branch,C9791,Loan Payment
+T405625,1,Coimbatore,2025-05-05,33033.34,FAILED,TRANSFER,Gandhipuram Branch,C1499,Shopping
+T405626,1,Coimbatore,2025-05-05,78249.12,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C7669,Others
+T405627,1,Coimbatore,2025-05-05,25094.94,FAILED,TRANSFER,Gandhipuram Branch,C7153,Medical Expenses
+T405628,1,Coimbatore,2025-05-05,71289.53,FAILED,DEPOSIT,Gandhipuram Branch,C1576,Bill Payment
+T405629,1,Coimbatore,2025-05-05,30247.96,FAILED,WITHDRAWAL,Gandhipuram Branch,C6745,Loan Payment
+T405630,1,Coimbatore,2025-05-05,7481.44,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2574,Shopping
+T405631,1,Coimbatore,2025-05-05,71715.92,FAILED,TRANSFER,Gandhipuram Branch,C3514,Medical Expenses
+T405632,1,Coimbatore,2025-05-05,58830.52,SUCCESS,DEPOSIT,Gandhipuram Branch,C6981,Loan Payment
+T405633,1,Coimbatore,2025-05-05,82735.3,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C5440,Loan Payment
+T405634,1,Coimbatore,2025-05-05,74163.01,SUCCESS,TRANSFER,Gandhipuram Branch,C9153,Education Fees
+T405635,1,Coimbatore,2025-05-05,38641.5,SUCCESS,TRANSFER,Gandhipuram Branch,C9716,Travel
+T405636,1,Coimbatore,2025-05-05,94440.76,FAILED,WITHDRAWAL,Gandhipuram Branch,C3345,Loan Payment
+T405637,1,Coimbatore,2025-05-05,80370.15,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C5029,Others
+T405638,1,Coimbatore,2025-05-05,10273.83,FAILED,TRANSFER,Gandhipuram Branch,C8295,Others
+T405639,1,Coimbatore,2025-05-05,42495.48,FAILED,WITHDRAWAL,Gandhipuram Branch,C2333,Others
+T405640,1,Coimbatore,2025-05-05,24652.37,SUCCESS,TRANSFER,Gandhipuram Branch,C6492,Bill Payment
+T405641,1,Coimbatore,2025-05-05,82205.66,SUCCESS,TRANSFER,Gandhipuram Branch,C4486,Travel
+T405642,1,Coimbatore,2025-05-05,15928.68,SUCCESS,DEPOSIT,Gandhipuram Branch,C3906,Bill Payment
+T405643,1,Coimbatore,2025-05-05,35308.8,SUCCESS,DEPOSIT,Gandhipuram Branch,C9055,Others
+T405644,1,Coimbatore,2025-05-05,71173.49,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C9017,Others
+T405645,1,Coimbatore,2025-05-05,32786.57,FAILED,WITHDRAWAL,Gandhipuram Branch,C5703,Education Fees
+T405646,1,Coimbatore,2025-05-05,85691.31,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C4955,Education Fees
+T405647,1,Coimbatore,2025-05-05,32903.61,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2326,Others
+T405648,1,Coimbatore,2025-05-05,62391.69,SUCCESS,TRANSFER,Gandhipuram Branch,C3909,Shopping
+T405649,1,Coimbatore,2025-05-05,36410.86,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C6010,Travel
+T405650,1,Coimbatore,2025-05-05,76076.22,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C8909,Travel
+T405651,1,Coimbatore,2025-05-05,31299.69,SUCCESS,DEPOSIT,Gandhipuram Branch,C5896,Bill Payment
+T405652,1,Coimbatore,2025-05-05,53345.94,FAILED,WITHDRAWAL,Gandhipuram Branch,C4844,Shopping
+T405653,1,Coimbatore,2025-05-05,76218.83,FAILED,TRANSFER,Gandhipuram Branch,C4987,Education Fees
+T405654,1,Coimbatore,2025-05-05,88469.59,FAILED,WITHDRAWAL,Gandhipuram Branch,C2268,Medical Expenses
+T405655,1,Coimbatore,2025-05-05,73799.57,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2999,Medical Expenses
+T405656,1,Coimbatore,2025-05-05,46134.44,SUCCESS,DEPOSIT,Gandhipuram Branch,C2691,Education Fees
+T405657,1,Coimbatore,2025-05-05,65820.89,SUCCESS,DEPOSIT,Gandhipuram Branch,C6436,Medical Expenses
+T405658,1,Coimbatore,2025-05-05,95835.55,FAILED,TRANSFER,Gandhipuram Branch,C1171,Travel
+T405659,1,Coimbatore,2025-05-05,26311.09,SUCCESS,DEPOSIT,Gandhipuram Branch,C2222,Travel
+T405660,1,Coimbatore,2025-05-05,24302.99,FAILED,DEPOSIT,Gandhipuram Branch,C9112,Travel
+T405661,1,Coimbatore,2025-05-05,49855.39,SUCCESS,DEPOSIT,Gandhipuram Branch,C7058,Education Fees
+T405662,1,Coimbatore,2025-05-05,29595.74,SUCCESS,TRANSFER,Gandhipuram Branch,C1933,Others
+T405663,1,Coimbatore,2025-05-05,42486.21,SUCCESS,DEPOSIT,Gandhipuram Branch,C7177,Medical Expenses
+T405664,1,Coimbatore,2025-05-05,97683.99,SUCCESS,DEPOSIT,Gandhipuram Branch,C8301,Education Fees
+T405665,1,Coimbatore,2025-05-05,69222.34,SUCCESS,DEPOSIT,Gandhipuram Branch,C1683,Medical Expenses
+T405666,1,Coimbatore,2025-05-05,77862.96,SUCCESS,TRANSFER,Gandhipuram Branch,C1545,Medical Expenses
+T405667,1,Coimbatore,2025-05-05,14492.73,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C1271,Medical Expenses
+T405668,1,Coimbatore,2025-05-05,17774.68,FAILED,DEPOSIT,Gandhipuram Branch,C8785,Others
+T405669,1,Coimbatore,2025-05-05,52614.47,FAILED,TRANSFER,Gandhipuram Branch,C5310,Shopping
+T405670,1,Coimbatore,2025-05-05,37476.37,FAILED,DEPOSIT,Gandhipuram Branch,C6184,Education Fees
+T405671,1,Coimbatore,2025-05-05,81435.8,FAILED,DEPOSIT,Gandhipuram Branch,C5007,Others
+T405672,1,Coimbatore,2025-05-05,89192.83,FAILED,DEPOSIT,Gandhipuram Branch,C1852,Education Fees
+T405673,1,Coimbatore,2025-05-05,66171.18,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C5354,Education Fees
+T405674,1,Coimbatore,2025-05-05,87464.1,SUCCESS,DEPOSIT,Gandhipuram Branch,C2263,Medical Expenses
+T405675,1,Coimbatore,2025-05-05,37327.06,FAILED,TRANSFER,Gandhipuram Branch,C2608,Education Fees
+T405676,1,Coimbatore,2025-05-05,39166.69,SUCCESS,DEPOSIT,Gandhipuram Branch,C4215,Others
+T405677,1,Coimbatore,2025-05-05,4570.15,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2830,Travel
+T405678,1,Coimbatore,2025-05-05,9963.23,SUCCESS,DEPOSIT,Gandhipuram Branch,C4423,Loan Payment
+T405679,1,Coimbatore,2025-05-05,3365.87,SUCCESS,DEPOSIT,Gandhipuram Branch,C7960,Shopping
+T405680,1,Coimbatore,2025-05-05,93929.77,FAILED,DEPOSIT,Gandhipuram Branch,C6878,Loan Payment
+T405681,1,Coimbatore,2025-05-05,74932.77,FAILED,TRANSFER,Gandhipuram Branch,C6048,Others
+T405682,1,Coimbatore,2025-05-05,10961.83,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C6441,Others
+T405683,1,Coimbatore,2025-05-05,23856.92,SUCCESS,TRANSFER,Gandhipuram Branch,C8008,Bill Payment
+T405684,1,Coimbatore,2025-05-05,84966.69,SUCCESS,TRANSFER,Gandhipuram Branch,C5956,Shopping
+T405685,1,Coimbatore,2025-05-05,79136.95,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C7278,Shopping
+T405686,1,Coimbatore,2025-05-05,61899.89,SUCCESS,TRANSFER,Gandhipuram Branch,C7577,Education Fees
+T405687,1,Coimbatore,2025-05-05,8793.85,SUCCESS,TRANSFER,Gandhipuram Branch,C8155,Education Fees
+T405688,1,Coimbatore,2025-05-05,93562.64,FAILED,WITHDRAWAL,Gandhipuram Branch,C7150,Bill Payment
+T405689,1,Coimbatore,2025-05-05,88443.18,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C4046,Education Fees
+T405690,1,Coimbatore,2025-05-04,24016.05,SUCCESS,TRANSFER,Gandhipuram Branch,C4503,Travel
+T405691,1,Coimbatore,2025-05-04,20940.91,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2036,Education Fees
+T405692,1,Coimbatore,2025-05-04,4163.35,FAILED,TRANSFER,Gandhipuram Branch,C9850,Medical Expenses
+T405693,1,Coimbatore,2025-05-04,41343.41,SUCCESS,DEPOSIT,Gandhipuram Branch,C1257,Shopping
+T405694,1,Coimbatore,2025-05-04,98045.3,FAILED,WITHDRAWAL,Gandhipuram Branch,C3146,Education Fees
+T405695,1,Coimbatore,2025-05-04,94419.36,FAILED,TRANSFER,Gandhipuram Branch,C7005,Others
+T405696,1,Coimbatore,2025-05-04,53809.16,FAILED,TRANSFER,Gandhipuram Branch,C5776,Shopping
+T405697,1,Coimbatore,2025-05-04,32917.32,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C8336,Shopping
+T405698,1,Coimbatore,2025-05-04,63595.91,SUCCESS,TRANSFER,Gandhipuram Branch,C6373,Education Fees
+T405699,1,Coimbatore,2025-05-04,7531.63,SUCCESS,DEPOSIT,Gandhipuram Branch,C8357,Travel
+T405700,1,Coimbatore,2025-05-04,62774.22,FAILED,WITHDRAWAL,Gandhipuram Branch,C8601,Travel
+T405701,1,Coimbatore,2025-05-04,46859.51,FAILED,DEPOSIT,Gandhipuram Branch,C1292,Shopping
+T405702,1,Coimbatore,2025-05-04,97961.52,FAILED,DEPOSIT,Gandhipuram Branch,C3718,Others
+T405703,1,Coimbatore,2025-05-04,94552.53,FAILED,TRANSFER,Gandhipuram Branch,C7539,Travel
+T405704,1,Coimbatore,2025-05-04,14987.76,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C3216,Education Fees
+T405705,1,Coimbatore,2025-05-04,52394.14,FAILED,DEPOSIT,Gandhipuram Branch,C2319,Education Fees
+T405706,1,Coimbatore,2025-05-04,87662.62,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C7979,Loan Payment
+T405707,1,Coimbatore,2025-05-04,85414.3,SUCCESS,TRANSFER,Gandhipuram Branch,C8166,Education Fees
+T405708,1,Coimbatore,2025-05-04,28982.17,SUCCESS,DEPOSIT,Gandhipuram Branch,C2365,Travel
+T405709,1,Coimbatore,2025-05-04,57758.18,SUCCESS,TRANSFER,Gandhipuram Branch,C5111,Loan Payment
+T405710,1,Coimbatore,2025-05-04,15722.73,FAILED,WITHDRAWAL,Gandhipuram Branch,C2214,Education Fees
+T405711,1,Coimbatore,2025-05-04,69922.95,FAILED,TRANSFER,Gandhipuram Branch,C8659,Medical Expenses
+T405712,1,Coimbatore,2025-05-04,79909.4,FAILED,TRANSFER,Gandhipuram Branch,C4536,Education Fees
+T405713,1,Coimbatore,2025-05-04,15202.32,SUCCESS,DEPOSIT,Gandhipuram Branch,C8170,Others
+T405714,1,Coimbatore,2025-05-04,18189.12,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2195,Education Fees
+T405715,1,Coimbatore,2025-05-04,83107.63,FAILED,WITHDRAWAL,Gandhipuram Branch,C2265,Others
+T405716,1,Coimbatore,2025-05-04,60414.44,FAILED,WITHDRAWAL,Gandhipuram Branch,C7169,Education Fees
+T405717,1,Coimbatore,2025-05-04,16778.28,FAILED,TRANSFER,Gandhipuram Branch,C8085,Loan Payment
+T405718,1,Coimbatore,2025-05-04,83523.64,SUCCESS,DEPOSIT,Gandhipuram Branch,C1656,Travel
+T405719,1,Coimbatore,2025-05-04,67825.63,SUCCESS,TRANSFER,Gandhipuram Branch,C7879,Education Fees
+T405720,1,Coimbatore,2025-05-04,895.2,SUCCESS,DEPOSIT,Gandhipuram Branch,C8025,Bill Payment
+T405721,1,Coimbatore,2025-05-04,49287.22,SUCCESS,TRANSFER,Gandhipuram Branch,C3898,Loan Payment
+T405722,1,Coimbatore,2025-05-04,57004.39,FAILED,TRANSFER,Gandhipuram Branch,C5070,Shopping
+T405723,1,Coimbatore,2025-05-04,36532.78,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C3799,Travel
+T405724,1,Coimbatore,2025-05-04,53326.3,FAILED,WITHDRAWAL,Gandhipuram Branch,C8444,Education Fees
+T405725,1,Coimbatore,2025-05-04,35678.71,SUCCESS,DEPOSIT,Gandhipuram Branch,C3803,Bill Payment
+T405726,1,Coimbatore,2025-05-04,8247.03,SUCCESS,TRANSFER,Gandhipuram Branch,C4484,Loan Payment
+T405727,1,Coimbatore,2025-05-04,71996.86,SUCCESS,DEPOSIT,Gandhipuram Branch,C7557,Loan Payment
+T405728,1,Coimbatore,2025-05-04,61810.7,FAILED,WITHDRAWAL,Gandhipuram Branch,C4561,Travel
+T405729,1,Coimbatore,2025-05-04,870.84,SUCCESS,DEPOSIT,Gandhipuram Branch,C4565,Loan Payment
+T405730,1,Coimbatore,2025-05-04,52806.12,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C9316,Bill Payment
+T405731,1,Coimbatore,2025-05-04,15554.14,FAILED,DEPOSIT,Gandhipuram Branch,C3822,Travel
+T405732,1,Coimbatore,2025-05-04,11303.02,FAILED,TRANSFER,Gandhipuram Branch,C8864,Travel
+T405733,1,Coimbatore,2025-05-04,90287.83,SUCCESS,TRANSFER,Gandhipuram Branch,C3108,Education Fees
+T405734,1,Coimbatore,2025-05-04,22238.89,FAILED,DEPOSIT,Gandhipuram Branch,C3006,Travel
+T405735,1,Coimbatore,2025-05-04,64359.87,SUCCESS,TRANSFER,Gandhipuram Branch,C9103,Education Fees
+T405736,1,Coimbatore,2025-05-04,53027.25,SUCCESS,TRANSFER,Gandhipuram Branch,C8351,Medical Expenses
+T405737,1,Coimbatore,2025-05-04,22386.66,FAILED,DEPOSIT,Gandhipuram Branch,C8825,Bill Payment
+T405738,1,Coimbatore,2025-05-04,1914.33,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2946,Shopping
+T405739,1,Coimbatore,2025-05-04,18787.88,FAILED,WITHDRAWAL,Gandhipuram Branch,C2521,Medical Expenses
+T405740,1,Coimbatore,2025-05-04,15504.81,FAILED,WITHDRAWAL,Gandhipuram Branch,C2307,Education Fees
+T405741,1,Coimbatore,2025-05-04,90004.68,FAILED,WITHDRAWAL,Gandhipuram Branch,C7093,Bill Payment
+T405742,1,Coimbatore,2025-05-04,32422.65,FAILED,DEPOSIT,Gandhipuram Branch,C2092,Shopping
+T405743,1,Coimbatore,2025-05-04,743.29,FAILED,DEPOSIT,Gandhipuram Branch,C4901,Bill Payment
+T405744,1,Coimbatore,2025-05-04,74577.51,FAILED,WITHDRAWAL,Gandhipuram Branch,C9306,Medical Expenses
+T405745,1,Coimbatore,2025-05-04,48934.69,SUCCESS,DEPOSIT,Gandhipuram Branch,C6024,Medical Expenses
+T405746,1,Coimbatore,2025-05-04,58968.59,FAILED,TRANSFER,Gandhipuram Branch,C8108,Bill Payment
+T405747,1,Coimbatore,2025-05-04,58603.14,FAILED,DEPOSIT,Gandhipuram Branch,C3888,Shopping
+T405748,1,Coimbatore,2025-05-04,9642.93,SUCCESS,DEPOSIT,Gandhipuram Branch,C2467,Shopping
+T405749,1,Coimbatore,2025-05-04,43964.87,FAILED,TRANSFER,Gandhipuram Branch,C5836,Bill Payment
+T405750,1,Coimbatore,2025-05-03,84302.68,SUCCESS,TRANSFER,Gandhipuram Branch,C9492,Education Fees
+T405751,1,Coimbatore,2025-05-03,31223.37,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C2282,Shopping
+T405752,1,Coimbatore,2025-05-03,8331.83,FAILED,DEPOSIT,Gandhipuram Branch,C5294,Medical Expenses
+T405753,1,Coimbatore,2025-05-03,46200.85,FAILED,DEPOSIT,Gandhipuram Branch,C7488,Travel
+T405754,1,Coimbatore,2025-05-03,23394.99,SUCCESS,DEPOSIT,Gandhipuram Branch,C1793,Travel
+T405755,1,Coimbatore,2025-05-03,61711.66,SUCCESS,TRANSFER,Gandhipuram Branch,C7445,Medical Expenses
+T405756,1,Coimbatore,2025-05-03,90342.07,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C1152,Medical Expenses
+T405757,1,Coimbatore,2025-05-03,78921.18,FAILED,WITHDRAWAL,Gandhipuram Branch,C7363,Loan Payment
+T405758,1,Coimbatore,2025-05-03,49114.52,SUCCESS,DEPOSIT,Gandhipuram Branch,C4938,Loan Payment
+T405759,1,Coimbatore,2025-05-03,74091.93,SUCCESS,TRANSFER,Gandhipuram Branch,C1291,Bill Payment
+T405760,1,Coimbatore,2025-05-03,64409.02,SUCCESS,TRANSFER,Gandhipuram Branch,C9593,Bill Payment
+T405761,1,Coimbatore,2025-05-03,57812.53,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C8353,Shopping
+T405762,1,Coimbatore,2025-05-03,2664.26,SUCCESS,DEPOSIT,Gandhipuram Branch,C9125,Travel
+T405763,1,Coimbatore,2025-05-03,78187.93,FAILED,DEPOSIT,Gandhipuram Branch,C5459,Bill Payment
+T405764,1,Coimbatore,2025-05-03,90038.13,FAILED,TRANSFER,Gandhipuram Branch,C5634,Others
+T405765,1,Coimbatore,2025-05-03,91875.89,FAILED,WITHDRAWAL,Gandhipuram Branch,C6224,Shopping
+T405766,1,Coimbatore,2025-05-03,94587.98,FAILED,WITHDRAWAL,Gandhipuram Branch,C7897,Medical Expenses
+T405767,1,Coimbatore,2025-05-03,57396.85,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C5937,Medical Expenses
+T405768,1,Coimbatore,2025-05-03,93257.67,SUCCESS,TRANSFER,Gandhipuram Branch,C2625,Others
+T405769,1,Coimbatore,2025-05-03,90112.56,SUCCESS,DEPOSIT,Gandhipuram Branch,C4692,Medical Expenses
+T405770,1,Coimbatore,2025-05-03,11369.16,FAILED,TRANSFER,Gandhipuram Branch,C5899,Bill Payment
+T405771,1,Coimbatore,2025-05-03,93338.94,FAILED,DEPOSIT,Gandhipuram Branch,C6167,Others
+T405772,1,Coimbatore,2025-05-03,39516.12,SUCCESS,DEPOSIT,Gandhipuram Branch,C4148,Bill Payment
+T405773,1,Coimbatore,2025-05-03,29921.29,FAILED,TRANSFER,Gandhipuram Branch,C5926,Shopping
+T405774,1,Coimbatore,2025-05-03,80545.5,FAILED,DEPOSIT,Gandhipuram Branch,C4458,Loan Payment
+T405775,1,Coimbatore,2025-05-03,38441.45,FAILED,DEPOSIT,Gandhipuram Branch,C4401,Others
+T405776,1,Coimbatore,2025-05-03,94380.12,FAILED,TRANSFER,Gandhipuram Branch,C1255,Shopping
+T405777,1,Coimbatore,2025-05-03,95264.4,SUCCESS,TRANSFER,Gandhipuram Branch,C2586,Bill Payment
+T405778,1,Coimbatore,2025-05-03,30041.06,FAILED,WITHDRAWAL,Gandhipuram Branch,C9036,Bill Payment
+T405779,1,Coimbatore,2025-05-03,35980.03,FAILED,TRANSFER,Gandhipuram Branch,C5420,Shopping
+T405780,1,Coimbatore,2025-05-03,41209.08,SUCCESS,TRANSFER,Gandhipuram Branch,C9684,Bill Payment
+T405781,1,Coimbatore,2025-05-03,14686.4,SUCCESS,TRANSFER,Gandhipuram Branch,C8194,Loan Payment
+T405782,1,Coimbatore,2025-05-03,59636.32,FAILED,WITHDRAWAL,Gandhipuram Branch,C3375,Others
+T405783,1,Coimbatore,2025-05-03,36576.68,SUCCESS,TRANSFER,Gandhipuram Branch,C4062,Medical Expenses
+T405784,1,Coimbatore,2025-05-03,51248.83,SUCCESS,DEPOSIT,Gandhipuram Branch,C6979,Medical Expenses
+T405785,1,Coimbatore,2025-05-03,39294.13,FAILED,WITHDRAWAL,Gandhipuram Branch,C3311,Loan Payment
+T405786,1,Coimbatore,2025-05-03,14792.77,FAILED,DEPOSIT,Gandhipuram Branch,C7045,Loan Payment
+T405787,1,Coimbatore,2025-05-03,40873.48,FAILED,WITHDRAWAL,Gandhipuram Branch,C1421,Medical Expenses
+T405788,1,Coimbatore,2025-05-03,18684.87,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C4093,Education Fees
+T405789,1,Coimbatore,2025-05-03,69799.44,FAILED,WITHDRAWAL,Gandhipuram Branch,C3011,Education Fees
+T405790,1,Coimbatore,2025-05-03,70870.97,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C3031,Medical Expenses
+T405791,1,Coimbatore,2025-05-03,5913.02,FAILED,TRANSFER,Gandhipuram Branch,C5230,Loan Payment
+T405792,1,Coimbatore,2025-05-03,72678.83,FAILED,TRANSFER,Gandhipuram Branch,C4789,Shopping
+T405793,1,Coimbatore,2025-05-03,29652.21,SUCCESS,TRANSFER,Gandhipuram Branch,C3122,Travel
+T405794,1,Coimbatore,2025-05-03,59605.61,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C9452,Education Fees
+T405795,1,Coimbatore,2025-05-03,57744.61,FAILED,DEPOSIT,Gandhipuram Branch,C4192,Medical Expenses
+T405796,1,Coimbatore,2025-05-03,74464.79,SUCCESS,DEPOSIT,Gandhipuram Branch,C9943,Medical Expenses
+T405797,1,Coimbatore,2025-05-03,1209.67,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C9150,Bill Payment
+T405798,1,Coimbatore,2025-05-03,84432.85,SUCCESS,TRANSFER,Gandhipuram Branch,C4541,Loan Payment
+T405799,1,Coimbatore,2025-05-03,75326.88,FAILED,WITHDRAWAL,Gandhipuram Branch,C6510,Medical Expenses
+T405800,1,Coimbatore,2025-05-03,18125.59,SUCCESS,TRANSFER,Gandhipuram Branch,C2909,Bill Payment
+T405801,1,Coimbatore,2025-05-03,34702.25,FAILED,DEPOSIT,Gandhipuram Branch,C6383,Shopping
+T405802,1,Coimbatore,2025-05-03,1580.25,FAILED,WITHDRAWAL,Gandhipuram Branch,C9793,Education Fees
+T405803,1,Coimbatore,2025-05-03,54423.05,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C1323,Bill Payment
+T405804,1,Coimbatore,2025-05-03,32571.65,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C7732,Education Fees
+T405805,1,Coimbatore,2025-05-03,77720.16,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C5305,Bill Payment
+T405806,1,Coimbatore,2025-05-03,80855.18,FAILED,DEPOSIT,Gandhipuram Branch,C6452,Travel
+T405807,1,Coimbatore,2025-05-03,54415.32,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C3625,Medical Expenses
+T405808,1,Coimbatore,2025-05-03,76696.26,SUCCESS,DEPOSIT,Gandhipuram Branch,C5497,Loan Payment
+T405809,1,Coimbatore,2025-05-03,36968.83,FAILED,WITHDRAWAL,Gandhipuram Branch,C6684,Education Fees
+T405810,1,Coimbatore,2025-05-03,56325.32,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C6475,Shopping
+T405811,1,Coimbatore,2025-05-03,18894.13,FAILED,TRANSFER,Gandhipuram Branch,C1384,Education Fees
+T405812,1,Coimbatore,2025-05-03,27955.61,FAILED,TRANSFER,Gandhipuram Branch,C3927,Medical Expenses
+T405813,1,Coimbatore,2025-05-03,24799.25,FAILED,DEPOSIT,Gandhipuram Branch,C4048,Others
+T405814,1,Coimbatore,2025-05-03,77001.58,SUCCESS,TRANSFER,Gandhipuram Branch,C7711,Travel
+T405815,1,Coimbatore,2025-05-03,63303.58,SUCCESS,DEPOSIT,Gandhipuram Branch,C8190,Education Fees
+T405816,1,Coimbatore,2025-05-03,8074.78,FAILED,DEPOSIT,Gandhipuram Branch,C3499,Others
+T405817,1,Coimbatore,2025-05-03,65810.74,FAILED,WITHDRAWAL,Gandhipuram Branch,C9997,Education Fees
+T405818,1,Coimbatore,2025-05-03,10583.17,SUCCESS,TRANSFER,Gandhipuram Branch,C8590,Travel
+T405819,1,Coimbatore,2025-05-03,86511.18,FAILED,TRANSFER,Gandhipuram Branch,C8126,Education Fees
+T405820,1,Coimbatore,2025-05-03,84179.26,FAILED,TRANSFER,Gandhipuram Branch,C4620,Loan Payment
+T405821,1,Coimbatore,2025-05-03,66017.42,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C7859,Shopping
+T405822,1,Coimbatore,2025-05-03,18983.44,FAILED,WITHDRAWAL,Gandhipuram Branch,C3812,Shopping
+T405823,1,Coimbatore,2025-05-03,12864.43,FAILED,DEPOSIT,Gandhipuram Branch,C6759,Medical Expenses
+T405824,1,Coimbatore,2025-05-03,46558.86,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C5721,Medical Expenses
+T405825,1,Coimbatore,2025-05-03,6901.24,SUCCESS,WITHDRAWAL,Gandhipuram Branch,C7269,Education Fees
+T405826,1,Coimbatore,2025-05-03,18079.23,FAILED,WITHDRAWAL,Gandhipuram Branch,C1659,Shopping

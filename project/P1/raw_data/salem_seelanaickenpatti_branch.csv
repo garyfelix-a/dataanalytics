@@ -1,0 +1,593 @@
+TRANSACTION_ID,BRANCH_ID,CITY,DATE,AMOUNT,STATUS,TRANSACTION_TYPE,BRANCH_NAME,CUSTOMER_ID,PURPOSE
+T404730,5,Salem,2025-05-09,64230.97,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7615,Education Fees
+T404731,5,Salem,2025-05-09,10466.66,FAILED,DEPOSIT,Seelanaickenpatti Branch,C4210,Others
+T404732,5,Salem,2025-05-09,83520.1,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2841,Medical Expenses
+T404733,5,Salem,2025-05-09,16791.24,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C5213,Loan Payment
+T404734,5,Salem,2025-05-09,29428.55,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C6019,Travel
+T404735,5,Salem,2025-05-09,69202.7,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C5239,Others
+T404736,5,Salem,2025-05-09,38760.59,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C8339,Bill Payment
+T404737,5,Salem,2025-05-09,55878.58,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C1776,Shopping
+T404738,5,Salem,2025-05-09,14107.95,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C4691,Shopping
+T404739,5,Salem,2025-05-09,7068.06,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6926,Education Fees
+T404740,5,Salem,2025-05-09,18669.69,FAILED,DEPOSIT,Seelanaickenpatti Branch,C5754,Education Fees
+T404741,5,Salem,2025-05-09,15801.28,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C1767,Travel
+T404742,5,Salem,2025-05-09,22175.72,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C1426,Shopping
+T404743,5,Salem,2025-05-09,8134.55,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C5654,Shopping
+T404744,5,Salem,2025-05-09,80750.57,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C5640,Shopping
+T404745,5,Salem,2025-05-09,41629.36,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C7178,Others
+T404746,5,Salem,2025-05-09,25851.78,FAILED,DEPOSIT,Seelanaickenpatti Branch,C8528,Travel
+T404747,5,Salem,2025-05-09,69891.45,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C1917,Bill Payment
+T404748,5,Salem,2025-05-09,39373.16,FAILED,TRANSFER,Seelanaickenpatti Branch,C2799,Bill Payment
+T404749,5,Salem,2025-05-09,1447.35,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C5256,Education Fees
+T404750,5,Salem,2025-05-09,52346.24,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C4384,Shopping
+T404751,5,Salem,2025-05-09,15023.37,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C7241,Loan Payment
+T404752,5,Salem,2025-05-09,85320.16,FAILED,DEPOSIT,Seelanaickenpatti Branch,C8110,Shopping
+T404753,5,Salem,2025-05-09,79808.43,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C5758,Bill Payment
+T404754,5,Salem,2025-05-09,60849.69,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C1533,Loan Payment
+T404755,5,Salem,2025-05-09,96726.06,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6911,Travel
+T404756,5,Salem,2025-05-09,41107.79,FAILED,TRANSFER,Seelanaickenpatti Branch,C6215,Travel
+T404757,5,Salem,2025-05-09,92693.98,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C9343,Medical Expenses
+T404758,5,Salem,2025-05-09,13545.76,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C8474,Loan Payment
+T404759,5,Salem,2025-05-09,68300.92,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C5677,Others
+T404760,5,Salem,2025-05-09,79121.24,FAILED,DEPOSIT,Seelanaickenpatti Branch,C3117,Others
+T404761,5,Salem,2025-05-09,5141.49,FAILED,DEPOSIT,Seelanaickenpatti Branch,C2580,Others
+T404762,5,Salem,2025-05-09,98092.41,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6154,Shopping
+T404763,5,Salem,2025-05-09,5303.79,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C2142,Medical Expenses
+T404764,5,Salem,2025-05-09,26403.8,FAILED,DEPOSIT,Seelanaickenpatti Branch,C4489,Medical Expenses
+T404765,5,Salem,2025-05-09,27610.99,FAILED,TRANSFER,Seelanaickenpatti Branch,C4665,Bill Payment
+T404766,5,Salem,2025-05-09,12603.93,FAILED,DEPOSIT,Seelanaickenpatti Branch,C5172,Others
+T404767,5,Salem,2025-05-09,8383.3,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C5910,Loan Payment
+T404768,5,Salem,2025-05-09,59112.64,FAILED,TRANSFER,Seelanaickenpatti Branch,C1381,Education Fees
+T404769,5,Salem,2025-05-09,75922.88,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C1486,Others
+T404770,5,Salem,2025-05-09,98388.25,FAILED,TRANSFER,Seelanaickenpatti Branch,C3024,Loan Payment
+T404771,5,Salem,2025-05-09,28869.92,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C2687,Education Fees
+T404772,5,Salem,2025-05-09,4620.03,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C4719,Medical Expenses
+T404773,5,Salem,2025-05-09,83981.58,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C8865,Loan Payment
+T404774,5,Salem,2025-05-09,61965.99,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7656,Education Fees
+T404775,5,Salem,2025-05-09,30157.83,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2235,Medical Expenses
+T404776,5,Salem,2025-05-09,37184.78,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C4850,Education Fees
+T404777,5,Salem,2025-05-09,55793.71,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C8820,Medical Expenses
+T404778,5,Salem,2025-05-09,52140.73,FAILED,DEPOSIT,Seelanaickenpatti Branch,C1595,Shopping
+T404779,5,Salem,2025-05-09,97997.35,FAILED,DEPOSIT,Seelanaickenpatti Branch,C7832,Medical Expenses
+T404780,5,Salem,2025-05-09,16420.27,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C9864,Education Fees
+T404781,5,Salem,2025-05-09,3623.97,FAILED,TRANSFER,Seelanaickenpatti Branch,C2890,Shopping
+T404782,5,Salem,2025-05-09,44612.2,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C9882,Bill Payment
+T404783,5,Salem,2025-05-09,45916.51,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2663,Loan Payment
+T404784,5,Salem,2025-05-09,41128.75,FAILED,TRANSFER,Seelanaickenpatti Branch,C2608,Loan Payment
+T404785,5,Salem,2025-05-09,85277.03,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C6261,Bill Payment
+T404786,5,Salem,2025-05-09,77230.28,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C4222,Travel
+T404787,5,Salem,2025-05-09,20296.68,FAILED,TRANSFER,Seelanaickenpatti Branch,C2687,Bill Payment
+T404788,5,Salem,2025-05-09,50526.93,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C9995,Shopping
+T404789,5,Salem,2025-05-09,57845.84,FAILED,DEPOSIT,Seelanaickenpatti Branch,C7849,Travel
+T404790,5,Salem,2025-05-09,43784.45,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C3901,Education Fees
+T404791,5,Salem,2025-05-09,19122.81,FAILED,DEPOSIT,Seelanaickenpatti Branch,C2268,Education Fees
+T404792,5,Salem,2025-05-09,11368.76,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C4167,Education Fees
+T404793,5,Salem,2025-05-09,84455.34,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C1006,Shopping
+T404794,5,Salem,2025-05-09,20821.24,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7193,Loan Payment
+T404795,5,Salem,2025-05-09,81140.74,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C3830,Shopping
+T404796,5,Salem,2025-05-09,25078.8,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6896,Loan Payment
+T404797,5,Salem,2025-05-09,16820.33,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6480,Bill Payment
+T404798,5,Salem,2025-05-09,20827.46,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C1008,Travel
+T404799,5,Salem,2025-05-09,3236.23,FAILED,TRANSFER,Seelanaickenpatti Branch,C6505,Shopping
+T404800,5,Salem,2025-05-09,41050.37,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C3258,Education Fees
+T404801,5,Salem,2025-05-09,43052.47,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C9561,Medical Expenses
+T404802,5,Salem,2025-05-09,15542.75,FAILED,TRANSFER,Seelanaickenpatti Branch,C5782,Loan Payment
+T404803,5,Salem,2025-05-09,56650.21,FAILED,TRANSFER,Seelanaickenpatti Branch,C8507,Loan Payment
+T404804,5,Salem,2025-05-09,93931.42,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C1009,Travel
+T404805,5,Salem,2025-05-09,66771.66,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6783,Shopping
+T404806,5,Salem,2025-05-09,46756.77,FAILED,TRANSFER,Seelanaickenpatti Branch,C2048,Others
+T404807,5,Salem,2025-05-09,44595.5,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7761,Bill Payment
+T404808,5,Salem,2025-05-09,39171.96,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6871,Education Fees
+T404809,5,Salem,2025-05-09,92127.16,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C3930,Shopping
+T404810,5,Salem,2025-05-09,85043.32,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C1957,Medical Expenses
+T404811,5,Salem,2025-05-09,8892.9,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C3355,Shopping
+T404812,5,Salem,2025-05-09,90647.47,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C8546,Travel
+T404813,5,Salem,2025-05-09,58895.01,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C5796,Education Fees
+T404814,5,Salem,2025-05-09,26869.06,FAILED,DEPOSIT,Seelanaickenpatti Branch,C4302,Education Fees
+T404815,5,Salem,2025-05-09,31295.83,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C3039,Education Fees
+T404816,5,Salem,2025-05-09,80287.55,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C3141,Travel
+T404817,5,Salem,2025-05-09,23296.95,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C1137,Bill Payment
+T404818,5,Salem,2025-05-09,58892.36,FAILED,DEPOSIT,Seelanaickenpatti Branch,C3584,Bill Payment
+T404819,5,Salem,2025-05-09,23931.46,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C7377,Travel
+T404820,5,Salem,2025-05-09,90640.74,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C1830,Medical Expenses
+T404821,5,Salem,2025-05-09,12390.65,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C8220,Shopping
+T404822,5,Salem,2025-05-09,27685.33,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C1012,Others
+T404823,5,Salem,2025-05-09,90098.12,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C7521,Shopping
+T404824,5,Salem,2025-05-09,54575.79,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7207,Bill Payment
+T404825,5,Salem,2025-05-09,86567.55,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6242,Bill Payment
+T404826,5,Salem,2025-05-09,27410.15,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6761,Shopping
+T404827,5,Salem,2025-05-09,91789.05,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C4003,Travel
+T404828,5,Salem,2025-05-09,45762.25,FAILED,TRANSFER,Seelanaickenpatti Branch,C4575,Shopping
+T404829,5,Salem,2025-05-08,4935.59,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C3170,Medical Expenses
+T404830,5,Salem,2025-05-08,65413.62,FAILED,TRANSFER,Seelanaickenpatti Branch,C9105,Medical Expenses
+T404831,5,Salem,2025-05-08,34858.89,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C1589,Loan Payment
+T404832,5,Salem,2025-05-08,47282.6,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C9363,Education Fees
+T404833,5,Salem,2025-05-08,88547.14,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C2209,Education Fees
+T404834,5,Salem,2025-05-08,18184.35,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C1392,Medical Expenses
+T404835,5,Salem,2025-05-08,7121.75,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C8049,Bill Payment
+T404836,5,Salem,2025-05-08,85185.19,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C3013,Travel
+T404837,5,Salem,2025-05-08,8889.18,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C6922,Others
+T404838,5,Salem,2025-05-08,53774.23,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C4320,Bill Payment
+T404839,5,Salem,2025-05-08,50720.73,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C6989,Medical Expenses
+T404840,5,Salem,2025-05-08,45149.53,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C5213,Travel
+T404841,5,Salem,2025-05-08,80641.17,FAILED,DEPOSIT,Seelanaickenpatti Branch,C1275,Shopping
+T404842,5,Salem,2025-05-08,49244.6,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C4845,Loan Payment
+T404843,5,Salem,2025-05-08,47016.13,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C5584,Education Fees
+T404844,5,Salem,2025-05-08,61718.79,FAILED,DEPOSIT,Seelanaickenpatti Branch,C4590,Loan Payment
+T404845,5,Salem,2025-05-08,78771.5,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C7405,Education Fees
+T404846,5,Salem,2025-05-08,15554.32,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C7267,Education Fees
+T404847,5,Salem,2025-05-08,63431.24,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6749,Shopping
+T404848,5,Salem,2025-05-08,40236.82,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C5190,Others
+T404849,5,Salem,2025-05-08,97886.23,FAILED,DEPOSIT,Seelanaickenpatti Branch,C1057,Shopping
+T404850,5,Salem,2025-05-08,25919.34,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C4241,Loan Payment
+T404851,5,Salem,2025-05-08,30382.01,FAILED,DEPOSIT,Seelanaickenpatti Branch,C8628,Medical Expenses
+T404852,5,Salem,2025-05-08,72028.54,FAILED,DEPOSIT,Seelanaickenpatti Branch,C5953,Travel
+T404853,5,Salem,2025-05-08,96553.43,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C8191,Education Fees
+T404854,5,Salem,2025-05-08,66663.37,FAILED,TRANSFER,Seelanaickenpatti Branch,C8491,Travel
+T404855,5,Salem,2025-05-08,63884.67,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7760,Others
+T404856,5,Salem,2025-05-08,75301.81,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C2096,Shopping
+T404857,5,Salem,2025-05-08,80230.16,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C6490,Others
+T404858,5,Salem,2025-05-08,50221.92,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C1449,Shopping
+T404859,5,Salem,2025-05-08,66917.66,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C2273,Others
+T404860,5,Salem,2025-05-08,27129.42,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C6407,Medical Expenses
+T404861,5,Salem,2025-05-08,36579.77,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2993,Travel
+T404862,5,Salem,2025-05-08,85940.8,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C6997,Shopping
+T404863,5,Salem,2025-05-08,22117.84,FAILED,DEPOSIT,Seelanaickenpatti Branch,C1464,Shopping
+T404864,5,Salem,2025-05-08,35109.51,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C6732,Medical Expenses
+T404865,5,Salem,2025-05-08,21696.76,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2314,Education Fees
+T404866,5,Salem,2025-05-08,21469.1,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C4442,Bill Payment
+T404867,5,Salem,2025-05-08,13058.72,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C2001,Bill Payment
+T404868,5,Salem,2025-05-08,47881.62,FAILED,TRANSFER,Seelanaickenpatti Branch,C6747,Education Fees
+T404869,5,Salem,2025-05-08,90875.51,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C8657,Travel
+T404870,5,Salem,2025-05-08,72777.44,FAILED,DEPOSIT,Seelanaickenpatti Branch,C2297,Education Fees
+T404871,5,Salem,2025-05-08,27980.45,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C9606,Bill Payment
+T404872,5,Salem,2025-05-08,65927.45,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C3592,Travel
+T404873,5,Salem,2025-05-08,79899.32,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C3570,Travel
+T404874,5,Salem,2025-05-08,1602.88,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C4276,Loan Payment
+T404875,5,Salem,2025-05-08,91766.68,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C9599,Medical Expenses
+T404876,5,Salem,2025-05-08,35508.31,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7491,Others
+T404877,5,Salem,2025-05-08,49283.59,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C5685,Others
+T404878,5,Salem,2025-05-08,41468.65,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C2537,Loan Payment
+T404879,5,Salem,2025-05-08,89664.48,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C5288,Travel
+T404880,5,Salem,2025-05-08,59504.38,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2864,Shopping
+T404881,5,Salem,2025-05-08,56888.18,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C7967,Medical Expenses
+T404882,5,Salem,2025-05-08,90838.07,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C4880,Loan Payment
+T404883,5,Salem,2025-05-08,90515.25,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6501,Medical Expenses
+T404884,5,Salem,2025-05-08,15467.66,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C3965,Education Fees
+T404885,5,Salem,2025-05-08,29477.74,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C2019,Shopping
+T404886,5,Salem,2025-05-08,80682.15,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C2345,Travel
+T404887,5,Salem,2025-05-08,8908.96,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C9422,Travel
+T404888,5,Salem,2025-05-08,21214.02,FAILED,TRANSFER,Seelanaickenpatti Branch,C6231,Others
+T404889,5,Salem,2025-05-08,3162.54,FAILED,TRANSFER,Seelanaickenpatti Branch,C6811,Education Fees
+T404890,5,Salem,2025-05-08,29634.81,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C8540,Travel
+T404891,5,Salem,2025-05-08,77259.1,FAILED,DEPOSIT,Seelanaickenpatti Branch,C6961,Education Fees
+T404892,5,Salem,2025-05-08,27056.45,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C9592,Loan Payment
+T404893,5,Salem,2025-05-08,75264.91,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C1510,Shopping
+T404894,5,Salem,2025-05-08,91753.56,FAILED,DEPOSIT,Seelanaickenpatti Branch,C9149,Bill Payment
+T404895,5,Salem,2025-05-08,59006.46,FAILED,DEPOSIT,Seelanaickenpatti Branch,C8410,Travel
+T404896,5,Salem,2025-05-08,80364.14,FAILED,TRANSFER,Seelanaickenpatti Branch,C8226,Others
+T404897,5,Salem,2025-05-08,18195.7,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C1726,Travel
+T404898,5,Salem,2025-05-08,66263.02,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C3468,Medical Expenses
+T404899,5,Salem,2025-05-08,13678.88,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6079,Others
+T404900,5,Salem,2025-05-08,51479.21,FAILED,TRANSFER,Seelanaickenpatti Branch,C6864,Others
+T404901,5,Salem,2025-05-08,89716.39,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C7570,Others
+T404902,5,Salem,2025-05-08,53227.85,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C2542,Shopping
+T404903,5,Salem,2025-05-08,35953.28,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C5108,Others
+T404904,5,Salem,2025-05-08,66670.52,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C8742,Bill Payment
+T404905,5,Salem,2025-05-08,54916.75,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C7946,Travel
+T404906,5,Salem,2025-05-08,37875.52,FAILED,TRANSFER,Seelanaickenpatti Branch,C7306,Travel
+T404907,5,Salem,2025-05-08,78159.97,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C4942,Shopping
+T404908,5,Salem,2025-05-08,64310.61,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C9343,Shopping
+T404909,5,Salem,2025-05-08,56019.25,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C8002,Medical Expenses
+T404910,5,Salem,2025-05-08,32411.53,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C7180,Travel
+T404911,5,Salem,2025-05-08,19548.97,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C8208,Travel
+T404912,5,Salem,2025-05-08,8753.4,FAILED,DEPOSIT,Seelanaickenpatti Branch,C2834,Education Fees
+T404913,5,Salem,2025-05-08,71032.87,FAILED,DEPOSIT,Seelanaickenpatti Branch,C1619,Others
+T404914,5,Salem,2025-05-08,44815.29,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2569,Travel
+T404915,5,Salem,2025-05-08,99926.28,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6812,Shopping
+T404916,5,Salem,2025-05-08,30297.65,FAILED,TRANSFER,Seelanaickenpatti Branch,C3411,Bill Payment
+T404917,5,Salem,2025-05-08,21412.99,FAILED,DEPOSIT,Seelanaickenpatti Branch,C6718,Shopping
+T404918,5,Salem,2025-05-08,88284.43,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2548,Education Fees
+T404919,5,Salem,2025-05-08,56463.93,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C3559,Bill Payment
+T404920,5,Salem,2025-05-08,82137.11,FAILED,DEPOSIT,Seelanaickenpatti Branch,C6402,Bill Payment
+T404921,5,Salem,2025-05-08,30150.32,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C2139,Bill Payment
+T404922,5,Salem,2025-05-08,88177.28,FAILED,DEPOSIT,Seelanaickenpatti Branch,C6336,Others
+T404923,5,Salem,2025-05-08,25686.79,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6773,Loan Payment
+T404924,5,Salem,2025-05-08,95467.82,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C9794,Others
+T404925,5,Salem,2025-05-07,9849.15,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C9687,Education Fees
+T404926,5,Salem,2025-05-07,46400.62,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C3519,Others
+T404927,5,Salem,2025-05-07,26227.36,FAILED,TRANSFER,Seelanaickenpatti Branch,C4244,Loan Payment
+T404928,5,Salem,2025-05-07,32713.57,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C3026,Education Fees
+T404929,5,Salem,2025-05-07,60757.14,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2894,Loan Payment
+T404930,5,Salem,2025-05-07,38969.75,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C9166,Travel
+T404931,5,Salem,2025-05-07,86215.16,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C6049,Shopping
+T404932,5,Salem,2025-05-07,17611.73,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C8672,Medical Expenses
+T404933,5,Salem,2025-05-07,9196.96,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C9705,Travel
+T404934,5,Salem,2025-05-07,99869.47,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C3894,Bill Payment
+T404935,5,Salem,2025-05-07,77597.66,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C9445,Medical Expenses
+T404936,5,Salem,2025-05-07,96485.24,FAILED,TRANSFER,Seelanaickenpatti Branch,C8219,Education Fees
+T404937,5,Salem,2025-05-07,67434.18,FAILED,TRANSFER,Seelanaickenpatti Branch,C1935,Loan Payment
+T404938,5,Salem,2025-05-07,12454.05,FAILED,DEPOSIT,Seelanaickenpatti Branch,C5840,Education Fees
+T404939,5,Salem,2025-05-07,70789.13,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C5014,Loan Payment
+T404940,5,Salem,2025-05-07,29382.96,FAILED,TRANSFER,Seelanaickenpatti Branch,C7374,Others
+T404941,5,Salem,2025-05-07,90642.24,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C2288,Bill Payment
+T404942,5,Salem,2025-05-07,398.3,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7051,Education Fees
+T404943,5,Salem,2025-05-07,73243.92,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C4899,Loan Payment
+T404944,5,Salem,2025-05-07,72851.47,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C6827,Shopping
+T404945,5,Salem,2025-05-07,66553.14,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C7875,Education Fees
+T404946,5,Salem,2025-05-07,26704.76,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C5927,Medical Expenses
+T404947,5,Salem,2025-05-07,15086.63,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C4465,Loan Payment
+T404948,5,Salem,2025-05-07,42788.16,FAILED,TRANSFER,Seelanaickenpatti Branch,C9393,Travel
+T404949,5,Salem,2025-05-07,75039.78,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C8442,Shopping
+T404950,5,Salem,2025-05-07,21622.07,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6465,Shopping
+T404951,5,Salem,2025-05-07,62094.82,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C8767,Medical Expenses
+T404952,5,Salem,2025-05-07,26564.58,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C8663,Loan Payment
+T404953,5,Salem,2025-05-07,64481.16,FAILED,DEPOSIT,Seelanaickenpatti Branch,C1478,Education Fees
+T404954,5,Salem,2025-05-07,23067.67,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C5800,Shopping
+T404955,5,Salem,2025-05-07,46228.76,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C7251,Bill Payment
+T404956,5,Salem,2025-05-07,28891.56,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C6250,Loan Payment
+T404957,5,Salem,2025-05-07,84768.41,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C7917,Education Fees
+T404958,5,Salem,2025-05-07,70530.63,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C7668,Bill Payment
+T404959,5,Salem,2025-05-07,32145.9,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C6468,Loan Payment
+T404960,5,Salem,2025-05-07,5253.66,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C7175,Shopping
+T404961,5,Salem,2025-05-07,35404.22,FAILED,DEPOSIT,Seelanaickenpatti Branch,C5324,Loan Payment
+T404962,5,Salem,2025-05-07,40524.99,FAILED,DEPOSIT,Seelanaickenpatti Branch,C7629,Bill Payment
+T404963,5,Salem,2025-05-07,39786.59,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C5069,Shopping
+T404964,5,Salem,2025-05-07,59040.09,FAILED,TRANSFER,Seelanaickenpatti Branch,C7913,Shopping
+T404965,5,Salem,2025-05-07,67095.65,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C1937,Loan Payment
+T404966,5,Salem,2025-05-07,71487.78,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C4714,Bill Payment
+T404967,5,Salem,2025-05-07,13154.48,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C9996,Travel
+T404968,5,Salem,2025-05-07,82828.89,FAILED,TRANSFER,Seelanaickenpatti Branch,C7494,Others
+T404969,5,Salem,2025-05-07,93120.39,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C9435,Others
+T404970,5,Salem,2025-05-07,72786.03,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C5412,Shopping
+T404971,5,Salem,2025-05-07,18957.15,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C7398,Bill Payment
+T404972,5,Salem,2025-05-07,93427.24,FAILED,DEPOSIT,Seelanaickenpatti Branch,C9072,Shopping
+T404973,5,Salem,2025-05-07,18077.74,FAILED,TRANSFER,Seelanaickenpatti Branch,C8380,Travel
+T404974,5,Salem,2025-05-07,1627.92,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C7988,Others
+T404975,5,Salem,2025-05-07,43851.68,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C3263,Bill Payment
+T404976,5,Salem,2025-05-07,30690.84,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6179,Education Fees
+T404977,5,Salem,2025-05-07,36661.19,FAILED,DEPOSIT,Seelanaickenpatti Branch,C7500,Loan Payment
+T404978,5,Salem,2025-05-07,46946.42,FAILED,TRANSFER,Seelanaickenpatti Branch,C8324,Bill Payment
+T404979,5,Salem,2025-05-07,53085.32,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C3256,Bill Payment
+T404980,5,Salem,2025-05-07,66310.14,FAILED,TRANSFER,Seelanaickenpatti Branch,C9645,Travel
+T404981,5,Salem,2025-05-07,88419.94,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C7119,Loan Payment
+T404982,5,Salem,2025-05-07,12610.71,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C5635,Medical Expenses
+T404983,5,Salem,2025-05-07,9594.37,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C1557,Medical Expenses
+T404984,5,Salem,2025-05-07,76752.38,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C1846,Bill Payment
+T404985,5,Salem,2025-05-07,24258.55,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6652,Education Fees
+T404986,5,Salem,2025-05-07,13645.74,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C3613,Loan Payment
+T404987,5,Salem,2025-05-07,60782.44,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C9911,Medical Expenses
+T404988,5,Salem,2025-05-07,34663.26,FAILED,TRANSFER,Seelanaickenpatti Branch,C5124,Medical Expenses
+T404989,5,Salem,2025-05-07,38670.1,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C9040,Bill Payment
+T404990,5,Salem,2025-05-07,62776.19,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C1747,Bill Payment
+T404991,5,Salem,2025-05-07,32991.69,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C9196,Education Fees
+T404992,5,Salem,2025-05-07,94046.8,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C8553,Shopping
+T404993,5,Salem,2025-05-07,34265.09,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C4411,Bill Payment
+T404994,5,Salem,2025-05-07,85165.16,FAILED,DEPOSIT,Seelanaickenpatti Branch,C2793,Travel
+T404995,5,Salem,2025-05-07,32831.23,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C4470,Loan Payment
+T404996,5,Salem,2025-05-07,28161.9,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C6151,Bill Payment
+T404997,5,Salem,2025-05-07,87615.22,FAILED,DEPOSIT,Seelanaickenpatti Branch,C5577,Bill Payment
+T404998,5,Salem,2025-05-07,48036.19,FAILED,TRANSFER,Seelanaickenpatti Branch,C5712,Travel
+T404999,5,Salem,2025-05-07,1165.37,FAILED,TRANSFER,Seelanaickenpatti Branch,C3179,Shopping
+T405000,5,Salem,2025-05-07,61391.05,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C4142,Travel
+T405001,5,Salem,2025-05-07,46506.78,FAILED,DEPOSIT,Seelanaickenpatti Branch,C5892,Loan Payment
+T405002,5,Salem,2025-05-07,18774.71,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C6646,Shopping
+T405003,5,Salem,2025-05-07,78645.8,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C1322,Medical Expenses
+T405004,5,Salem,2025-05-07,57132.14,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C6141,Travel
+T405005,5,Salem,2025-05-07,79903.36,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C3531,Bill Payment
+T405006,5,Salem,2025-05-07,82914.45,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C5950,Loan Payment
+T405007,5,Salem,2025-05-07,72121.88,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C5289,Travel
+T405008,5,Salem,2025-05-07,30859.21,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C1658,Bill Payment
+T405009,5,Salem,2025-05-06,69991.41,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C3881,Medical Expenses
+T405010,5,Salem,2025-05-06,84104.51,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C4508,Loan Payment
+T405011,5,Salem,2025-05-06,75431.6,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C1189,Education Fees
+T405012,5,Salem,2025-05-06,78154.63,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C8148,Bill Payment
+T405013,5,Salem,2025-05-06,61329.05,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C8629,Medical Expenses
+T405014,5,Salem,2025-05-06,59942.11,FAILED,TRANSFER,Seelanaickenpatti Branch,C2648,Medical Expenses
+T405015,5,Salem,2025-05-06,30505.68,FAILED,DEPOSIT,Seelanaickenpatti Branch,C9837,Education Fees
+T405016,5,Salem,2025-05-06,11256.74,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C1244,Medical Expenses
+T405017,5,Salem,2025-05-06,58706.06,FAILED,TRANSFER,Seelanaickenpatti Branch,C9086,Shopping
+T405018,5,Salem,2025-05-06,86845.87,FAILED,DEPOSIT,Seelanaickenpatti Branch,C3850,Education Fees
+T405019,5,Salem,2025-05-06,25046.05,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C8848,Bill Payment
+T405020,5,Salem,2025-05-06,74573.85,FAILED,TRANSFER,Seelanaickenpatti Branch,C5619,Others
+T405021,5,Salem,2025-05-06,93513.29,FAILED,TRANSFER,Seelanaickenpatti Branch,C2104,Others
+T405022,5,Salem,2025-05-06,28744.25,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C3903,Others
+T405023,5,Salem,2025-05-06,43345.15,FAILED,TRANSFER,Seelanaickenpatti Branch,C7960,Education Fees
+T405024,5,Salem,2025-05-06,43653.2,FAILED,DEPOSIT,Seelanaickenpatti Branch,C3382,Others
+T405025,5,Salem,2025-05-06,52727.32,FAILED,DEPOSIT,Seelanaickenpatti Branch,C2997,Loan Payment
+T405026,5,Salem,2025-05-06,56676.38,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C1519,Travel
+T405027,5,Salem,2025-05-06,46462.65,FAILED,TRANSFER,Seelanaickenpatti Branch,C9682,Travel
+T405028,5,Salem,2025-05-06,6966.67,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C6939,Education Fees
+T405029,5,Salem,2025-05-06,85381.74,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C4796,Shopping
+T405030,5,Salem,2025-05-06,45933.2,FAILED,TRANSFER,Seelanaickenpatti Branch,C1232,Bill Payment
+T405031,5,Salem,2025-05-06,27359.07,FAILED,DEPOSIT,Seelanaickenpatti Branch,C8465,Medical Expenses
+T405032,5,Salem,2025-05-06,68192.82,FAILED,TRANSFER,Seelanaickenpatti Branch,C9401,Others
+T405033,5,Salem,2025-05-06,36658.96,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C4866,Others
+T405034,5,Salem,2025-05-06,68380.09,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C5567,Education Fees
+T405035,5,Salem,2025-05-06,87306.35,FAILED,DEPOSIT,Seelanaickenpatti Branch,C5407,Others
+T405036,5,Salem,2025-05-06,9316.59,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C9543,Education Fees
+T405037,5,Salem,2025-05-06,49697.95,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C4580,Travel
+T405038,5,Salem,2025-05-06,31677.59,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C7893,Travel
+T405039,5,Salem,2025-05-06,20498.29,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C8003,Bill Payment
+T405040,5,Salem,2025-05-06,81863.02,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C5874,Loan Payment
+T405041,5,Salem,2025-05-06,85594.52,FAILED,DEPOSIT,Seelanaickenpatti Branch,C7505,Others
+T405042,5,Salem,2025-05-06,75431.63,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6157,Shopping
+T405043,5,Salem,2025-05-06,70974.54,FAILED,TRANSFER,Seelanaickenpatti Branch,C4979,Education Fees
+T405044,5,Salem,2025-05-06,89752.12,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7971,Others
+T405045,5,Salem,2025-05-06,18112.29,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C2231,Travel
+T405046,5,Salem,2025-05-06,7965.51,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C9026,Travel
+T405047,5,Salem,2025-05-06,61854.06,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2051,Travel
+T405048,5,Salem,2025-05-06,89266.09,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C5689,Medical Expenses
+T405049,5,Salem,2025-05-06,81339.43,FAILED,DEPOSIT,Seelanaickenpatti Branch,C2981,Shopping
+T405050,5,Salem,2025-05-06,33134.27,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C9455,Medical Expenses
+T405051,5,Salem,2025-05-06,66284.67,FAILED,TRANSFER,Seelanaickenpatti Branch,C2755,Shopping
+T405052,5,Salem,2025-05-06,94625.5,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C7491,Education Fees
+T405053,5,Salem,2025-05-06,22980.14,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C7914,Bill Payment
+T405054,5,Salem,2025-05-06,34710.07,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C3166,Shopping
+T405055,5,Salem,2025-05-06,83977.53,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C4159,Others
+T405056,5,Salem,2025-05-06,95769.65,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C2590,Bill Payment
+T405057,5,Salem,2025-05-06,77813.14,FAILED,TRANSFER,Seelanaickenpatti Branch,C7359,Medical Expenses
+T405058,5,Salem,2025-05-06,64545.2,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C1368,Bill Payment
+T405059,5,Salem,2025-05-06,24173.46,FAILED,DEPOSIT,Seelanaickenpatti Branch,C5441,Shopping
+T405060,5,Salem,2025-05-06,11365.62,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C2856,Others
+T405061,5,Salem,2025-05-06,56022.37,FAILED,DEPOSIT,Seelanaickenpatti Branch,C8968,Medical Expenses
+T405062,5,Salem,2025-05-06,76420.47,FAILED,DEPOSIT,Seelanaickenpatti Branch,C6471,Education Fees
+T405063,5,Salem,2025-05-06,18040.24,FAILED,TRANSFER,Seelanaickenpatti Branch,C4051,Travel
+T405064,5,Salem,2025-05-06,85329.74,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C7321,Bill Payment
+T405065,5,Salem,2025-05-06,40386.17,FAILED,TRANSFER,Seelanaickenpatti Branch,C9142,Shopping
+T405066,5,Salem,2025-05-06,64686.63,FAILED,DEPOSIT,Seelanaickenpatti Branch,C8532,Medical Expenses
+T405067,5,Salem,2025-05-06,4621.0,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C5572,Shopping
+T405068,5,Salem,2025-05-06,70201.16,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C1604,Shopping
+T405069,5,Salem,2025-05-05,27134.82,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C3313,Shopping
+T405070,5,Salem,2025-05-05,99965.79,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C4410,Others
+T405071,5,Salem,2025-05-05,39986.77,FAILED,TRANSFER,Seelanaickenpatti Branch,C2235,Loan Payment
+T405072,5,Salem,2025-05-05,10704.74,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7996,Travel
+T405073,5,Salem,2025-05-05,68486.17,FAILED,TRANSFER,Seelanaickenpatti Branch,C9762,Education Fees
+T405074,5,Salem,2025-05-05,34250.11,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C2142,Medical Expenses
+T405075,5,Salem,2025-05-05,56851.69,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2274,Medical Expenses
+T405076,5,Salem,2025-05-05,46127.71,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6564,Loan Payment
+T405077,5,Salem,2025-05-05,86644.59,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C7225,Education Fees
+T405078,5,Salem,2025-05-05,23586.96,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6911,Others
+T405079,5,Salem,2025-05-05,4469.98,FAILED,TRANSFER,Seelanaickenpatti Branch,C2033,Education Fees
+T405080,5,Salem,2025-05-05,50176.7,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6635,Bill Payment
+T405081,5,Salem,2025-05-05,14898.91,FAILED,TRANSFER,Seelanaickenpatti Branch,C4910,Loan Payment
+T405082,5,Salem,2025-05-05,80706.75,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2889,Bill Payment
+T405083,5,Salem,2025-05-05,36557.28,FAILED,TRANSFER,Seelanaickenpatti Branch,C5201,Others
+T405084,5,Salem,2025-05-05,5992.19,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C4738,Medical Expenses
+T405085,5,Salem,2025-05-05,93113.74,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C5243,Education Fees
+T405086,5,Salem,2025-05-05,99524.17,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C2470,Education Fees
+T405087,5,Salem,2025-05-05,20078.45,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C9078,Others
+T405088,5,Salem,2025-05-05,41809.57,FAILED,TRANSFER,Seelanaickenpatti Branch,C3880,Education Fees
+T405089,5,Salem,2025-05-05,94408.52,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C4482,Medical Expenses
+T405090,5,Salem,2025-05-05,83210.68,FAILED,DEPOSIT,Seelanaickenpatti Branch,C5036,Travel
+T405091,5,Salem,2025-05-05,14927.51,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C7461,Medical Expenses
+T405092,5,Salem,2025-05-05,78067.66,FAILED,DEPOSIT,Seelanaickenpatti Branch,C3743,Education Fees
+T405093,5,Salem,2025-05-05,93248.08,FAILED,TRANSFER,Seelanaickenpatti Branch,C9631,Medical Expenses
+T405094,5,Salem,2025-05-05,67685.17,FAILED,DEPOSIT,Seelanaickenpatti Branch,C3703,Bill Payment
+T405095,5,Salem,2025-05-05,47690.57,FAILED,TRANSFER,Seelanaickenpatti Branch,C5713,Shopping
+T405096,5,Salem,2025-05-05,15819.63,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C5510,Shopping
+T405097,5,Salem,2025-05-05,70820.97,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C6760,Education Fees
+T405098,5,Salem,2025-05-05,70476.55,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C7471,Loan Payment
+T405099,5,Salem,2025-05-05,52166.6,FAILED,TRANSFER,Seelanaickenpatti Branch,C5298,Education Fees
+T405100,5,Salem,2025-05-05,23710.91,FAILED,DEPOSIT,Seelanaickenpatti Branch,C6088,Bill Payment
+T405101,5,Salem,2025-05-05,68897.8,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C7521,Loan Payment
+T405102,5,Salem,2025-05-05,35593.06,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6282,Travel
+T405103,5,Salem,2025-05-05,17330.93,FAILED,DEPOSIT,Seelanaickenpatti Branch,C5378,Bill Payment
+T405104,5,Salem,2025-05-05,19287.68,FAILED,TRANSFER,Seelanaickenpatti Branch,C1528,Others
+T405105,5,Salem,2025-05-05,5814.53,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C4610,Loan Payment
+T405106,5,Salem,2025-05-05,98573.28,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C2819,Others
+T405107,5,Salem,2025-05-05,7328.26,FAILED,TRANSFER,Seelanaickenpatti Branch,C5956,Education Fees
+T405108,5,Salem,2025-05-05,33152.58,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7484,Shopping
+T405109,5,Salem,2025-05-05,88151.96,FAILED,TRANSFER,Seelanaickenpatti Branch,C3201,Medical Expenses
+T405110,5,Salem,2025-05-05,80676.46,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C4559,Education Fees
+T405111,5,Salem,2025-05-05,97202.02,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6571,Medical Expenses
+T405112,5,Salem,2025-05-05,12292.83,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C3767,Loan Payment
+T405113,5,Salem,2025-05-05,4074.09,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C1275,Others
+T405114,5,Salem,2025-05-05,51058.14,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C8246,Shopping
+T405115,5,Salem,2025-05-05,57597.19,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C9388,Medical Expenses
+T405116,5,Salem,2025-05-05,80988.45,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C7647,Shopping
+T405117,5,Salem,2025-05-05,63013.14,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C4027,Medical Expenses
+T405118,5,Salem,2025-05-05,29859.83,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C8068,Loan Payment
+T405119,5,Salem,2025-05-05,86242.38,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C4021,Travel
+T405120,5,Salem,2025-05-05,58516.64,FAILED,TRANSFER,Seelanaickenpatti Branch,C4603,Education Fees
+T405121,5,Salem,2025-05-05,94740.39,FAILED,TRANSFER,Seelanaickenpatti Branch,C9277,Others
+T405122,5,Salem,2025-05-05,76283.97,FAILED,DEPOSIT,Seelanaickenpatti Branch,C8213,Others
+T405123,5,Salem,2025-05-05,12069.51,FAILED,DEPOSIT,Seelanaickenpatti Branch,C9391,Loan Payment
+T405124,5,Salem,2025-05-05,27216.53,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C1306,Others
+T405125,5,Salem,2025-05-05,13840.51,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C9665,Others
+T405126,5,Salem,2025-05-05,8693.44,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6693,Travel
+T405127,5,Salem,2025-05-05,59307.07,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C9923,Loan Payment
+T405128,5,Salem,2025-05-05,25926.19,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7927,Education Fees
+T405129,5,Salem,2025-05-05,89921.85,FAILED,DEPOSIT,Seelanaickenpatti Branch,C4500,Medical Expenses
+T405130,5,Salem,2025-05-05,11711.5,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C8428,Education Fees
+T405131,5,Salem,2025-05-05,54646.3,FAILED,TRANSFER,Seelanaickenpatti Branch,C9446,Education Fees
+T405132,5,Salem,2025-05-05,1984.85,FAILED,DEPOSIT,Seelanaickenpatti Branch,C7864,Shopping
+T405133,5,Salem,2025-05-05,75411.16,FAILED,TRANSFER,Seelanaickenpatti Branch,C1627,Bill Payment
+T405134,5,Salem,2025-05-05,96378.58,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C8408,Others
+T405135,5,Salem,2025-05-05,72726.32,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C2074,Others
+T405136,5,Salem,2025-05-05,89780.37,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6230,Loan Payment
+T405137,5,Salem,2025-05-05,42044.1,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C2886,Travel
+T405138,5,Salem,2025-05-05,94084.62,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C5457,Others
+T405139,5,Salem,2025-05-05,29443.5,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C3489,Medical Expenses
+T405140,5,Salem,2025-05-05,38582.94,FAILED,TRANSFER,Seelanaickenpatti Branch,C3647,Shopping
+T405141,5,Salem,2025-05-05,60717.36,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C5969,Bill Payment
+T405142,5,Salem,2025-05-05,82912.09,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C3539,Loan Payment
+T405143,5,Salem,2025-05-05,82308.75,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C4074,Medical Expenses
+T405144,5,Salem,2025-05-05,10918.05,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C9608,Loan Payment
+T405145,5,Salem,2025-05-05,29368.9,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C2531,Loan Payment
+T405146,5,Salem,2025-05-05,4064.12,FAILED,TRANSFER,Seelanaickenpatti Branch,C3343,Shopping
+T405147,5,Salem,2025-05-05,13304.57,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C1596,Travel
+T405148,5,Salem,2025-05-05,59979.69,FAILED,DEPOSIT,Seelanaickenpatti Branch,C7379,Shopping
+T405149,5,Salem,2025-05-05,60778.73,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C9268,Others
+T405150,5,Salem,2025-05-05,56108.78,FAILED,DEPOSIT,Seelanaickenpatti Branch,C1368,Education Fees
+T405151,5,Salem,2025-05-05,4691.53,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C1667,Loan Payment
+T405152,5,Salem,2025-05-05,52589.79,FAILED,DEPOSIT,Seelanaickenpatti Branch,C2551,Travel
+T405153,5,Salem,2025-05-05,99993.68,FAILED,TRANSFER,Seelanaickenpatti Branch,C4644,Medical Expenses
+T405154,5,Salem,2025-05-05,71639.94,FAILED,TRANSFER,Seelanaickenpatti Branch,C1940,Bill Payment
+T405155,5,Salem,2025-05-05,41201.4,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7209,Education Fees
+T405156,5,Salem,2025-05-05,24994.53,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C5918,Education Fees
+T405157,5,Salem,2025-05-05,71655.09,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6303,Education Fees
+T405158,5,Salem,2025-05-05,89908.91,FAILED,TRANSFER,Seelanaickenpatti Branch,C2727,Shopping
+T405159,5,Salem,2025-05-05,94299.72,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C3528,Travel
+T405160,5,Salem,2025-05-05,28609.32,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C8939,Loan Payment
+T405161,5,Salem,2025-05-05,29499.11,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C1177,Loan Payment
+T405162,5,Salem,2025-05-05,9932.41,FAILED,DEPOSIT,Seelanaickenpatti Branch,C4815,Education Fees
+T405163,5,Salem,2025-05-05,47860.42,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C1940,Medical Expenses
+T405164,5,Salem,2025-05-05,42750.97,FAILED,DEPOSIT,Seelanaickenpatti Branch,C8249,Travel
+T405165,5,Salem,2025-05-04,10416.4,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C8719,Loan Payment
+T405166,5,Salem,2025-05-04,30880.82,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C5500,Travel
+T405167,5,Salem,2025-05-04,57346.61,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C1068,Others
+T405168,5,Salem,2025-05-04,88653.42,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C9170,Loan Payment
+T405169,5,Salem,2025-05-04,81094.06,FAILED,DEPOSIT,Seelanaickenpatti Branch,C8012,Bill Payment
+T405170,5,Salem,2025-05-04,75296.13,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C4823,Bill Payment
+T405171,5,Salem,2025-05-04,59253.68,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C5078,Loan Payment
+T405172,5,Salem,2025-05-04,55374.08,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6030,Loan Payment
+T405173,5,Salem,2025-05-04,74695.37,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C3193,Bill Payment
+T405174,5,Salem,2025-05-04,3658.94,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C7353,Others
+T405175,5,Salem,2025-05-04,9304.6,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C3254,Education Fees
+T405176,5,Salem,2025-05-04,2821.75,FAILED,DEPOSIT,Seelanaickenpatti Branch,C8437,Medical Expenses
+T405177,5,Salem,2025-05-04,55391.86,FAILED,DEPOSIT,Seelanaickenpatti Branch,C7906,Others
+T405178,5,Salem,2025-05-04,8008.25,FAILED,DEPOSIT,Seelanaickenpatti Branch,C5949,Others
+T405179,5,Salem,2025-05-04,90478.48,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C3077,Medical Expenses
+T405180,5,Salem,2025-05-04,87361.8,FAILED,DEPOSIT,Seelanaickenpatti Branch,C2401,Shopping
+T405181,5,Salem,2025-05-04,32521.56,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C2991,Travel
+T405182,5,Salem,2025-05-04,47935.23,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C1444,Others
+T405183,5,Salem,2025-05-04,61866.03,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C8836,Others
+T405184,5,Salem,2025-05-04,80216.11,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6175,Bill Payment
+T405185,5,Salem,2025-05-04,28249.67,FAILED,DEPOSIT,Seelanaickenpatti Branch,C1822,Others
+T405186,5,Salem,2025-05-04,988.7,FAILED,TRANSFER,Seelanaickenpatti Branch,C9775,Shopping
+T405187,5,Salem,2025-05-04,94080.9,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6381,Others
+T405188,5,Salem,2025-05-04,87957.23,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C9827,Medical Expenses
+T405189,5,Salem,2025-05-04,69761.97,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C9640,Loan Payment
+T405190,5,Salem,2025-05-04,96677.8,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C3933,Education Fees
+T405191,5,Salem,2025-05-04,74376.38,FAILED,TRANSFER,Seelanaickenpatti Branch,C8763,Bill Payment
+T405192,5,Salem,2025-05-04,95440.83,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C5709,Medical Expenses
+T405193,5,Salem,2025-05-04,28311.47,FAILED,TRANSFER,Seelanaickenpatti Branch,C8466,Bill Payment
+T405194,5,Salem,2025-05-04,16772.99,FAILED,TRANSFER,Seelanaickenpatti Branch,C5960,Bill Payment
+T405195,5,Salem,2025-05-04,73636.35,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C8725,Shopping
+T405196,5,Salem,2025-05-04,11284.45,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C6785,Travel
+T405197,5,Salem,2025-05-04,85163.89,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C2076,Shopping
+T405198,5,Salem,2025-05-04,13118.59,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C4430,Others
+T405199,5,Salem,2025-05-04,73099.2,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6563,Others
+T405200,5,Salem,2025-05-04,88129.7,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C5641,Others
+T405201,5,Salem,2025-05-04,4457.26,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C3400,Education Fees
+T405202,5,Salem,2025-05-04,39240.78,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C5018,Bill Payment
+T405203,5,Salem,2025-05-04,98744.53,FAILED,DEPOSIT,Seelanaickenpatti Branch,C9623,Bill Payment
+T405204,5,Salem,2025-05-04,89982.57,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C6195,Education Fees
+T405205,5,Salem,2025-05-04,94838.33,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C8560,Others
+T405206,5,Salem,2025-05-04,9767.9,FAILED,TRANSFER,Seelanaickenpatti Branch,C1789,Education Fees
+T405207,5,Salem,2025-05-04,2537.46,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C4525,Education Fees
+T405208,5,Salem,2025-05-04,52112.56,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2270,Medical Expenses
+T405209,5,Salem,2025-05-04,3107.76,FAILED,DEPOSIT,Seelanaickenpatti Branch,C3995,Education Fees
+T405210,5,Salem,2025-05-04,62727.78,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C8148,Bill Payment
+T405211,5,Salem,2025-05-04,31102.63,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C9444,Education Fees
+T405212,5,Salem,2025-05-04,32751.98,FAILED,DEPOSIT,Seelanaickenpatti Branch,C8756,Loan Payment
+T405213,5,Salem,2025-05-04,90628.03,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C9611,Medical Expenses
+T405214,5,Salem,2025-05-04,6832.46,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C2211,Medical Expenses
+T405215,5,Salem,2025-05-04,20856.94,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C9029,Travel
+T405216,5,Salem,2025-05-04,86412.85,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7392,Loan Payment
+T405217,5,Salem,2025-05-04,30052.71,FAILED,DEPOSIT,Seelanaickenpatti Branch,C2437,Education Fees
+T405218,5,Salem,2025-05-04,16739.17,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2247,Travel
+T405219,5,Salem,2025-05-04,53860.23,FAILED,DEPOSIT,Seelanaickenpatti Branch,C5298,Others
+T405220,5,Salem,2025-05-04,47604.78,FAILED,DEPOSIT,Seelanaickenpatti Branch,C4312,Education Fees
+T405221,5,Salem,2025-05-04,57745.4,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C1950,Others
+T405222,5,Salem,2025-05-04,33079.07,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C5696,Medical Expenses
+T405223,5,Salem,2025-05-04,89605.87,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2850,Loan Payment
+T405224,5,Salem,2025-05-04,42242.74,FAILED,TRANSFER,Seelanaickenpatti Branch,C7439,Bill Payment
+T405225,5,Salem,2025-05-04,8308.38,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2324,Medical Expenses
+T405226,5,Salem,2025-05-04,66358.2,FAILED,TRANSFER,Seelanaickenpatti Branch,C4216,Loan Payment
+T405227,5,Salem,2025-05-04,35830.72,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C4090,Bill Payment
+T405228,5,Salem,2025-05-04,61502.75,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7202,Bill Payment
+T405229,5,Salem,2025-05-04,34549.12,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C8390,Medical Expenses
+T405230,5,Salem,2025-05-04,26332.35,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6430,Medical Expenses
+T405231,5,Salem,2025-05-04,94230.69,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C5411,Education Fees
+T405232,5,Salem,2025-05-04,58289.26,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C3973,Travel
+T405233,5,Salem,2025-05-04,72029.08,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C7140,Travel
+T405234,5,Salem,2025-05-04,15513.1,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C6911,Travel
+T405235,5,Salem,2025-05-04,23380.26,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C4214,Loan Payment
+T405236,5,Salem,2025-05-04,73573.96,FAILED,DEPOSIT,Seelanaickenpatti Branch,C8665,Loan Payment
+T405237,5,Salem,2025-05-04,66786.06,FAILED,DEPOSIT,Seelanaickenpatti Branch,C8030,Education Fees
+T405238,5,Salem,2025-05-04,60774.52,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C2493,Others
+T405239,5,Salem,2025-05-04,68419.83,FAILED,TRANSFER,Seelanaickenpatti Branch,C3226,Loan Payment
+T405240,5,Salem,2025-05-04,31956.1,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C4866,Education Fees
+T405241,5,Salem,2025-05-04,97514.47,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C6541,Shopping
+T405242,5,Salem,2025-05-04,8573.23,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C3617,Education Fees
+T405243,5,Salem,2025-05-04,12373.64,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C2112,Bill Payment
+T405244,5,Salem,2025-05-04,43377.34,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C2883,Bill Payment
+T405245,5,Salem,2025-05-04,51140.89,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C8579,Travel
+T405246,5,Salem,2025-05-04,47767.71,FAILED,TRANSFER,Seelanaickenpatti Branch,C7429,Shopping
+T405247,5,Salem,2025-05-04,95987.55,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2562,Loan Payment
+T405248,5,Salem,2025-05-03,63789.51,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C5878,Travel
+T405249,5,Salem,2025-05-03,24149.19,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C5942,Loan Payment
+T405250,5,Salem,2025-05-03,46785.63,FAILED,TRANSFER,Seelanaickenpatti Branch,C6238,Travel
+T405251,5,Salem,2025-05-03,16726.36,FAILED,DEPOSIT,Seelanaickenpatti Branch,C6622,Loan Payment
+T405252,5,Salem,2025-05-03,26741.23,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C8374,Shopping
+T405253,5,Salem,2025-05-03,3989.57,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7210,Others
+T405254,5,Salem,2025-05-03,44735.29,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C9337,Education Fees
+T405255,5,Salem,2025-05-03,17599.17,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C6115,Bill Payment
+T405256,5,Salem,2025-05-03,63472.78,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C4297,Shopping
+T405257,5,Salem,2025-05-03,95896.5,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C5718,Travel
+T405258,5,Salem,2025-05-03,8563.55,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C7260,Travel
+T405259,5,Salem,2025-05-03,92381.39,FAILED,DEPOSIT,Seelanaickenpatti Branch,C6723,Shopping
+T405260,5,Salem,2025-05-03,14898.36,FAILED,DEPOSIT,Seelanaickenpatti Branch,C7956,Medical Expenses
+T405261,5,Salem,2025-05-03,88421.28,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C5978,Shopping
+T405262,5,Salem,2025-05-03,85990.57,FAILED,TRANSFER,Seelanaickenpatti Branch,C2796,Travel
+T405263,5,Salem,2025-05-03,17427.01,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C9366,Shopping
+T405264,5,Salem,2025-05-03,35139.11,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C5191,Shopping
+T405265,5,Salem,2025-05-03,23355.61,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C2753,Loan Payment
+T405266,5,Salem,2025-05-03,69014.28,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6554,Shopping
+T405267,5,Salem,2025-05-03,3556.73,FAILED,TRANSFER,Seelanaickenpatti Branch,C3530,Loan Payment
+T405268,5,Salem,2025-05-03,37858.98,FAILED,TRANSFER,Seelanaickenpatti Branch,C5052,Travel
+T405269,5,Salem,2025-05-03,15341.55,FAILED,TRANSFER,Seelanaickenpatti Branch,C1635,Education Fees
+T405270,5,Salem,2025-05-03,24090.65,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C9219,Education Fees
+T405271,5,Salem,2025-05-03,67716.53,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C9278,Medical Expenses
+T405272,5,Salem,2025-05-03,53002.97,FAILED,TRANSFER,Seelanaickenpatti Branch,C2906,Loan Payment
+T405273,5,Salem,2025-05-03,92246.08,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C3572,Loan Payment
+T405274,5,Salem,2025-05-03,7809.05,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C1337,Shopping
+T405275,5,Salem,2025-05-03,43941.2,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C1910,Bill Payment
+T405276,5,Salem,2025-05-03,41545.12,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C3455,Bill Payment
+T405277,5,Salem,2025-05-03,39603.34,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6080,Travel
+T405278,5,Salem,2025-05-03,23205.95,FAILED,DEPOSIT,Seelanaickenpatti Branch,C1381,Loan Payment
+T405279,5,Salem,2025-05-03,97340.32,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C2147,Bill Payment
+T405280,5,Salem,2025-05-03,22515.8,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C1359,Shopping
+T405281,5,Salem,2025-05-03,33397.87,FAILED,DEPOSIT,Seelanaickenpatti Branch,C7849,Shopping
+T405282,5,Salem,2025-05-03,86776.56,FAILED,DEPOSIT,Seelanaickenpatti Branch,C4697,Bill Payment
+T405283,5,Salem,2025-05-03,81774.57,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C8973,Others
+T405284,5,Salem,2025-05-03,99263.29,FAILED,TRANSFER,Seelanaickenpatti Branch,C4032,Others
+T405285,5,Salem,2025-05-03,87914.94,FAILED,DEPOSIT,Seelanaickenpatti Branch,C5740,Loan Payment
+T405286,5,Salem,2025-05-03,53403.79,FAILED,DEPOSIT,Seelanaickenpatti Branch,C1476,Education Fees
+T405287,5,Salem,2025-05-03,91742.33,FAILED,DEPOSIT,Seelanaickenpatti Branch,C1836,Education Fees
+T405288,5,Salem,2025-05-03,11197.75,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C6728,Travel
+T405289,5,Salem,2025-05-03,60169.04,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C1495,Others
+T405290,5,Salem,2025-05-03,76046.49,FAILED,TRANSFER,Seelanaickenpatti Branch,C2036,Others
+T405291,5,Salem,2025-05-03,42667.54,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C1023,Others
+T405292,5,Salem,2025-05-03,30283.79,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C4073,Education Fees
+T405293,5,Salem,2025-05-03,28112.09,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6242,Others
+T405294,5,Salem,2025-05-03,4270.18,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C8837,Shopping
+T405295,5,Salem,2025-05-03,56037.83,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C3269,Others
+T405296,5,Salem,2025-05-03,37797.29,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C3026,Shopping
+T405297,5,Salem,2025-05-03,35720.68,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C8760,Bill Payment
+T405298,5,Salem,2025-05-03,7249.71,FAILED,DEPOSIT,Seelanaickenpatti Branch,C6054,Bill Payment
+T405299,5,Salem,2025-05-03,62058.46,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C2602,Bill Payment
+T405300,5,Salem,2025-05-03,91939.72,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C7782,Medical Expenses
+T405301,5,Salem,2025-05-03,88424.07,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C6850,Others
+T405302,5,Salem,2025-05-03,40455.83,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C8956,Medical Expenses
+T405303,5,Salem,2025-05-03,93890.84,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6415,Bill Payment
+T405304,5,Salem,2025-05-03,81976.7,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C7781,Shopping
+T405305,5,Salem,2025-05-03,42730.79,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C1699,Education Fees
+T405306,5,Salem,2025-05-03,57228.28,FAILED,DEPOSIT,Seelanaickenpatti Branch,C9813,Medical Expenses
+T405307,5,Salem,2025-05-03,4296.95,FAILED,WITHDRAWAL,Seelanaickenpatti Branch,C7437,Bill Payment
+T405308,5,Salem,2025-05-03,18478.03,FAILED,TRANSFER,Seelanaickenpatti Branch,C1635,Loan Payment
+T405309,5,Salem,2025-05-03,24940.87,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C9022,Education Fees
+T405310,5,Salem,2025-05-03,58222.73,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C5266,Bill Payment
+T405311,5,Salem,2025-05-03,18042.65,FAILED,TRANSFER,Seelanaickenpatti Branch,C8610,Travel
+T405312,5,Salem,2025-05-03,25056.79,SUCCESS,TRANSFER,Seelanaickenpatti Branch,C3298,Loan Payment
+T405313,5,Salem,2025-05-03,20325.35,FAILED,TRANSFER,Seelanaickenpatti Branch,C7279,Loan Payment
+T405314,5,Salem,2025-05-03,74064.25,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C7669,Bill Payment
+T405315,5,Salem,2025-05-03,27844.56,FAILED,TRANSFER,Seelanaickenpatti Branch,C2652,Education Fees
+T405316,5,Salem,2025-05-03,18506.2,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C6250,Others
+T405317,5,Salem,2025-05-03,31175.4,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C1077,Loan Payment
+T405318,5,Salem,2025-05-03,74360.97,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C5123,Others
+T405319,5,Salem,2025-05-03,78093.05,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C1730,Bill Payment
+T405320,5,Salem,2025-05-03,41196.49,SUCCESS,DEPOSIT,Seelanaickenpatti Branch,C9647,Shopping
+T405321,5,Salem,2025-05-03,12405.94,SUCCESS,WITHDRAWAL,Seelanaickenpatti Branch,C4841,Medical Expenses

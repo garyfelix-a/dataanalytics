@@ -1,0 +1,516 @@
+TRANSACTION_ID,BRANCH_ID,CITY,DATE,AMOUNT,STATUS,TRANSACTION_TYPE,BRANCH_NAME,CUSTOMER_ID,PURPOSE
+T407003,4,Coimbatore,2025-05-09,1470.94,FAILED,WITHDRAWAL,Singanallur Branch,C2957,Travel
+T407004,4,Coimbatore,2025-05-09,31524.49,SUCCESS,TRANSFER,Singanallur Branch,C7617,Bill Payment
+T407005,4,Coimbatore,2025-05-09,5145.6,FAILED,DEPOSIT,Singanallur Branch,C2695,Bill Payment
+T407006,4,Coimbatore,2025-05-09,71096.19,SUCCESS,DEPOSIT,Singanallur Branch,C5516,Education Fees
+T407007,4,Coimbatore,2025-05-09,28543.57,FAILED,WITHDRAWAL,Singanallur Branch,C5572,Travel
+T407008,4,Coimbatore,2025-05-09,90452.36,FAILED,WITHDRAWAL,Singanallur Branch,C8649,Shopping
+T407009,4,Coimbatore,2025-05-09,80054.16,FAILED,DEPOSIT,Singanallur Branch,C4113,Loan Payment
+T407010,4,Coimbatore,2025-05-09,2549.3,SUCCESS,WITHDRAWAL,Singanallur Branch,C1576,Bill Payment
+T407011,4,Coimbatore,2025-05-09,21891.76,FAILED,WITHDRAWAL,Singanallur Branch,C6347,Bill Payment
+T407012,4,Coimbatore,2025-05-09,95592.65,FAILED,DEPOSIT,Singanallur Branch,C7316,Education Fees
+T407013,4,Coimbatore,2025-05-09,21850.26,SUCCESS,WITHDRAWAL,Singanallur Branch,C4053,Education Fees
+T407014,4,Coimbatore,2025-05-09,72674.33,SUCCESS,DEPOSIT,Singanallur Branch,C9153,Shopping
+T407015,4,Coimbatore,2025-05-09,64631.63,FAILED,WITHDRAWAL,Singanallur Branch,C3807,Loan Payment
+T407016,4,Coimbatore,2025-05-09,68534.05,SUCCESS,DEPOSIT,Singanallur Branch,C2833,Travel
+T407017,4,Coimbatore,2025-05-09,54689.73,SUCCESS,DEPOSIT,Singanallur Branch,C2662,Education Fees
+T407018,4,Coimbatore,2025-05-09,78675.9,FAILED,WITHDRAWAL,Singanallur Branch,C6692,Travel
+T407019,4,Coimbatore,2025-05-09,12657.2,FAILED,TRANSFER,Singanallur Branch,C4429,Bill Payment
+T407020,4,Coimbatore,2025-05-09,12360.83,FAILED,WITHDRAWAL,Singanallur Branch,C2409,Bill Payment
+T407021,4,Coimbatore,2025-05-09,24171.94,SUCCESS,DEPOSIT,Singanallur Branch,C9751,Travel
+T407022,4,Coimbatore,2025-05-09,95779.25,SUCCESS,WITHDRAWAL,Singanallur Branch,C1812,Travel
+T407023,4,Coimbatore,2025-05-09,66513.45,SUCCESS,DEPOSIT,Singanallur Branch,C5373,Medical Expenses
+T407024,4,Coimbatore,2025-05-09,80084.59,FAILED,TRANSFER,Singanallur Branch,C3826,Others
+T407025,4,Coimbatore,2025-05-09,60794.47,SUCCESS,DEPOSIT,Singanallur Branch,C8872,Bill Payment
+T407026,4,Coimbatore,2025-05-09,29545.6,SUCCESS,WITHDRAWAL,Singanallur Branch,C2399,Education Fees
+T407027,4,Coimbatore,2025-05-09,80314.54,SUCCESS,DEPOSIT,Singanallur Branch,C1458,Travel
+T407028,4,Coimbatore,2025-05-09,99375.39,FAILED,DEPOSIT,Singanallur Branch,C5755,Medical Expenses
+T407029,4,Coimbatore,2025-05-09,39321.83,FAILED,DEPOSIT,Singanallur Branch,C4349,Bill Payment
+T407030,4,Coimbatore,2025-05-09,89635.74,SUCCESS,DEPOSIT,Singanallur Branch,C9433,Loan Payment
+T407031,4,Coimbatore,2025-05-09,37056.09,FAILED,TRANSFER,Singanallur Branch,C4369,Others
+T407032,4,Coimbatore,2025-05-09,32913.33,FAILED,DEPOSIT,Singanallur Branch,C7600,Medical Expenses
+T407033,4,Coimbatore,2025-05-09,90695.67,SUCCESS,TRANSFER,Singanallur Branch,C1024,Education Fees
+T407034,4,Coimbatore,2025-05-09,87008.89,FAILED,DEPOSIT,Singanallur Branch,C9523,Education Fees
+T407035,4,Coimbatore,2025-05-09,33299.02,FAILED,WITHDRAWAL,Singanallur Branch,C7693,Loan Payment
+T407036,4,Coimbatore,2025-05-09,66537.67,FAILED,DEPOSIT,Singanallur Branch,C2155,Travel
+T407037,4,Coimbatore,2025-05-09,28195.4,SUCCESS,TRANSFER,Singanallur Branch,C6639,Shopping
+T407038,4,Coimbatore,2025-05-09,12631.36,FAILED,TRANSFER,Singanallur Branch,C3991,Shopping
+T407039,4,Coimbatore,2025-05-09,73602.96,FAILED,DEPOSIT,Singanallur Branch,C6089,Loan Payment
+T407040,4,Coimbatore,2025-05-09,205.83,FAILED,TRANSFER,Singanallur Branch,C2528,Education Fees
+T407041,4,Coimbatore,2025-05-09,15931.21,SUCCESS,WITHDRAWAL,Singanallur Branch,C3152,Others
+T407042,4,Coimbatore,2025-05-09,43391.42,SUCCESS,DEPOSIT,Singanallur Branch,C7631,Education Fees
+T407043,4,Coimbatore,2025-05-09,79928.05,SUCCESS,TRANSFER,Singanallur Branch,C9866,Education Fees
+T407044,4,Coimbatore,2025-05-09,95516.17,FAILED,TRANSFER,Singanallur Branch,C6157,Travel
+T407045,4,Coimbatore,2025-05-09,6427.76,FAILED,WITHDRAWAL,Singanallur Branch,C8324,Bill Payment
+T407046,4,Coimbatore,2025-05-09,3339.09,SUCCESS,WITHDRAWAL,Singanallur Branch,C9147,Travel
+T407047,4,Coimbatore,2025-05-09,15625.65,FAILED,TRANSFER,Singanallur Branch,C2694,Loan Payment
+T407048,4,Coimbatore,2025-05-09,73763.57,FAILED,TRANSFER,Singanallur Branch,C9277,Travel
+T407049,4,Coimbatore,2025-05-09,3454.78,SUCCESS,WITHDRAWAL,Singanallur Branch,C9803,Others
+T407050,4,Coimbatore,2025-05-09,14402.46,SUCCESS,DEPOSIT,Singanallur Branch,C7008,Loan Payment
+T407051,4,Coimbatore,2025-05-09,21396.28,FAILED,TRANSFER,Singanallur Branch,C9013,Medical Expenses
+T407052,4,Coimbatore,2025-05-09,1836.12,SUCCESS,WITHDRAWAL,Singanallur Branch,C2509,Bill Payment
+T407053,4,Coimbatore,2025-05-09,13413.0,FAILED,WITHDRAWAL,Singanallur Branch,C1446,Education Fees
+T407054,4,Coimbatore,2025-05-09,44594.88,SUCCESS,DEPOSIT,Singanallur Branch,C8089,Others
+T407055,4,Coimbatore,2025-05-09,10897.36,SUCCESS,DEPOSIT,Singanallur Branch,C5301,Medical Expenses
+T407056,4,Coimbatore,2025-05-09,12072.58,FAILED,TRANSFER,Singanallur Branch,C7491,Travel
+T407057,4,Coimbatore,2025-05-08,76416.12,FAILED,DEPOSIT,Singanallur Branch,C4999,Shopping
+T407058,4,Coimbatore,2025-05-08,10371.15,FAILED,TRANSFER,Singanallur Branch,C6863,Loan Payment
+T407059,4,Coimbatore,2025-05-08,79258.58,SUCCESS,DEPOSIT,Singanallur Branch,C5380,Medical Expenses
+T407060,4,Coimbatore,2025-05-08,45453.14,FAILED,TRANSFER,Singanallur Branch,C4598,Medical Expenses
+T407061,4,Coimbatore,2025-05-08,14033.25,FAILED,WITHDRAWAL,Singanallur Branch,C5716,Shopping
+T407062,4,Coimbatore,2025-05-08,42148.48,SUCCESS,DEPOSIT,Singanallur Branch,C3184,Bill Payment
+T407063,4,Coimbatore,2025-05-08,349.0,SUCCESS,WITHDRAWAL,Singanallur Branch,C6649,Shopping
+T407064,4,Coimbatore,2025-05-08,55319.58,FAILED,TRANSFER,Singanallur Branch,C1806,Bill Payment
+T407065,4,Coimbatore,2025-05-08,84272.64,FAILED,WITHDRAWAL,Singanallur Branch,C7347,Medical Expenses
+T407066,4,Coimbatore,2025-05-08,43991.34,FAILED,TRANSFER,Singanallur Branch,C7807,Medical Expenses
+T407067,4,Coimbatore,2025-05-08,27632.54,SUCCESS,TRANSFER,Singanallur Branch,C3958,Loan Payment
+T407068,4,Coimbatore,2025-05-08,64419.01,FAILED,WITHDRAWAL,Singanallur Branch,C8306,Loan Payment
+T407069,4,Coimbatore,2025-05-08,56714.82,FAILED,DEPOSIT,Singanallur Branch,C6682,Bill Payment
+T407070,4,Coimbatore,2025-05-08,50866.89,FAILED,DEPOSIT,Singanallur Branch,C2867,Travel
+T407071,4,Coimbatore,2025-05-08,92709.25,FAILED,WITHDRAWAL,Singanallur Branch,C5971,Others
+T407072,4,Coimbatore,2025-05-08,28223.81,FAILED,WITHDRAWAL,Singanallur Branch,C3404,Bill Payment
+T407073,4,Coimbatore,2025-05-08,20488.85,FAILED,TRANSFER,Singanallur Branch,C1667,Bill Payment
+T407074,4,Coimbatore,2025-05-08,19546.51,SUCCESS,TRANSFER,Singanallur Branch,C6243,Shopping
+T407075,4,Coimbatore,2025-05-08,70630.05,FAILED,WITHDRAWAL,Singanallur Branch,C2056,Travel
+T407076,4,Coimbatore,2025-05-08,40402.78,FAILED,DEPOSIT,Singanallur Branch,C2086,Shopping
+T407077,4,Coimbatore,2025-05-08,61857.35,SUCCESS,DEPOSIT,Singanallur Branch,C5171,Loan Payment
+T407078,4,Coimbatore,2025-05-08,5507.35,FAILED,DEPOSIT,Singanallur Branch,C6614,Others
+T407079,4,Coimbatore,2025-05-08,56755.86,FAILED,WITHDRAWAL,Singanallur Branch,C8408,Education Fees
+T407080,4,Coimbatore,2025-05-08,71387.97,SUCCESS,WITHDRAWAL,Singanallur Branch,C6944,Shopping
+T407081,4,Coimbatore,2025-05-08,3981.95,FAILED,WITHDRAWAL,Singanallur Branch,C1892,Shopping
+T407082,4,Coimbatore,2025-05-08,36546.87,SUCCESS,TRANSFER,Singanallur Branch,C9141,Others
+T407083,4,Coimbatore,2025-05-08,13735.17,FAILED,TRANSFER,Singanallur Branch,C5430,Others
+T407084,4,Coimbatore,2025-05-08,69525.21,FAILED,TRANSFER,Singanallur Branch,C5558,Travel
+T407085,4,Coimbatore,2025-05-08,15349.68,SUCCESS,DEPOSIT,Singanallur Branch,C8162,Medical Expenses
+T407086,4,Coimbatore,2025-05-08,21307.09,SUCCESS,DEPOSIT,Singanallur Branch,C1093,Others
+T407087,4,Coimbatore,2025-05-08,23652.8,SUCCESS,WITHDRAWAL,Singanallur Branch,C7602,Travel
+T407088,4,Coimbatore,2025-05-08,84605.88,FAILED,DEPOSIT,Singanallur Branch,C8257,Shopping
+T407089,4,Coimbatore,2025-05-08,60587.1,FAILED,DEPOSIT,Singanallur Branch,C9482,Bill Payment
+T407090,4,Coimbatore,2025-05-08,61196.09,SUCCESS,WITHDRAWAL,Singanallur Branch,C2382,Travel
+T407091,4,Coimbatore,2025-05-08,24295.41,FAILED,WITHDRAWAL,Singanallur Branch,C2972,Education Fees
+T407092,4,Coimbatore,2025-05-08,99938.65,SUCCESS,DEPOSIT,Singanallur Branch,C5092,Travel
+T407093,4,Coimbatore,2025-05-08,80337.31,SUCCESS,DEPOSIT,Singanallur Branch,C1761,Travel
+T407094,4,Coimbatore,2025-05-08,58762.27,FAILED,DEPOSIT,Singanallur Branch,C1840,Bill Payment
+T407095,4,Coimbatore,2025-05-08,81767.23,SUCCESS,TRANSFER,Singanallur Branch,C5437,Medical Expenses
+T407096,4,Coimbatore,2025-05-08,75928.76,FAILED,DEPOSIT,Singanallur Branch,C8010,Travel
+T407097,4,Coimbatore,2025-05-08,21400.51,FAILED,WITHDRAWAL,Singanallur Branch,C1376,Loan Payment
+T407098,4,Coimbatore,2025-05-08,18748.2,SUCCESS,TRANSFER,Singanallur Branch,C8258,Bill Payment
+T407099,4,Coimbatore,2025-05-08,73442.64,SUCCESS,DEPOSIT,Singanallur Branch,C3692,Medical Expenses
+T407100,4,Coimbatore,2025-05-08,12377.91,SUCCESS,WITHDRAWAL,Singanallur Branch,C8848,Shopping
+T407101,4,Coimbatore,2025-05-08,27549.46,FAILED,WITHDRAWAL,Singanallur Branch,C1159,Shopping
+T407102,4,Coimbatore,2025-05-08,11796.89,SUCCESS,WITHDRAWAL,Singanallur Branch,C8957,Loan Payment
+T407103,4,Coimbatore,2025-05-08,13823.51,FAILED,DEPOSIT,Singanallur Branch,C6928,Bill Payment
+T407104,4,Coimbatore,2025-05-08,80238.24,FAILED,DEPOSIT,Singanallur Branch,C3609,Bill Payment
+T407105,4,Coimbatore,2025-05-08,30068.09,SUCCESS,TRANSFER,Singanallur Branch,C6042,Others
+T407106,4,Coimbatore,2025-05-08,74368.53,FAILED,DEPOSIT,Singanallur Branch,C5466,Loan Payment
+T407107,4,Coimbatore,2025-05-08,56177.12,FAILED,TRANSFER,Singanallur Branch,C2471,Travel
+T407108,4,Coimbatore,2025-05-08,46271.21,FAILED,TRANSFER,Singanallur Branch,C3853,Education Fees
+T407109,4,Coimbatore,2025-05-08,96896.18,FAILED,DEPOSIT,Singanallur Branch,C9470,Loan Payment
+T407110,4,Coimbatore,2025-05-08,58073.78,SUCCESS,WITHDRAWAL,Singanallur Branch,C5101,Education Fees
+T407111,4,Coimbatore,2025-05-08,28808.6,SUCCESS,WITHDRAWAL,Singanallur Branch,C9010,Others
+T407112,4,Coimbatore,2025-05-08,86022.21,SUCCESS,DEPOSIT,Singanallur Branch,C3436,Travel
+T407113,4,Coimbatore,2025-05-08,32053.8,FAILED,TRANSFER,Singanallur Branch,C8077,Medical Expenses
+T407114,4,Coimbatore,2025-05-08,88517.22,SUCCESS,TRANSFER,Singanallur Branch,C2080,Loan Payment
+T407115,4,Coimbatore,2025-05-08,58059.53,SUCCESS,DEPOSIT,Singanallur Branch,C2768,Medical Expenses
+T407116,4,Coimbatore,2025-05-08,94819.95,FAILED,DEPOSIT,Singanallur Branch,C1776,Others
+T407117,4,Coimbatore,2025-05-08,9883.77,FAILED,TRANSFER,Singanallur Branch,C5757,Travel
+T407118,4,Coimbatore,2025-05-08,98124.46,SUCCESS,TRANSFER,Singanallur Branch,C7880,Others
+T407119,4,Coimbatore,2025-05-08,35731.05,FAILED,WITHDRAWAL,Singanallur Branch,C8482,Shopping
+T407120,4,Coimbatore,2025-05-08,95375.26,FAILED,TRANSFER,Singanallur Branch,C7931,Education Fees
+T407121,4,Coimbatore,2025-05-08,83729.37,FAILED,WITHDRAWAL,Singanallur Branch,C9351,Shopping
+T407122,4,Coimbatore,2025-05-08,25410.36,FAILED,WITHDRAWAL,Singanallur Branch,C8483,Education Fees
+T407123,4,Coimbatore,2025-05-08,36747.65,FAILED,DEPOSIT,Singanallur Branch,C9011,Shopping
+T407124,4,Coimbatore,2025-05-08,20180.51,FAILED,WITHDRAWAL,Singanallur Branch,C8338,Travel
+T407125,4,Coimbatore,2025-05-08,70098.79,FAILED,TRANSFER,Singanallur Branch,C9772,Shopping
+T407126,4,Coimbatore,2025-05-08,48948.62,FAILED,WITHDRAWAL,Singanallur Branch,C5903,Travel
+T407127,4,Coimbatore,2025-05-08,52268.64,FAILED,TRANSFER,Singanallur Branch,C7067,Education Fees
+T407128,4,Coimbatore,2025-05-08,48497.61,SUCCESS,TRANSFER,Singanallur Branch,C5383,Education Fees
+T407129,4,Coimbatore,2025-05-08,37789.35,FAILED,WITHDRAWAL,Singanallur Branch,C6353,Medical Expenses
+T407130,4,Coimbatore,2025-05-08,87371.16,FAILED,DEPOSIT,Singanallur Branch,C9385,Bill Payment
+T407131,4,Coimbatore,2025-05-08,62937.16,SUCCESS,TRANSFER,Singanallur Branch,C2861,Education Fees
+T407132,4,Coimbatore,2025-05-08,97098.75,FAILED,DEPOSIT,Singanallur Branch,C7410,Education Fees
+T407133,4,Coimbatore,2025-05-08,6230.66,FAILED,WITHDRAWAL,Singanallur Branch,C6593,Education Fees
+T407134,4,Coimbatore,2025-05-08,14608.02,SUCCESS,DEPOSIT,Singanallur Branch,C1126,Others
+T407135,4,Coimbatore,2025-05-08,73559.45,SUCCESS,TRANSFER,Singanallur Branch,C1499,Shopping
+T407136,4,Coimbatore,2025-05-08,84806.63,FAILED,DEPOSIT,Singanallur Branch,C7388,Shopping
+T407137,4,Coimbatore,2025-05-08,72031.97,SUCCESS,TRANSFER,Singanallur Branch,C9521,Shopping
+T407138,4,Coimbatore,2025-05-08,35205.48,SUCCESS,TRANSFER,Singanallur Branch,C7239,Bill Payment
+T407139,4,Coimbatore,2025-05-08,24013.58,FAILED,WITHDRAWAL,Singanallur Branch,C4823,Bill Payment
+T407140,4,Coimbatore,2025-05-08,20755.04,FAILED,WITHDRAWAL,Singanallur Branch,C1362,Others
+T407141,4,Coimbatore,2025-05-08,20228.02,SUCCESS,WITHDRAWAL,Singanallur Branch,C2849,Loan Payment
+T407142,4,Coimbatore,2025-05-08,27724.76,SUCCESS,TRANSFER,Singanallur Branch,C4098,Travel
+T407143,4,Coimbatore,2025-05-08,71517.43,FAILED,DEPOSIT,Singanallur Branch,C9274,Shopping
+T407144,4,Coimbatore,2025-05-08,42756.95,SUCCESS,DEPOSIT,Singanallur Branch,C6165,Bill Payment
+T407145,4,Coimbatore,2025-05-08,36783.2,SUCCESS,DEPOSIT,Singanallur Branch,C3994,Medical Expenses
+T407146,4,Coimbatore,2025-05-08,62506.84,FAILED,DEPOSIT,Singanallur Branch,C3863,Medical Expenses
+T407147,4,Coimbatore,2025-05-08,94264.67,SUCCESS,DEPOSIT,Singanallur Branch,C7614,Shopping
+T407148,4,Coimbatore,2025-05-08,7517.99,SUCCESS,WITHDRAWAL,Singanallur Branch,C3543,Loan Payment
+T407149,4,Coimbatore,2025-05-08,44617.18,FAILED,DEPOSIT,Singanallur Branch,C2361,Shopping
+T407150,4,Coimbatore,2025-05-08,87097.68,SUCCESS,TRANSFER,Singanallur Branch,C3333,Education Fees
+T407151,4,Coimbatore,2025-05-08,86457.97,SUCCESS,TRANSFER,Singanallur Branch,C1388,Education Fees
+T407152,4,Coimbatore,2025-05-08,96056.61,FAILED,DEPOSIT,Singanallur Branch,C2235,Bill Payment
+T407153,4,Coimbatore,2025-05-08,9405.54,SUCCESS,DEPOSIT,Singanallur Branch,C7025,Bill Payment
+T407154,4,Coimbatore,2025-05-08,78702.57,FAILED,DEPOSIT,Singanallur Branch,C9766,Education Fees
+T407155,4,Coimbatore,2025-05-08,71260.88,SUCCESS,TRANSFER,Singanallur Branch,C2459,Shopping
+T407156,4,Coimbatore,2025-05-07,26407.67,SUCCESS,WITHDRAWAL,Singanallur Branch,C4554,Bill Payment
+T407157,4,Coimbatore,2025-05-07,95940.13,FAILED,WITHDRAWAL,Singanallur Branch,C4516,Medical Expenses
+T407158,4,Coimbatore,2025-05-07,79645.19,FAILED,WITHDRAWAL,Singanallur Branch,C9923,Medical Expenses
+T407159,4,Coimbatore,2025-05-07,95623.41,FAILED,WITHDRAWAL,Singanallur Branch,C6082,Loan Payment
+T407160,4,Coimbatore,2025-05-07,62172.5,FAILED,TRANSFER,Singanallur Branch,C5864,Bill Payment
+T407161,4,Coimbatore,2025-05-07,85011.23,SUCCESS,DEPOSIT,Singanallur Branch,C8461,Education Fees
+T407162,4,Coimbatore,2025-05-07,89153.22,SUCCESS,WITHDRAWAL,Singanallur Branch,C6265,Loan Payment
+T407163,4,Coimbatore,2025-05-07,17293.03,SUCCESS,WITHDRAWAL,Singanallur Branch,C5848,Shopping
+T407164,4,Coimbatore,2025-05-07,35550.73,FAILED,WITHDRAWAL,Singanallur Branch,C8880,Loan Payment
+T407165,4,Coimbatore,2025-05-07,77306.26,SUCCESS,TRANSFER,Singanallur Branch,C4715,Medical Expenses
+T407166,4,Coimbatore,2025-05-07,22256.62,SUCCESS,WITHDRAWAL,Singanallur Branch,C9494,Loan Payment
+T407167,4,Coimbatore,2025-05-07,4716.86,SUCCESS,WITHDRAWAL,Singanallur Branch,C7575,Education Fees
+T407168,4,Coimbatore,2025-05-07,77033.06,SUCCESS,TRANSFER,Singanallur Branch,C8002,Medical Expenses
+T407169,4,Coimbatore,2025-05-07,63479.7,SUCCESS,TRANSFER,Singanallur Branch,C2673,Shopping
+T407170,4,Coimbatore,2025-05-07,75961.25,SUCCESS,DEPOSIT,Singanallur Branch,C6905,Bill Payment
+T407171,4,Coimbatore,2025-05-07,70238.74,FAILED,WITHDRAWAL,Singanallur Branch,C5757,Education Fees
+T407172,4,Coimbatore,2025-05-07,90451.62,SUCCESS,DEPOSIT,Singanallur Branch,C9368,Shopping
+T407173,4,Coimbatore,2025-05-07,27596.01,FAILED,DEPOSIT,Singanallur Branch,C7934,Others
+T407174,4,Coimbatore,2025-05-07,49637.53,FAILED,TRANSFER,Singanallur Branch,C1151,Shopping
+T407175,4,Coimbatore,2025-05-07,44567.15,SUCCESS,WITHDRAWAL,Singanallur Branch,C3202,Medical Expenses
+T407176,4,Coimbatore,2025-05-07,28644.44,FAILED,DEPOSIT,Singanallur Branch,C6355,Shopping
+T407177,4,Coimbatore,2025-05-07,87753.22,SUCCESS,DEPOSIT,Singanallur Branch,C3854,Education Fees
+T407178,4,Coimbatore,2025-05-07,2618.37,FAILED,TRANSFER,Singanallur Branch,C8755,Medical Expenses
+T407179,4,Coimbatore,2025-05-07,99896.43,FAILED,WITHDRAWAL,Singanallur Branch,C1139,Others
+T407180,4,Coimbatore,2025-05-07,57239.91,SUCCESS,DEPOSIT,Singanallur Branch,C4288,Shopping
+T407181,4,Coimbatore,2025-05-07,42719.84,SUCCESS,DEPOSIT,Singanallur Branch,C9443,Others
+T407182,4,Coimbatore,2025-05-07,78552.19,FAILED,TRANSFER,Singanallur Branch,C2217,Travel
+T407183,4,Coimbatore,2025-05-07,77379.47,FAILED,WITHDRAWAL,Singanallur Branch,C6195,Education Fees
+T407184,4,Coimbatore,2025-05-07,56000.37,FAILED,TRANSFER,Singanallur Branch,C1360,Medical Expenses
+T407185,4,Coimbatore,2025-05-07,32054.92,FAILED,WITHDRAWAL,Singanallur Branch,C3566,Others
+T407186,4,Coimbatore,2025-05-07,53394.93,FAILED,TRANSFER,Singanallur Branch,C6097,Shopping
+T407187,4,Coimbatore,2025-05-07,24481.7,FAILED,TRANSFER,Singanallur Branch,C7694,Travel
+T407188,4,Coimbatore,2025-05-07,56472.64,SUCCESS,TRANSFER,Singanallur Branch,C7066,Bill Payment
+T407189,4,Coimbatore,2025-05-07,22499.51,FAILED,DEPOSIT,Singanallur Branch,C2359,Loan Payment
+T407190,4,Coimbatore,2025-05-07,91546.26,FAILED,WITHDRAWAL,Singanallur Branch,C9057,Shopping
+T407191,4,Coimbatore,2025-05-07,30451.05,FAILED,DEPOSIT,Singanallur Branch,C6542,Bill Payment
+T407192,4,Coimbatore,2025-05-07,46036.51,SUCCESS,WITHDRAWAL,Singanallur Branch,C3972,Shopping
+T407193,4,Coimbatore,2025-05-07,43150.95,FAILED,WITHDRAWAL,Singanallur Branch,C6870,Shopping
+T407194,4,Coimbatore,2025-05-07,8701.85,SUCCESS,WITHDRAWAL,Singanallur Branch,C2699,Others
+T407195,4,Coimbatore,2025-05-07,87621.13,FAILED,TRANSFER,Singanallur Branch,C2073,Loan Payment
+T407196,4,Coimbatore,2025-05-07,5624.82,FAILED,WITHDRAWAL,Singanallur Branch,C3468,Loan Payment
+T407197,4,Coimbatore,2025-05-07,25829.66,FAILED,DEPOSIT,Singanallur Branch,C7187,Others
+T407198,4,Coimbatore,2025-05-07,321.33,SUCCESS,WITHDRAWAL,Singanallur Branch,C4867,Others
+T407199,4,Coimbatore,2025-05-07,98956.68,SUCCESS,WITHDRAWAL,Singanallur Branch,C1725,Others
+T407200,4,Coimbatore,2025-05-07,27724.68,SUCCESS,DEPOSIT,Singanallur Branch,C6387,Shopping
+T407201,4,Coimbatore,2025-05-07,62420.05,SUCCESS,WITHDRAWAL,Singanallur Branch,C8223,Bill Payment
+T407202,4,Coimbatore,2025-05-07,58647.15,FAILED,DEPOSIT,Singanallur Branch,C9356,Shopping
+T407203,4,Coimbatore,2025-05-07,30789.54,FAILED,DEPOSIT,Singanallur Branch,C1298,Bill Payment
+T407204,4,Coimbatore,2025-05-07,14375.64,SUCCESS,DEPOSIT,Singanallur Branch,C1698,Shopping
+T407205,4,Coimbatore,2025-05-07,84265.54,FAILED,DEPOSIT,Singanallur Branch,C9357,Loan Payment
+T407206,4,Coimbatore,2025-05-07,77747.72,FAILED,DEPOSIT,Singanallur Branch,C8090,Education Fees
+T407207,4,Coimbatore,2025-05-07,84854.62,SUCCESS,WITHDRAWAL,Singanallur Branch,C6133,Medical Expenses
+T407208,4,Coimbatore,2025-05-07,67998.28,SUCCESS,TRANSFER,Singanallur Branch,C4295,Loan Payment
+T407209,4,Coimbatore,2025-05-07,70249.69,SUCCESS,TRANSFER,Singanallur Branch,C4281,Others
+T407210,4,Coimbatore,2025-05-07,51652.46,SUCCESS,TRANSFER,Singanallur Branch,C9085,Others
+T407211,4,Coimbatore,2025-05-07,7188.8,SUCCESS,TRANSFER,Singanallur Branch,C7929,Shopping
+T407212,4,Coimbatore,2025-05-07,91374.08,FAILED,TRANSFER,Singanallur Branch,C1925,Loan Payment
+T407213,4,Coimbatore,2025-05-07,99778.89,FAILED,TRANSFER,Singanallur Branch,C8006,Medical Expenses
+T407214,4,Coimbatore,2025-05-07,79117.2,SUCCESS,DEPOSIT,Singanallur Branch,C1035,Others
+T407215,4,Coimbatore,2025-05-07,18665.2,FAILED,TRANSFER,Singanallur Branch,C7992,Medical Expenses
+T407216,4,Coimbatore,2025-05-07,47662.61,SUCCESS,DEPOSIT,Singanallur Branch,C8421,Travel
+T407217,4,Coimbatore,2025-05-07,45050.04,SUCCESS,DEPOSIT,Singanallur Branch,C6120,Loan Payment
+T407218,4,Coimbatore,2025-05-07,8806.85,FAILED,WITHDRAWAL,Singanallur Branch,C4790,Loan Payment
+T407219,4,Coimbatore,2025-05-07,65560.57,SUCCESS,DEPOSIT,Singanallur Branch,C5909,Travel
+T407220,4,Coimbatore,2025-05-07,48010.43,FAILED,TRANSFER,Singanallur Branch,C7517,Medical Expenses
+T407221,4,Coimbatore,2025-05-07,6593.8,SUCCESS,DEPOSIT,Singanallur Branch,C5152,Education Fees
+T407222,4,Coimbatore,2025-05-07,94684.63,FAILED,DEPOSIT,Singanallur Branch,C6940,Shopping
+T407223,4,Coimbatore,2025-05-07,60422.4,SUCCESS,DEPOSIT,Singanallur Branch,C3674,Travel
+T407224,4,Coimbatore,2025-05-07,68499.02,SUCCESS,WITHDRAWAL,Singanallur Branch,C3203,Loan Payment
+T407225,4,Coimbatore,2025-05-07,45110.42,SUCCESS,TRANSFER,Singanallur Branch,C2438,Education Fees
+T407226,4,Coimbatore,2025-05-07,19229.83,SUCCESS,WITHDRAWAL,Singanallur Branch,C5982,Travel
+T407227,4,Coimbatore,2025-05-07,72379.26,FAILED,WITHDRAWAL,Singanallur Branch,C5957,Medical Expenses
+T407228,4,Coimbatore,2025-05-07,87746.21,SUCCESS,DEPOSIT,Singanallur Branch,C5443,Education Fees
+T407229,4,Coimbatore,2025-05-07,58470.42,FAILED,TRANSFER,Singanallur Branch,C2048,Travel
+T407230,4,Coimbatore,2025-05-07,93538.93,FAILED,DEPOSIT,Singanallur Branch,C5601,Others
+T407231,4,Coimbatore,2025-05-07,10040.78,SUCCESS,WITHDRAWAL,Singanallur Branch,C3840,Medical Expenses
+T407232,4,Coimbatore,2025-05-07,4951.68,SUCCESS,WITHDRAWAL,Singanallur Branch,C1913,Medical Expenses
+T407233,4,Coimbatore,2025-05-07,584.42,FAILED,WITHDRAWAL,Singanallur Branch,C3231,Travel
+T407234,4,Coimbatore,2025-05-07,81516.96,FAILED,TRANSFER,Singanallur Branch,C5815,Shopping
+T407235,4,Coimbatore,2025-05-07,94442.35,SUCCESS,DEPOSIT,Singanallur Branch,C8596,Bill Payment
+T407236,4,Coimbatore,2025-05-07,82394.73,FAILED,TRANSFER,Singanallur Branch,C5696,Education Fees
+T407237,4,Coimbatore,2025-05-07,44504.79,FAILED,TRANSFER,Singanallur Branch,C5456,Bill Payment
+T407238,4,Coimbatore,2025-05-07,67215.17,FAILED,TRANSFER,Singanallur Branch,C4879,Loan Payment
+T407239,4,Coimbatore,2025-05-07,10247.07,SUCCESS,WITHDRAWAL,Singanallur Branch,C4729,Medical Expenses
+T407240,4,Coimbatore,2025-05-07,50129.09,FAILED,WITHDRAWAL,Singanallur Branch,C3167,Others
+T407241,4,Coimbatore,2025-05-07,38226.97,FAILED,TRANSFER,Singanallur Branch,C1477,Bill Payment
+T407242,4,Coimbatore,2025-05-07,33411.96,FAILED,WITHDRAWAL,Singanallur Branch,C4856,Others
+T407243,4,Coimbatore,2025-05-07,93795.07,FAILED,TRANSFER,Singanallur Branch,C3092,Education Fees
+T407244,4,Coimbatore,2025-05-07,31370.92,FAILED,DEPOSIT,Singanallur Branch,C4949,Loan Payment
+T407245,4,Coimbatore,2025-05-07,1338.39,SUCCESS,WITHDRAWAL,Singanallur Branch,C3445,Medical Expenses
+T407246,4,Coimbatore,2025-05-07,35102.46,SUCCESS,DEPOSIT,Singanallur Branch,C9499,Loan Payment
+T407247,4,Coimbatore,2025-05-07,70693.86,SUCCESS,DEPOSIT,Singanallur Branch,C5992,Others
+T407248,4,Coimbatore,2025-05-07,16651.26,SUCCESS,TRANSFER,Singanallur Branch,C5556,Bill Payment
+T407249,4,Coimbatore,2025-05-07,84472.36,SUCCESS,DEPOSIT,Singanallur Branch,C5591,Travel
+T407250,4,Coimbatore,2025-05-07,17276.27,FAILED,WITHDRAWAL,Singanallur Branch,C5768,Loan Payment
+T407251,4,Coimbatore,2025-05-07,31468.66,FAILED,DEPOSIT,Singanallur Branch,C2410,Others
+T407252,4,Coimbatore,2025-05-06,16748.54,SUCCESS,WITHDRAWAL,Singanallur Branch,C1368,Others
+T407253,4,Coimbatore,2025-05-06,64806.79,SUCCESS,WITHDRAWAL,Singanallur Branch,C2204,Education Fees
+T407254,4,Coimbatore,2025-05-06,10792.91,SUCCESS,DEPOSIT,Singanallur Branch,C6617,Medical Expenses
+T407255,4,Coimbatore,2025-05-06,43872.41,FAILED,DEPOSIT,Singanallur Branch,C9237,Bill Payment
+T407256,4,Coimbatore,2025-05-06,42873.43,SUCCESS,TRANSFER,Singanallur Branch,C6110,Others
+T407257,4,Coimbatore,2025-05-06,90921.96,SUCCESS,WITHDRAWAL,Singanallur Branch,C2045,Others
+T407258,4,Coimbatore,2025-05-06,50438.14,SUCCESS,WITHDRAWAL,Singanallur Branch,C7021,Medical Expenses
+T407259,4,Coimbatore,2025-05-06,99378.91,SUCCESS,WITHDRAWAL,Singanallur Branch,C8453,Bill Payment
+T407260,4,Coimbatore,2025-05-06,58262.03,FAILED,DEPOSIT,Singanallur Branch,C2470,Medical Expenses
+T407261,4,Coimbatore,2025-05-06,55847.71,FAILED,WITHDRAWAL,Singanallur Branch,C3844,Shopping
+T407262,4,Coimbatore,2025-05-06,18877.26,SUCCESS,DEPOSIT,Singanallur Branch,C8450,Shopping
+T407263,4,Coimbatore,2025-05-06,75628.54,SUCCESS,TRANSFER,Singanallur Branch,C3773,Others
+T407264,4,Coimbatore,2025-05-06,73548.58,FAILED,WITHDRAWAL,Singanallur Branch,C9853,Travel
+T407265,4,Coimbatore,2025-05-06,55837.53,SUCCESS,DEPOSIT,Singanallur Branch,C6966,Others
+T407266,4,Coimbatore,2025-05-06,362.3,SUCCESS,DEPOSIT,Singanallur Branch,C2341,Travel
+T407267,4,Coimbatore,2025-05-06,87487.94,FAILED,WITHDRAWAL,Singanallur Branch,C7610,Loan Payment
+T407268,4,Coimbatore,2025-05-06,49995.44,SUCCESS,WITHDRAWAL,Singanallur Branch,C3923,Medical Expenses
+T407269,4,Coimbatore,2025-05-06,46478.05,SUCCESS,WITHDRAWAL,Singanallur Branch,C8066,Shopping
+T407270,4,Coimbatore,2025-05-06,82462.74,FAILED,TRANSFER,Singanallur Branch,C2817,Travel
+T407271,4,Coimbatore,2025-05-06,7918.08,FAILED,WITHDRAWAL,Singanallur Branch,C5763,Travel
+T407272,4,Coimbatore,2025-05-06,60968.11,FAILED,TRANSFER,Singanallur Branch,C3672,Shopping
+T407273,4,Coimbatore,2025-05-06,95472.42,FAILED,TRANSFER,Singanallur Branch,C2104,Others
+T407274,4,Coimbatore,2025-05-06,55235.35,SUCCESS,TRANSFER,Singanallur Branch,C2053,Others
+T407275,4,Coimbatore,2025-05-06,24903.64,SUCCESS,WITHDRAWAL,Singanallur Branch,C9375,Bill Payment
+T407276,4,Coimbatore,2025-05-06,10690.79,SUCCESS,WITHDRAWAL,Singanallur Branch,C2385,Bill Payment
+T407277,4,Coimbatore,2025-05-06,37282.96,SUCCESS,DEPOSIT,Singanallur Branch,C7620,Bill Payment
+T407278,4,Coimbatore,2025-05-06,79873.73,SUCCESS,WITHDRAWAL,Singanallur Branch,C7880,Shopping
+T407279,4,Coimbatore,2025-05-06,985.38,SUCCESS,WITHDRAWAL,Singanallur Branch,C7419,Shopping
+T407280,4,Coimbatore,2025-05-06,84875.49,FAILED,TRANSFER,Singanallur Branch,C8181,Bill Payment
+T407281,4,Coimbatore,2025-05-06,15760.45,SUCCESS,TRANSFER,Singanallur Branch,C1048,Loan Payment
+T407282,4,Coimbatore,2025-05-06,8280.79,FAILED,TRANSFER,Singanallur Branch,C8564,Shopping
+T407283,4,Coimbatore,2025-05-06,7697.09,SUCCESS,TRANSFER,Singanallur Branch,C9447,Education Fees
+T407284,4,Coimbatore,2025-05-06,32558.46,SUCCESS,WITHDRAWAL,Singanallur Branch,C1178,Shopping
+T407285,4,Coimbatore,2025-05-06,18127.33,FAILED,TRANSFER,Singanallur Branch,C8985,Loan Payment
+T407286,4,Coimbatore,2025-05-06,84436.02,FAILED,DEPOSIT,Singanallur Branch,C5834,Shopping
+T407287,4,Coimbatore,2025-05-06,76537.36,FAILED,TRANSFER,Singanallur Branch,C3880,Medical Expenses
+T407288,4,Coimbatore,2025-05-06,29304.35,SUCCESS,TRANSFER,Singanallur Branch,C8925,Travel
+T407289,4,Coimbatore,2025-05-06,35263.62,SUCCESS,DEPOSIT,Singanallur Branch,C3492,Shopping
+T407290,4,Coimbatore,2025-05-06,27671.49,FAILED,WITHDRAWAL,Singanallur Branch,C5434,Medical Expenses
+T407291,4,Coimbatore,2025-05-06,42702.76,FAILED,DEPOSIT,Singanallur Branch,C3488,Bill Payment
+T407292,4,Coimbatore,2025-05-06,50348.69,FAILED,TRANSFER,Singanallur Branch,C1035,Education Fees
+T407293,4,Coimbatore,2025-05-06,74462.08,FAILED,WITHDRAWAL,Singanallur Branch,C1304,Travel
+T407294,4,Coimbatore,2025-05-06,87394.96,SUCCESS,DEPOSIT,Singanallur Branch,C1784,Education Fees
+T407295,4,Coimbatore,2025-05-06,56931.57,FAILED,DEPOSIT,Singanallur Branch,C9650,Loan Payment
+T407296,4,Coimbatore,2025-05-06,33099.93,FAILED,DEPOSIT,Singanallur Branch,C9379,Loan Payment
+T407297,4,Coimbatore,2025-05-06,84876.92,FAILED,WITHDRAWAL,Singanallur Branch,C3024,Medical Expenses
+T407298,4,Coimbatore,2025-05-06,20181.38,FAILED,DEPOSIT,Singanallur Branch,C7147,Loan Payment
+T407299,4,Coimbatore,2025-05-06,13170.84,SUCCESS,TRANSFER,Singanallur Branch,C4031,Travel
+T407300,4,Coimbatore,2025-05-06,31498.39,FAILED,DEPOSIT,Singanallur Branch,C8987,Shopping
+T407301,4,Coimbatore,2025-05-06,63111.16,FAILED,WITHDRAWAL,Singanallur Branch,C2315,Bill Payment
+T407302,4,Coimbatore,2025-05-06,4361.17,SUCCESS,DEPOSIT,Singanallur Branch,C3979,Loan Payment
+T407303,4,Coimbatore,2025-05-06,34687.42,SUCCESS,DEPOSIT,Singanallur Branch,C6952,Education Fees
+T407304,4,Coimbatore,2025-05-06,21410.39,FAILED,DEPOSIT,Singanallur Branch,C3128,Travel
+T407305,4,Coimbatore,2025-05-06,41972.05,SUCCESS,WITHDRAWAL,Singanallur Branch,C5947,Bill Payment
+T407306,4,Coimbatore,2025-05-06,72329.75,SUCCESS,TRANSFER,Singanallur Branch,C5301,Others
+T407307,4,Coimbatore,2025-05-06,78649.88,FAILED,WITHDRAWAL,Singanallur Branch,C1114,Shopping
+T407308,4,Coimbatore,2025-05-06,7554.88,SUCCESS,DEPOSIT,Singanallur Branch,C3820,Bill Payment
+T407309,4,Coimbatore,2025-05-06,73951.74,FAILED,TRANSFER,Singanallur Branch,C6117,Medical Expenses
+T407310,4,Coimbatore,2025-05-06,46530.11,SUCCESS,DEPOSIT,Singanallur Branch,C8258,Travel
+T407311,4,Coimbatore,2025-05-06,26737.21,SUCCESS,DEPOSIT,Singanallur Branch,C2159,Medical Expenses
+T407312,4,Coimbatore,2025-05-06,70223.59,FAILED,TRANSFER,Singanallur Branch,C6561,Bill Payment
+T407313,4,Coimbatore,2025-05-06,69679.84,FAILED,WITHDRAWAL,Singanallur Branch,C8227,Others
+T407314,4,Coimbatore,2025-05-06,21067.16,FAILED,WITHDRAWAL,Singanallur Branch,C7624,Education Fees
+T407315,4,Coimbatore,2025-05-06,82263.48,FAILED,TRANSFER,Singanallur Branch,C6670,Education Fees
+T407316,4,Coimbatore,2025-05-06,6436.25,SUCCESS,DEPOSIT,Singanallur Branch,C8675,Shopping
+T407317,4,Coimbatore,2025-05-06,51356.66,SUCCESS,WITHDRAWAL,Singanallur Branch,C4441,Loan Payment
+T407318,4,Coimbatore,2025-05-05,7939.55,SUCCESS,TRANSFER,Singanallur Branch,C8561,Loan Payment
+T407319,4,Coimbatore,2025-05-05,66452.79,FAILED,TRANSFER,Singanallur Branch,C7024,Medical Expenses
+T407320,4,Coimbatore,2025-05-05,26081.49,FAILED,TRANSFER,Singanallur Branch,C4313,Education Fees
+T407321,4,Coimbatore,2025-05-05,51039.18,FAILED,WITHDRAWAL,Singanallur Branch,C9664,Shopping
+T407322,4,Coimbatore,2025-05-05,19691.47,SUCCESS,DEPOSIT,Singanallur Branch,C6160,Loan Payment
+T407323,4,Coimbatore,2025-05-05,69131.92,FAILED,DEPOSIT,Singanallur Branch,C3064,Shopping
+T407324,4,Coimbatore,2025-05-05,20238.22,SUCCESS,DEPOSIT,Singanallur Branch,C9560,Medical Expenses
+T407325,4,Coimbatore,2025-05-05,83730.67,SUCCESS,DEPOSIT,Singanallur Branch,C4939,Shopping
+T407326,4,Coimbatore,2025-05-05,58405.89,SUCCESS,WITHDRAWAL,Singanallur Branch,C6706,Medical Expenses
+T407327,4,Coimbatore,2025-05-05,31239.53,FAILED,TRANSFER,Singanallur Branch,C4104,Medical Expenses
+T407328,4,Coimbatore,2025-05-05,80833.3,FAILED,WITHDRAWAL,Singanallur Branch,C4838,Shopping
+T407329,4,Coimbatore,2025-05-05,76413.08,FAILED,DEPOSIT,Singanallur Branch,C5691,Bill Payment
+T407330,4,Coimbatore,2025-05-05,33283.34,SUCCESS,TRANSFER,Singanallur Branch,C1269,Travel
+T407331,4,Coimbatore,2025-05-05,44348.75,SUCCESS,TRANSFER,Singanallur Branch,C3421,Medical Expenses
+T407332,4,Coimbatore,2025-05-05,93276.44,FAILED,WITHDRAWAL,Singanallur Branch,C4087,Medical Expenses
+T407333,4,Coimbatore,2025-05-05,99092.85,FAILED,WITHDRAWAL,Singanallur Branch,C9185,Others
+T407334,4,Coimbatore,2025-05-05,3887.12,SUCCESS,TRANSFER,Singanallur Branch,C5598,Medical Expenses
+T407335,4,Coimbatore,2025-05-05,84066.91,FAILED,TRANSFER,Singanallur Branch,C5236,Travel
+T407336,4,Coimbatore,2025-05-05,95144.8,FAILED,TRANSFER,Singanallur Branch,C5917,Loan Payment
+T407337,4,Coimbatore,2025-05-05,58419.36,SUCCESS,TRANSFER,Singanallur Branch,C4588,Education Fees
+T407338,4,Coimbatore,2025-05-05,52979.58,FAILED,TRANSFER,Singanallur Branch,C6352,Medical Expenses
+T407339,4,Coimbatore,2025-05-05,17600.45,SUCCESS,TRANSFER,Singanallur Branch,C4727,Education Fees
+T407340,4,Coimbatore,2025-05-05,81987.76,FAILED,DEPOSIT,Singanallur Branch,C7893,Others
+T407341,4,Coimbatore,2025-05-05,76246.89,SUCCESS,WITHDRAWAL,Singanallur Branch,C1035,Bill Payment
+T407342,4,Coimbatore,2025-05-05,80471.7,SUCCESS,WITHDRAWAL,Singanallur Branch,C7695,Loan Payment
+T407343,4,Coimbatore,2025-05-05,49997.1,SUCCESS,WITHDRAWAL,Singanallur Branch,C1538,Travel
+T407344,4,Coimbatore,2025-05-05,45755.07,FAILED,DEPOSIT,Singanallur Branch,C4646,Others
+T407345,4,Coimbatore,2025-05-05,55880.79,SUCCESS,WITHDRAWAL,Singanallur Branch,C8332,Medical Expenses
+T407346,4,Coimbatore,2025-05-05,28525.49,SUCCESS,TRANSFER,Singanallur Branch,C2277,Education Fees
+T407347,4,Coimbatore,2025-05-05,75494.88,FAILED,DEPOSIT,Singanallur Branch,C4285,Shopping
+T407348,4,Coimbatore,2025-05-05,7807.51,SUCCESS,TRANSFER,Singanallur Branch,C4144,Medical Expenses
+T407349,4,Coimbatore,2025-05-05,53427.2,FAILED,WITHDRAWAL,Singanallur Branch,C5576,Bill Payment
+T407350,4,Coimbatore,2025-05-05,84517.64,FAILED,TRANSFER,Singanallur Branch,C3349,Education Fees
+T407351,4,Coimbatore,2025-05-05,60346.29,FAILED,TRANSFER,Singanallur Branch,C5841,Shopping
+T407352,4,Coimbatore,2025-05-05,5321.08,FAILED,TRANSFER,Singanallur Branch,C5459,Shopping
+T407353,4,Coimbatore,2025-05-05,49824.49,SUCCESS,TRANSFER,Singanallur Branch,C3209,Medical Expenses
+T407354,4,Coimbatore,2025-05-05,47974.84,FAILED,TRANSFER,Singanallur Branch,C3068,Loan Payment
+T407355,4,Coimbatore,2025-05-05,78515.91,SUCCESS,TRANSFER,Singanallur Branch,C5281,Medical Expenses
+T407356,4,Coimbatore,2025-05-05,50486.94,SUCCESS,WITHDRAWAL,Singanallur Branch,C8339,Medical Expenses
+T407357,4,Coimbatore,2025-05-05,70409.18,SUCCESS,TRANSFER,Singanallur Branch,C9337,Shopping
+T407358,4,Coimbatore,2025-05-05,35636.23,FAILED,TRANSFER,Singanallur Branch,C9332,Travel
+T407359,4,Coimbatore,2025-05-05,48776.33,SUCCESS,WITHDRAWAL,Singanallur Branch,C4521,Shopping
+T407360,4,Coimbatore,2025-05-05,5213.06,FAILED,TRANSFER,Singanallur Branch,C8036,Education Fees
+T407361,4,Coimbatore,2025-05-05,95691.47,FAILED,TRANSFER,Singanallur Branch,C9017,Medical Expenses
+T407362,4,Coimbatore,2025-05-05,50368.08,FAILED,DEPOSIT,Singanallur Branch,C7164,Shopping
+T407363,4,Coimbatore,2025-05-05,33528.6,FAILED,WITHDRAWAL,Singanallur Branch,C7521,Bill Payment
+T407364,4,Coimbatore,2025-05-05,43740.51,FAILED,DEPOSIT,Singanallur Branch,C9020,Loan Payment
+T407365,4,Coimbatore,2025-05-05,7768.6,SUCCESS,WITHDRAWAL,Singanallur Branch,C7516,Travel
+T407366,4,Coimbatore,2025-05-05,49252.45,SUCCESS,TRANSFER,Singanallur Branch,C2839,Travel
+T407367,4,Coimbatore,2025-05-05,26044.33,FAILED,DEPOSIT,Singanallur Branch,C2516,Travel
+T407368,4,Coimbatore,2025-05-05,19749.56,FAILED,TRANSFER,Singanallur Branch,C9564,Shopping
+T407369,4,Coimbatore,2025-05-05,62684.35,FAILED,WITHDRAWAL,Singanallur Branch,C3243,Others
+T407370,4,Coimbatore,2025-05-05,5727.48,SUCCESS,TRANSFER,Singanallur Branch,C8873,Bill Payment
+T407371,4,Coimbatore,2025-05-05,48326.71,SUCCESS,DEPOSIT,Singanallur Branch,C1172,Shopping
+T407372,4,Coimbatore,2025-05-05,11770.34,FAILED,DEPOSIT,Singanallur Branch,C9177,Loan Payment
+T407373,4,Coimbatore,2025-05-05,56864.05,SUCCESS,WITHDRAWAL,Singanallur Branch,C9028,Shopping
+T407374,4,Coimbatore,2025-05-05,79463.71,SUCCESS,DEPOSIT,Singanallur Branch,C2288,Loan Payment
+T407375,4,Coimbatore,2025-05-05,90321.47,SUCCESS,DEPOSIT,Singanallur Branch,C9574,Bill Payment
+T407376,4,Coimbatore,2025-05-04,42995.13,SUCCESS,WITHDRAWAL,Singanallur Branch,C6255,Education Fees
+T407377,4,Coimbatore,2025-05-04,14811.46,SUCCESS,TRANSFER,Singanallur Branch,C6896,Medical Expenses
+T407378,4,Coimbatore,2025-05-04,94098.77,SUCCESS,WITHDRAWAL,Singanallur Branch,C8116,Bill Payment
+T407379,4,Coimbatore,2025-05-04,6298.02,FAILED,WITHDRAWAL,Singanallur Branch,C6615,Education Fees
+T407380,4,Coimbatore,2025-05-04,31374.86,FAILED,WITHDRAWAL,Singanallur Branch,C3597,Education Fees
+T407381,4,Coimbatore,2025-05-04,4593.48,SUCCESS,DEPOSIT,Singanallur Branch,C1199,Bill Payment
+T407382,4,Coimbatore,2025-05-04,15153.87,FAILED,TRANSFER,Singanallur Branch,C4734,Bill Payment
+T407383,4,Coimbatore,2025-05-04,5665.85,SUCCESS,DEPOSIT,Singanallur Branch,C6091,Medical Expenses
+T407384,4,Coimbatore,2025-05-04,8284.03,FAILED,WITHDRAWAL,Singanallur Branch,C7659,Others
+T407385,4,Coimbatore,2025-05-04,11552.02,FAILED,DEPOSIT,Singanallur Branch,C2000,Education Fees
+T407386,4,Coimbatore,2025-05-04,92810.14,SUCCESS,WITHDRAWAL,Singanallur Branch,C1962,Loan Payment
+T407387,4,Coimbatore,2025-05-04,38193.8,FAILED,WITHDRAWAL,Singanallur Branch,C8499,Medical Expenses
+T407388,4,Coimbatore,2025-05-04,79466.9,FAILED,DEPOSIT,Singanallur Branch,C5810,Others
+T407389,4,Coimbatore,2025-05-04,37624.91,SUCCESS,WITHDRAWAL,Singanallur Branch,C9831,Loan Payment
+T407390,4,Coimbatore,2025-05-04,98074.21,FAILED,DEPOSIT,Singanallur Branch,C8667,Bill Payment
+T407391,4,Coimbatore,2025-05-04,88122.74,SUCCESS,TRANSFER,Singanallur Branch,C4271,Education Fees
+T407392,4,Coimbatore,2025-05-04,17335.77,FAILED,DEPOSIT,Singanallur Branch,C7493,Medical Expenses
+T407393,4,Coimbatore,2025-05-04,5458.44,SUCCESS,TRANSFER,Singanallur Branch,C8747,Bill Payment
+T407394,4,Coimbatore,2025-05-04,11123.91,FAILED,DEPOSIT,Singanallur Branch,C9296,Others
+T407395,4,Coimbatore,2025-05-04,79495.25,FAILED,DEPOSIT,Singanallur Branch,C2297,Travel
+T407396,4,Coimbatore,2025-05-04,44792.42,SUCCESS,DEPOSIT,Singanallur Branch,C8933,Education Fees
+T407397,4,Coimbatore,2025-05-04,58746.22,FAILED,TRANSFER,Singanallur Branch,C9244,Travel
+T407398,4,Coimbatore,2025-05-04,58904.24,FAILED,WITHDRAWAL,Singanallur Branch,C8703,Loan Payment
+T407399,4,Coimbatore,2025-05-04,98736.68,SUCCESS,DEPOSIT,Singanallur Branch,C8290,Shopping
+T407400,4,Coimbatore,2025-05-04,62121.86,FAILED,WITHDRAWAL,Singanallur Branch,C7596,Travel
+T407401,4,Coimbatore,2025-05-04,55699.0,FAILED,DEPOSIT,Singanallur Branch,C3490,Loan Payment
+T407402,4,Coimbatore,2025-05-04,24506.24,SUCCESS,DEPOSIT,Singanallur Branch,C7274,Medical Expenses
+T407403,4,Coimbatore,2025-05-04,47811.58,SUCCESS,WITHDRAWAL,Singanallur Branch,C7511,Medical Expenses
+T407404,4,Coimbatore,2025-05-04,30881.69,SUCCESS,TRANSFER,Singanallur Branch,C7572,Medical Expenses
+T407405,4,Coimbatore,2025-05-04,11394.04,FAILED,WITHDRAWAL,Singanallur Branch,C7609,Bill Payment
+T407406,4,Coimbatore,2025-05-04,23638.67,FAILED,TRANSFER,Singanallur Branch,C4927,Medical Expenses
+T407407,4,Coimbatore,2025-05-04,89791.77,FAILED,TRANSFER,Singanallur Branch,C4941,Loan Payment
+T407408,4,Coimbatore,2025-05-04,89471.05,SUCCESS,TRANSFER,Singanallur Branch,C8057,Others
+T407409,4,Coimbatore,2025-05-04,31636.83,FAILED,TRANSFER,Singanallur Branch,C8527,Travel
+T407410,4,Coimbatore,2025-05-04,91994.38,FAILED,TRANSFER,Singanallur Branch,C9909,Education Fees
+T407411,4,Coimbatore,2025-05-04,33406.12,SUCCESS,TRANSFER,Singanallur Branch,C3932,Bill Payment
+T407412,4,Coimbatore,2025-05-04,28782.69,SUCCESS,DEPOSIT,Singanallur Branch,C5915,Shopping
+T407413,4,Coimbatore,2025-05-04,16122.45,FAILED,WITHDRAWAL,Singanallur Branch,C4002,Medical Expenses
+T407414,4,Coimbatore,2025-05-04,1310.98,SUCCESS,TRANSFER,Singanallur Branch,C1822,Bill Payment
+T407415,4,Coimbatore,2025-05-04,98987.83,SUCCESS,TRANSFER,Singanallur Branch,C2857,Loan Payment
+T407416,4,Coimbatore,2025-05-04,40385.89,SUCCESS,DEPOSIT,Singanallur Branch,C8775,Education Fees
+T407417,4,Coimbatore,2025-05-04,2548.52,SUCCESS,TRANSFER,Singanallur Branch,C4869,Travel
+T407418,4,Coimbatore,2025-05-04,42137.28,FAILED,DEPOSIT,Singanallur Branch,C9732,Loan Payment
+T407419,4,Coimbatore,2025-05-04,83894.11,SUCCESS,DEPOSIT,Singanallur Branch,C2303,Medical Expenses
+T407420,4,Coimbatore,2025-05-04,12730.82,FAILED,DEPOSIT,Singanallur Branch,C8311,Loan Payment
+T407421,4,Coimbatore,2025-05-04,33982.99,FAILED,DEPOSIT,Singanallur Branch,C6214,Bill Payment
+T407422,4,Coimbatore,2025-05-04,56725.98,FAILED,TRANSFER,Singanallur Branch,C7208,Shopping
+T407423,4,Coimbatore,2025-05-04,39022.04,FAILED,DEPOSIT,Singanallur Branch,C9059,Bill Payment
+T407424,4,Coimbatore,2025-05-04,63055.82,SUCCESS,WITHDRAWAL,Singanallur Branch,C7779,Loan Payment
+T407425,4,Coimbatore,2025-05-04,3757.22,SUCCESS,DEPOSIT,Singanallur Branch,C9260,Shopping
+T407426,4,Coimbatore,2025-05-04,91581.2,FAILED,TRANSFER,Singanallur Branch,C9118,Bill Payment
+T407427,4,Coimbatore,2025-05-04,60116.49,FAILED,WITHDRAWAL,Singanallur Branch,C1110,Education Fees
+T407428,4,Coimbatore,2025-05-03,68157.41,SUCCESS,DEPOSIT,Singanallur Branch,C6691,Others
+T407429,4,Coimbatore,2025-05-03,65437.29,FAILED,WITHDRAWAL,Singanallur Branch,C8918,Shopping
+T407430,4,Coimbatore,2025-05-03,14228.17,SUCCESS,DEPOSIT,Singanallur Branch,C5390,Medical Expenses
+T407431,4,Coimbatore,2025-05-03,47646.81,SUCCESS,TRANSFER,Singanallur Branch,C1284,Loan Payment
+T407432,4,Coimbatore,2025-05-03,75504.44,FAILED,DEPOSIT,Singanallur Branch,C3257,Bill Payment
+T407433,4,Coimbatore,2025-05-03,27887.15,SUCCESS,WITHDRAWAL,Singanallur Branch,C9304,Loan Payment
+T407434,4,Coimbatore,2025-05-03,97401.47,SUCCESS,WITHDRAWAL,Singanallur Branch,C1946,Travel
+T407435,4,Coimbatore,2025-05-03,88055.13,FAILED,WITHDRAWAL,Singanallur Branch,C7946,Loan Payment
+T407436,4,Coimbatore,2025-05-03,58104.16,FAILED,DEPOSIT,Singanallur Branch,C4101,Travel
+T407437,4,Coimbatore,2025-05-03,10393.02,FAILED,DEPOSIT,Singanallur Branch,C9485,Bill Payment
+T407438,4,Coimbatore,2025-05-03,33003.61,SUCCESS,TRANSFER,Singanallur Branch,C4428,Bill Payment
+T407439,4,Coimbatore,2025-05-03,33268.73,FAILED,DEPOSIT,Singanallur Branch,C9688,Bill Payment
+T407440,4,Coimbatore,2025-05-03,82031.5,SUCCESS,DEPOSIT,Singanallur Branch,C4967,Bill Payment
+T407441,4,Coimbatore,2025-05-03,64061.17,SUCCESS,TRANSFER,Singanallur Branch,C4693,Shopping
+T407442,4,Coimbatore,2025-05-03,73768.94,FAILED,TRANSFER,Singanallur Branch,C1130,Medical Expenses
+T407443,4,Coimbatore,2025-05-03,42473.38,SUCCESS,WITHDRAWAL,Singanallur Branch,C9635,Bill Payment
+T407444,4,Coimbatore,2025-05-03,20317.14,SUCCESS,TRANSFER,Singanallur Branch,C8725,Medical Expenses
+T407445,4,Coimbatore,2025-05-03,15601.48,FAILED,TRANSFER,Singanallur Branch,C5703,Others
+T407446,4,Coimbatore,2025-05-03,14543.97,FAILED,DEPOSIT,Singanallur Branch,C1496,Education Fees
+T407447,4,Coimbatore,2025-05-03,9394.6,SUCCESS,WITHDRAWAL,Singanallur Branch,C6848,Travel
+T407448,4,Coimbatore,2025-05-03,65556.32,SUCCESS,DEPOSIT,Singanallur Branch,C2714,Others
+T407449,4,Coimbatore,2025-05-03,99704.62,SUCCESS,TRANSFER,Singanallur Branch,C9243,Travel
+T407450,4,Coimbatore,2025-05-03,6809.41,SUCCESS,DEPOSIT,Singanallur Branch,C4195,Loan Payment
+T407451,4,Coimbatore,2025-05-03,33010.15,SUCCESS,WITHDRAWAL,Singanallur Branch,C5634,Education Fees
+T407452,4,Coimbatore,2025-05-03,22566.1,SUCCESS,TRANSFER,Singanallur Branch,C3067,Loan Payment
+T407453,4,Coimbatore,2025-05-03,58036.58,SUCCESS,TRANSFER,Singanallur Branch,C8521,Education Fees
+T407454,4,Coimbatore,2025-05-03,22351.27,FAILED,TRANSFER,Singanallur Branch,C1962,Medical Expenses
+T407455,4,Coimbatore,2025-05-03,69463.14,FAILED,WITHDRAWAL,Singanallur Branch,C7818,Others
+T407456,4,Coimbatore,2025-05-03,75832.03,FAILED,WITHDRAWAL,Singanallur Branch,C8291,Loan Payment
+T407457,4,Coimbatore,2025-05-03,34439.61,FAILED,WITHDRAWAL,Singanallur Branch,C4273,Medical Expenses
+T407458,4,Coimbatore,2025-05-03,94384.49,SUCCESS,TRANSFER,Singanallur Branch,C1855,Loan Payment
+T407459,4,Coimbatore,2025-05-03,94933.89,FAILED,TRANSFER,Singanallur Branch,C4243,Loan Payment
+T407460,4,Coimbatore,2025-05-03,11437.18,FAILED,TRANSFER,Singanallur Branch,C8544,Education Fees
+T407461,4,Coimbatore,2025-05-03,85153.02,SUCCESS,DEPOSIT,Singanallur Branch,C7053,Medical Expenses
+T407462,4,Coimbatore,2025-05-03,14295.28,SUCCESS,TRANSFER,Singanallur Branch,C4441,Shopping
+T407463,4,Coimbatore,2025-05-03,61522.06,SUCCESS,TRANSFER,Singanallur Branch,C3944,Others
+T407464,4,Coimbatore,2025-05-03,16036.29,SUCCESS,TRANSFER,Singanallur Branch,C7842,Bill Payment
+T407465,4,Coimbatore,2025-05-03,49925.89,FAILED,TRANSFER,Singanallur Branch,C4666,Loan Payment
+T407466,4,Coimbatore,2025-05-03,35525.52,SUCCESS,DEPOSIT,Singanallur Branch,C8197,Education Fees
+T407467,4,Coimbatore,2025-05-03,12268.24,SUCCESS,TRANSFER,Singanallur Branch,C8331,Shopping
+T407468,4,Coimbatore,2025-05-03,36787.33,FAILED,WITHDRAWAL,Singanallur Branch,C4092,Others
+T407469,4,Coimbatore,2025-05-03,41195.18,SUCCESS,DEPOSIT,Singanallur Branch,C4201,Travel
+T407470,4,Coimbatore,2025-05-03,65680.21,FAILED,DEPOSIT,Singanallur Branch,C6113,Education Fees
+T407471,4,Coimbatore,2025-05-03,27724.52,SUCCESS,DEPOSIT,Singanallur Branch,C4358,Bill Payment
+T407472,4,Coimbatore,2025-05-03,71602.62,FAILED,WITHDRAWAL,Singanallur Branch,C3526,Others
+T407473,4,Coimbatore,2025-05-03,23129.75,FAILED,DEPOSIT,Singanallur Branch,C5827,Shopping
+T407474,4,Coimbatore,2025-05-03,22389.67,FAILED,DEPOSIT,Singanallur Branch,C6078,Shopping
+T407475,4,Coimbatore,2025-05-03,78871.5,FAILED,WITHDRAWAL,Singanallur Branch,C3557,Medical Expenses
+T407476,4,Coimbatore,2025-05-03,99504.0,FAILED,DEPOSIT,Singanallur Branch,C5917,Loan Payment
+T407477,4,Coimbatore,2025-05-03,60888.13,FAILED,WITHDRAWAL,Singanallur Branch,C6536,Medical Expenses
+T407478,4,Coimbatore,2025-05-03,58864.31,FAILED,TRANSFER,Singanallur Branch,C5581,Others
+T407479,4,Coimbatore,2025-05-03,15936.39,FAILED,TRANSFER,Singanallur Branch,C9515,Loan Payment
+T407480,4,Coimbatore,2025-05-03,28922.24,FAILED,DEPOSIT,Singanallur Branch,C9138,Loan Payment
+T407481,4,Coimbatore,2025-05-03,43146.28,FAILED,WITHDRAWAL,Singanallur Branch,C3325,Travel
+T407482,4,Coimbatore,2025-05-03,62506.94,SUCCESS,DEPOSIT,Singanallur Branch,C2045,Education Fees
+T407483,4,Coimbatore,2025-05-03,35732.88,FAILED,TRANSFER,Singanallur Branch,C2766,Medical Expenses
+T407484,4,Coimbatore,2025-05-03,34723.19,FAILED,TRANSFER,Singanallur Branch,C1308,Education Fees
+T407485,4,Coimbatore,2025-05-03,73659.58,SUCCESS,WITHDRAWAL,Singanallur Branch,C5678,Bill Payment
+T407486,4,Coimbatore,2025-05-03,72721.76,SUCCESS,WITHDRAWAL,Singanallur Branch,C6313,Medical Expenses
+T407487,4,Coimbatore,2025-05-03,23474.06,SUCCESS,WITHDRAWAL,Singanallur Branch,C6246,Others
+T407488,4,Coimbatore,2025-05-03,7740.85,SUCCESS,TRANSFER,Singanallur Branch,C7466,Shopping
+T407489,4,Coimbatore,2025-05-03,10693.98,FAILED,TRANSFER,Singanallur Branch,C6378,Bill Payment
+T407490,4,Coimbatore,2025-05-03,23518.1,FAILED,TRANSFER,Singanallur Branch,C2305,Bill Payment
+T407491,4,Coimbatore,2025-05-03,73449.82,SUCCESS,DEPOSIT,Singanallur Branch,C8349,Travel
+T407492,4,Coimbatore,2025-05-03,10356.42,FAILED,WITHDRAWAL,Singanallur Branch,C5381,Bill Payment
+T407493,4,Coimbatore,2025-05-03,4104.69,SUCCESS,WITHDRAWAL,Singanallur Branch,C1767,Shopping
+T407494,4,Coimbatore,2025-05-03,43582.07,SUCCESS,WITHDRAWAL,Singanallur Branch,C8199,Travel
+T407495,4,Coimbatore,2025-05-03,88620.9,SUCCESS,WITHDRAWAL,Singanallur Branch,C1970,Shopping
+T407496,4,Coimbatore,2025-05-03,23122.13,FAILED,WITHDRAWAL,Singanallur Branch,C3212,Education Fees
+T407497,4,Coimbatore,2025-05-03,8100.35,FAILED,TRANSFER,Singanallur Branch,C2290,Travel
+T407498,4,Coimbatore,2025-05-03,54585.57,SUCCESS,DEPOSIT,Singanallur Branch,C4095,Loan Payment
+T407499,4,Coimbatore,2025-05-03,90275.49,FAILED,DEPOSIT,Singanallur Branch,C6033,Education Fees
+T407500,4,Coimbatore,2025-05-03,45636.9,SUCCESS,WITHDRAWAL,Singanallur Branch,C1270,Travel
+T407501,4,Coimbatore,2025-05-03,30817.28,FAILED,DEPOSIT,Singanallur Branch,C5894,Others
+T407502,4,Coimbatore,2025-05-03,56762.18,SUCCESS,WITHDRAWAL,Singanallur Branch,C8970,Medical Expenses
+T407503,4,Coimbatore,2025-05-03,81125.88,FAILED,TRANSFER,Singanallur Branch,C3300,Bill Payment
+T407504,4,Coimbatore,2025-05-03,30978.94,SUCCESS,WITHDRAWAL,Singanallur Branch,C3593,Loan Payment
+T407505,4,Coimbatore,2025-05-03,1159.96,SUCCESS,TRANSFER,Singanallur Branch,C6527,Medical Expenses
+T407506,4,Coimbatore,2025-05-03,11514.15,SUCCESS,DEPOSIT,Singanallur Branch,C5634,Travel
+T407507,4,Coimbatore,2025-05-03,33643.07,SUCCESS,TRANSFER,Singanallur Branch,C4606,Medical Expenses
+T407508,4,Coimbatore,2025-05-03,52180.57,FAILED,TRANSFER,Singanallur Branch,C3094,Bill Payment
+T407509,4,Coimbatore,2025-05-03,1826.19,SUCCESS,TRANSFER,Singanallur Branch,C5092,Education Fees
+T407510,4,Coimbatore,2025-05-03,67076.89,SUCCESS,DEPOSIT,Singanallur Branch,C2974,Education Fees
+T407511,4,Coimbatore,2025-05-03,41301.62,SUCCESS,TRANSFER,Singanallur Branch,C2820,Others
+T407512,4,Coimbatore,2025-05-03,76957.05,FAILED,DEPOSIT,Singanallur Branch,C2580,Education Fees
+T407513,4,Coimbatore,2025-05-03,30061.79,FAILED,TRANSFER,Singanallur Branch,C4821,Travel
+T407514,4,Coimbatore,2025-05-03,49193.84,SUCCESS,DEPOSIT,Singanallur Branch,C8081,Shopping
+T407515,4,Coimbatore,2025-05-03,37519.11,SUCCESS,DEPOSIT,Singanallur Branch,C6778,Others
+T407516,4,Coimbatore,2025-05-03,28953.33,FAILED,DEPOSIT,Singanallur Branch,C1370,Travel
+T407517,4,Coimbatore,2025-05-03,52422.36,FAILED,WITHDRAWAL,Singanallur Branch,C9574,Bill Payment

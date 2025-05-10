@@ -1,0 +1,563 @@
+TRANSACTION_ID,BRANCH_ID,CITY,DATE,AMOUNT,STATUS,TRANSACTION_TYPE,BRANCH_NAME,CUSTOMER_ID,PURPOSE
+T407518,5,Coimbatore,2025-05-09,84033.87,FAILED,DEPOSIT,Saibaba Colony Branch,C4133,Travel
+T407519,5,Coimbatore,2025-05-09,29503.59,SUCCESS,TRANSFER,Saibaba Colony Branch,C1492,Shopping
+T407520,5,Coimbatore,2025-05-09,72471.2,FAILED,WITHDRAWAL,Saibaba Colony Branch,C6761,Others
+T407521,5,Coimbatore,2025-05-09,16866.85,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C7245,Others
+T407522,5,Coimbatore,2025-05-09,89069.02,SUCCESS,DEPOSIT,Saibaba Colony Branch,C6956,Travel
+T407523,5,Coimbatore,2025-05-09,46209.01,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C1909,Bill Payment
+T407524,5,Coimbatore,2025-05-09,16474.62,FAILED,TRANSFER,Saibaba Colony Branch,C6072,Medical Expenses
+T407525,5,Coimbatore,2025-05-09,26439.29,SUCCESS,TRANSFER,Saibaba Colony Branch,C7594,Loan Payment
+T407526,5,Coimbatore,2025-05-09,92874.35,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C3884,Education Fees
+T407527,5,Coimbatore,2025-05-09,5390.04,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C5377,Others
+T407528,5,Coimbatore,2025-05-09,68380.63,SUCCESS,DEPOSIT,Saibaba Colony Branch,C4053,Medical Expenses
+T407529,5,Coimbatore,2025-05-09,42791.58,FAILED,DEPOSIT,Saibaba Colony Branch,C7231,Medical Expenses
+T407530,5,Coimbatore,2025-05-09,88303.33,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C7056,Shopping
+T407531,5,Coimbatore,2025-05-09,10313.52,FAILED,TRANSFER,Saibaba Colony Branch,C9188,Loan Payment
+T407532,5,Coimbatore,2025-05-09,79598.41,FAILED,DEPOSIT,Saibaba Colony Branch,C7821,Bill Payment
+T407533,5,Coimbatore,2025-05-09,53764.78,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C5052,Loan Payment
+T407534,5,Coimbatore,2025-05-09,65315.5,SUCCESS,TRANSFER,Saibaba Colony Branch,C7167,Travel
+T407535,5,Coimbatore,2025-05-09,37889.21,FAILED,DEPOSIT,Saibaba Colony Branch,C3300,Bill Payment
+T407536,5,Coimbatore,2025-05-09,47315.4,SUCCESS,TRANSFER,Saibaba Colony Branch,C8126,Others
+T407537,5,Coimbatore,2025-05-09,95391.42,FAILED,WITHDRAWAL,Saibaba Colony Branch,C3035,Loan Payment
+T407538,5,Coimbatore,2025-05-09,23473.52,FAILED,DEPOSIT,Saibaba Colony Branch,C9593,Education Fees
+T407539,5,Coimbatore,2025-05-09,82285.14,FAILED,DEPOSIT,Saibaba Colony Branch,C7238,Travel
+T407540,5,Coimbatore,2025-05-09,17078.93,SUCCESS,DEPOSIT,Saibaba Colony Branch,C9672,Shopping
+T407541,5,Coimbatore,2025-05-09,84390.35,SUCCESS,DEPOSIT,Saibaba Colony Branch,C2029,Others
+T407542,5,Coimbatore,2025-05-09,71062.93,FAILED,TRANSFER,Saibaba Colony Branch,C3429,Bill Payment
+T407543,5,Coimbatore,2025-05-09,75288.07,FAILED,TRANSFER,Saibaba Colony Branch,C3975,Medical Expenses
+T407544,5,Coimbatore,2025-05-09,64279.02,FAILED,WITHDRAWAL,Saibaba Colony Branch,C9450,Loan Payment
+T407545,5,Coimbatore,2025-05-09,52323.75,SUCCESS,DEPOSIT,Saibaba Colony Branch,C4910,Others
+T407546,5,Coimbatore,2025-05-09,75130.8,FAILED,TRANSFER,Saibaba Colony Branch,C9035,Bill Payment
+T407547,5,Coimbatore,2025-05-09,39302.91,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C7773,Education Fees
+T407548,5,Coimbatore,2025-05-09,18277.84,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C5111,Travel
+T407549,5,Coimbatore,2025-05-09,75762.09,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C2880,Shopping
+T407550,5,Coimbatore,2025-05-09,50348.37,FAILED,DEPOSIT,Saibaba Colony Branch,C6287,Education Fees
+T407551,5,Coimbatore,2025-05-09,37619.33,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C2412,Education Fees
+T407552,5,Coimbatore,2025-05-09,95164.57,FAILED,WITHDRAWAL,Saibaba Colony Branch,C5651,Travel
+T407553,5,Coimbatore,2025-05-09,15450.9,SUCCESS,TRANSFER,Saibaba Colony Branch,C3213,Shopping
+T407554,5,Coimbatore,2025-05-09,18351.34,SUCCESS,TRANSFER,Saibaba Colony Branch,C5144,Loan Payment
+T407555,5,Coimbatore,2025-05-09,99907.85,FAILED,TRANSFER,Saibaba Colony Branch,C5355,Travel
+T407556,5,Coimbatore,2025-05-09,15204.63,SUCCESS,DEPOSIT,Saibaba Colony Branch,C6950,Loan Payment
+T407557,5,Coimbatore,2025-05-09,45827.28,SUCCESS,TRANSFER,Saibaba Colony Branch,C6739,Travel
+T407558,5,Coimbatore,2025-05-09,99154.28,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C9200,Shopping
+T407559,5,Coimbatore,2025-05-09,54757.48,SUCCESS,DEPOSIT,Saibaba Colony Branch,C7819,Others
+T407560,5,Coimbatore,2025-05-09,83803.18,FAILED,WITHDRAWAL,Saibaba Colony Branch,C2717,Travel
+T407561,5,Coimbatore,2025-05-09,27645.87,FAILED,DEPOSIT,Saibaba Colony Branch,C2999,Education Fees
+T407562,5,Coimbatore,2025-05-09,95052.2,FAILED,TRANSFER,Saibaba Colony Branch,C1627,Medical Expenses
+T407563,5,Coimbatore,2025-05-09,75530.67,SUCCESS,TRANSFER,Saibaba Colony Branch,C5492,Education Fees
+T407564,5,Coimbatore,2025-05-09,90803.01,FAILED,TRANSFER,Saibaba Colony Branch,C7686,Education Fees
+T407565,5,Coimbatore,2025-05-09,88833.55,SUCCESS,DEPOSIT,Saibaba Colony Branch,C8306,Shopping
+T407566,5,Coimbatore,2025-05-09,61624.8,FAILED,WITHDRAWAL,Saibaba Colony Branch,C4654,Shopping
+T407567,5,Coimbatore,2025-05-09,79096.2,FAILED,DEPOSIT,Saibaba Colony Branch,C3863,Medical Expenses
+T407568,5,Coimbatore,2025-05-09,93160.0,FAILED,WITHDRAWAL,Saibaba Colony Branch,C9446,Bill Payment
+T407569,5,Coimbatore,2025-05-09,48871.45,FAILED,TRANSFER,Saibaba Colony Branch,C9572,Medical Expenses
+T407570,5,Coimbatore,2025-05-09,60994.09,SUCCESS,DEPOSIT,Saibaba Colony Branch,C6664,Bill Payment
+T407571,5,Coimbatore,2025-05-09,71258.34,FAILED,DEPOSIT,Saibaba Colony Branch,C9263,Others
+T407572,5,Coimbatore,2025-05-09,6069.96,FAILED,DEPOSIT,Saibaba Colony Branch,C9412,Loan Payment
+T407573,5,Coimbatore,2025-05-09,12987.63,FAILED,DEPOSIT,Saibaba Colony Branch,C2719,Education Fees
+T407574,5,Coimbatore,2025-05-09,11361.56,FAILED,WITHDRAWAL,Saibaba Colony Branch,C9105,Medical Expenses
+T407575,5,Coimbatore,2025-05-09,20492.21,SUCCESS,DEPOSIT,Saibaba Colony Branch,C3467,Others
+T407576,5,Coimbatore,2025-05-09,57533.26,FAILED,DEPOSIT,Saibaba Colony Branch,C4813,Travel
+T407577,5,Coimbatore,2025-05-09,78508.37,SUCCESS,DEPOSIT,Saibaba Colony Branch,C4609,Shopping
+T407578,5,Coimbatore,2025-05-09,48936.14,FAILED,DEPOSIT,Saibaba Colony Branch,C7038,Shopping
+T407579,5,Coimbatore,2025-05-09,14136.06,FAILED,WITHDRAWAL,Saibaba Colony Branch,C9764,Education Fees
+T407580,5,Coimbatore,2025-05-09,94311.63,SUCCESS,TRANSFER,Saibaba Colony Branch,C9577,Loan Payment
+T407581,5,Coimbatore,2025-05-09,87890.65,SUCCESS,DEPOSIT,Saibaba Colony Branch,C2121,Education Fees
+T407582,5,Coimbatore,2025-05-09,74265.12,SUCCESS,DEPOSIT,Saibaba Colony Branch,C2448,Medical Expenses
+T407583,5,Coimbatore,2025-05-09,70694.6,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C5886,Education Fees
+T407584,5,Coimbatore,2025-05-09,90260.28,SUCCESS,TRANSFER,Saibaba Colony Branch,C9286,Shopping
+T407585,5,Coimbatore,2025-05-09,33679.23,FAILED,TRANSFER,Saibaba Colony Branch,C4342,Shopping
+T407586,5,Coimbatore,2025-05-09,77486.28,SUCCESS,TRANSFER,Saibaba Colony Branch,C7249,Education Fees
+T407587,5,Coimbatore,2025-05-09,93498.05,SUCCESS,DEPOSIT,Saibaba Colony Branch,C8160,Loan Payment
+T407588,5,Coimbatore,2025-05-09,77466.89,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C5267,Travel
+T407589,5,Coimbatore,2025-05-09,12711.02,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C3426,Travel
+T407590,5,Coimbatore,2025-05-09,5856.5,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C3760,Medical Expenses
+T407591,5,Coimbatore,2025-05-09,7644.47,FAILED,DEPOSIT,Saibaba Colony Branch,C5215,Travel
+T407592,5,Coimbatore,2025-05-08,7748.47,SUCCESS,DEPOSIT,Saibaba Colony Branch,C5247,Travel
+T407593,5,Coimbatore,2025-05-08,2760.89,SUCCESS,TRANSFER,Saibaba Colony Branch,C9706,Others
+T407594,5,Coimbatore,2025-05-08,99409.68,FAILED,TRANSFER,Saibaba Colony Branch,C5951,Loan Payment
+T407595,5,Coimbatore,2025-05-08,77658.44,FAILED,DEPOSIT,Saibaba Colony Branch,C5101,Travel
+T407596,5,Coimbatore,2025-05-08,11223.55,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C3655,Shopping
+T407597,5,Coimbatore,2025-05-08,99861.41,FAILED,DEPOSIT,Saibaba Colony Branch,C5443,Shopping
+T407598,5,Coimbatore,2025-05-08,15391.66,SUCCESS,DEPOSIT,Saibaba Colony Branch,C6551,Travel
+T407599,5,Coimbatore,2025-05-08,52698.82,FAILED,TRANSFER,Saibaba Colony Branch,C6366,Travel
+T407600,5,Coimbatore,2025-05-08,66708.66,SUCCESS,DEPOSIT,Saibaba Colony Branch,C1316,Travel
+T407601,5,Coimbatore,2025-05-08,69180.76,SUCCESS,TRANSFER,Saibaba Colony Branch,C3900,Loan Payment
+T407602,5,Coimbatore,2025-05-08,37740.3,FAILED,WITHDRAWAL,Saibaba Colony Branch,C7053,Travel
+T407603,5,Coimbatore,2025-05-08,64121.49,FAILED,WITHDRAWAL,Saibaba Colony Branch,C6657,Bill Payment
+T407604,5,Coimbatore,2025-05-08,71097.74,FAILED,WITHDRAWAL,Saibaba Colony Branch,C5177,Medical Expenses
+T407605,5,Coimbatore,2025-05-08,82134.69,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C8955,Bill Payment
+T407606,5,Coimbatore,2025-05-08,22715.36,FAILED,TRANSFER,Saibaba Colony Branch,C3139,Medical Expenses
+T407607,5,Coimbatore,2025-05-08,67591.11,SUCCESS,TRANSFER,Saibaba Colony Branch,C3357,Others
+T407608,5,Coimbatore,2025-05-08,52995.95,SUCCESS,TRANSFER,Saibaba Colony Branch,C7096,Education Fees
+T407609,5,Coimbatore,2025-05-08,37451.27,FAILED,DEPOSIT,Saibaba Colony Branch,C1992,Loan Payment
+T407610,5,Coimbatore,2025-05-08,26591.04,FAILED,TRANSFER,Saibaba Colony Branch,C2519,Loan Payment
+T407611,5,Coimbatore,2025-05-08,55292.47,SUCCESS,TRANSFER,Saibaba Colony Branch,C9867,Shopping
+T407612,5,Coimbatore,2025-05-08,3579.43,FAILED,TRANSFER,Saibaba Colony Branch,C4492,Loan Payment
+T407613,5,Coimbatore,2025-05-08,32562.37,FAILED,WITHDRAWAL,Saibaba Colony Branch,C3560,Shopping
+T407614,5,Coimbatore,2025-05-08,3769.43,FAILED,TRANSFER,Saibaba Colony Branch,C4959,Others
+T407615,5,Coimbatore,2025-05-08,21612.81,FAILED,DEPOSIT,Saibaba Colony Branch,C6861,Medical Expenses
+T407616,5,Coimbatore,2025-05-08,97417.52,FAILED,TRANSFER,Saibaba Colony Branch,C6180,Travel
+T407617,5,Coimbatore,2025-05-08,31690.81,FAILED,WITHDRAWAL,Saibaba Colony Branch,C8517,Loan Payment
+T407618,5,Coimbatore,2025-05-08,55629.45,FAILED,TRANSFER,Saibaba Colony Branch,C3810,Shopping
+T407619,5,Coimbatore,2025-05-08,27916.92,FAILED,WITHDRAWAL,Saibaba Colony Branch,C6704,Education Fees
+T407620,5,Coimbatore,2025-05-08,49531.05,FAILED,WITHDRAWAL,Saibaba Colony Branch,C7516,Travel
+T407621,5,Coimbatore,2025-05-08,93776.28,FAILED,TRANSFER,Saibaba Colony Branch,C9272,Shopping
+T407622,5,Coimbatore,2025-05-08,86279.35,SUCCESS,TRANSFER,Saibaba Colony Branch,C9489,Education Fees
+T407623,5,Coimbatore,2025-05-08,68835.08,FAILED,DEPOSIT,Saibaba Colony Branch,C7057,Loan Payment
+T407624,5,Coimbatore,2025-05-08,16029.92,FAILED,DEPOSIT,Saibaba Colony Branch,C5557,Others
+T407625,5,Coimbatore,2025-05-08,16464.78,FAILED,DEPOSIT,Saibaba Colony Branch,C7171,Education Fees
+T407626,5,Coimbatore,2025-05-08,89888.78,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C4365,Bill Payment
+T407627,5,Coimbatore,2025-05-08,79049.78,FAILED,DEPOSIT,Saibaba Colony Branch,C9602,Travel
+T407628,5,Coimbatore,2025-05-08,51293.22,SUCCESS,DEPOSIT,Saibaba Colony Branch,C4736,Education Fees
+T407629,5,Coimbatore,2025-05-08,4205.81,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C9343,Medical Expenses
+T407630,5,Coimbatore,2025-05-08,76321.53,SUCCESS,TRANSFER,Saibaba Colony Branch,C6886,Loan Payment
+T407631,5,Coimbatore,2025-05-08,26385.6,FAILED,DEPOSIT,Saibaba Colony Branch,C5113,Shopping
+T407632,5,Coimbatore,2025-05-08,34276.73,FAILED,TRANSFER,Saibaba Colony Branch,C4213,Loan Payment
+T407633,5,Coimbatore,2025-05-08,4472.72,SUCCESS,DEPOSIT,Saibaba Colony Branch,C7319,Loan Payment
+T407634,5,Coimbatore,2025-05-08,79913.05,FAILED,DEPOSIT,Saibaba Colony Branch,C9666,Others
+T407635,5,Coimbatore,2025-05-08,81837.09,FAILED,DEPOSIT,Saibaba Colony Branch,C4559,Travel
+T407636,5,Coimbatore,2025-05-08,89812.71,FAILED,TRANSFER,Saibaba Colony Branch,C5314,Travel
+T407637,5,Coimbatore,2025-05-08,89896.46,FAILED,TRANSFER,Saibaba Colony Branch,C6245,Medical Expenses
+T407638,5,Coimbatore,2025-05-08,12459.01,SUCCESS,TRANSFER,Saibaba Colony Branch,C6380,Medical Expenses
+T407639,5,Coimbatore,2025-05-08,97178.38,SUCCESS,DEPOSIT,Saibaba Colony Branch,C4915,Travel
+T407640,5,Coimbatore,2025-05-08,14349.32,FAILED,WITHDRAWAL,Saibaba Colony Branch,C2961,Medical Expenses
+T407641,5,Coimbatore,2025-05-08,42435.57,FAILED,DEPOSIT,Saibaba Colony Branch,C6527,Loan Payment
+T407642,5,Coimbatore,2025-05-08,81101.37,SUCCESS,DEPOSIT,Saibaba Colony Branch,C4616,Loan Payment
+T407643,5,Coimbatore,2025-05-08,24482.16,SUCCESS,DEPOSIT,Saibaba Colony Branch,C1651,Education Fees
+T407644,5,Coimbatore,2025-05-08,48712.24,FAILED,TRANSFER,Saibaba Colony Branch,C5686,Travel
+T407645,5,Coimbatore,2025-05-08,98029.81,FAILED,WITHDRAWAL,Saibaba Colony Branch,C3651,Travel
+T407646,5,Coimbatore,2025-05-08,12366.73,FAILED,TRANSFER,Saibaba Colony Branch,C8144,Loan Payment
+T407647,5,Coimbatore,2025-05-08,3398.25,SUCCESS,TRANSFER,Saibaba Colony Branch,C7048,Travel
+T407648,5,Coimbatore,2025-05-08,12778.38,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C3414,Others
+T407649,5,Coimbatore,2025-05-08,90054.14,SUCCESS,TRANSFER,Saibaba Colony Branch,C7914,Shopping
+T407650,5,Coimbatore,2025-05-08,90829.18,SUCCESS,TRANSFER,Saibaba Colony Branch,C3216,Others
+T407651,5,Coimbatore,2025-05-08,58253.0,SUCCESS,DEPOSIT,Saibaba Colony Branch,C5578,Bill Payment
+T407652,5,Coimbatore,2025-05-08,25984.82,SUCCESS,DEPOSIT,Saibaba Colony Branch,C8323,Shopping
+T407653,5,Coimbatore,2025-05-08,27884.15,SUCCESS,TRANSFER,Saibaba Colony Branch,C3946,Loan Payment
+T407654,5,Coimbatore,2025-05-08,28057.37,SUCCESS,DEPOSIT,Saibaba Colony Branch,C2421,Loan Payment
+T407655,5,Coimbatore,2025-05-08,53127.75,FAILED,TRANSFER,Saibaba Colony Branch,C4430,Bill Payment
+T407656,5,Coimbatore,2025-05-08,26282.57,FAILED,DEPOSIT,Saibaba Colony Branch,C4921,Shopping
+T407657,5,Coimbatore,2025-05-08,964.32,SUCCESS,TRANSFER,Saibaba Colony Branch,C5412,Others
+T407658,5,Coimbatore,2025-05-08,33837.57,SUCCESS,TRANSFER,Saibaba Colony Branch,C1428,Others
+T407659,5,Coimbatore,2025-05-08,94914.14,SUCCESS,DEPOSIT,Saibaba Colony Branch,C7025,Shopping
+T407660,5,Coimbatore,2025-05-08,71138.12,SUCCESS,DEPOSIT,Saibaba Colony Branch,C2007,Travel
+T407661,5,Coimbatore,2025-05-08,40529.28,FAILED,DEPOSIT,Saibaba Colony Branch,C9129,Bill Payment
+T407662,5,Coimbatore,2025-05-08,8730.35,FAILED,WITHDRAWAL,Saibaba Colony Branch,C7395,Education Fees
+T407663,5,Coimbatore,2025-05-07,28777.88,FAILED,WITHDRAWAL,Saibaba Colony Branch,C8306,Bill Payment
+T407664,5,Coimbatore,2025-05-07,77024.56,SUCCESS,TRANSFER,Saibaba Colony Branch,C3240,Shopping
+T407665,5,Coimbatore,2025-05-07,69144.37,FAILED,WITHDRAWAL,Saibaba Colony Branch,C7078,Education Fees
+T407666,5,Coimbatore,2025-05-07,87107.67,SUCCESS,DEPOSIT,Saibaba Colony Branch,C3402,Others
+T407667,5,Coimbatore,2025-05-07,51729.58,FAILED,WITHDRAWAL,Saibaba Colony Branch,C9862,Education Fees
+T407668,5,Coimbatore,2025-05-07,75900.96,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C3113,Bill Payment
+T407669,5,Coimbatore,2025-05-07,65482.86,FAILED,DEPOSIT,Saibaba Colony Branch,C9559,Loan Payment
+T407670,5,Coimbatore,2025-05-07,25741.38,FAILED,TRANSFER,Saibaba Colony Branch,C2403,Travel
+T407671,5,Coimbatore,2025-05-07,54359.8,SUCCESS,DEPOSIT,Saibaba Colony Branch,C6559,Bill Payment
+T407672,5,Coimbatore,2025-05-07,35754.4,SUCCESS,DEPOSIT,Saibaba Colony Branch,C4519,Shopping
+T407673,5,Coimbatore,2025-05-07,20599.19,SUCCESS,TRANSFER,Saibaba Colony Branch,C6363,Bill Payment
+T407674,5,Coimbatore,2025-05-07,5041.83,FAILED,WITHDRAWAL,Saibaba Colony Branch,C9125,Travel
+T407675,5,Coimbatore,2025-05-07,73729.29,FAILED,TRANSFER,Saibaba Colony Branch,C2587,Shopping
+T407676,5,Coimbatore,2025-05-07,8099.16,SUCCESS,TRANSFER,Saibaba Colony Branch,C3689,Travel
+T407677,5,Coimbatore,2025-05-07,36090.06,SUCCESS,DEPOSIT,Saibaba Colony Branch,C3430,Medical Expenses
+T407678,5,Coimbatore,2025-05-07,43744.55,FAILED,DEPOSIT,Saibaba Colony Branch,C5918,Travel
+T407679,5,Coimbatore,2025-05-07,96801.09,SUCCESS,DEPOSIT,Saibaba Colony Branch,C7081,Shopping
+T407680,5,Coimbatore,2025-05-07,27457.77,SUCCESS,TRANSFER,Saibaba Colony Branch,C3997,Travel
+T407681,5,Coimbatore,2025-05-07,1483.67,SUCCESS,DEPOSIT,Saibaba Colony Branch,C7979,Medical Expenses
+T407682,5,Coimbatore,2025-05-07,1427.07,FAILED,TRANSFER,Saibaba Colony Branch,C5386,Bill Payment
+T407683,5,Coimbatore,2025-05-07,25968.5,SUCCESS,DEPOSIT,Saibaba Colony Branch,C9762,Medical Expenses
+T407684,5,Coimbatore,2025-05-07,41326.73,FAILED,DEPOSIT,Saibaba Colony Branch,C7992,Bill Payment
+T407685,5,Coimbatore,2025-05-07,34556.25,FAILED,DEPOSIT,Saibaba Colony Branch,C2701,Education Fees
+T407686,5,Coimbatore,2025-05-07,12155.96,FAILED,TRANSFER,Saibaba Colony Branch,C3836,Others
+T407687,5,Coimbatore,2025-05-07,74387.47,FAILED,WITHDRAWAL,Saibaba Colony Branch,C3129,Education Fees
+T407688,5,Coimbatore,2025-05-07,25794.72,FAILED,WITHDRAWAL,Saibaba Colony Branch,C5927,Bill Payment
+T407689,5,Coimbatore,2025-05-07,4996.76,SUCCESS,TRANSFER,Saibaba Colony Branch,C1301,Education Fees
+T407690,5,Coimbatore,2025-05-07,17105.03,SUCCESS,DEPOSIT,Saibaba Colony Branch,C7694,Travel
+T407691,5,Coimbatore,2025-05-07,48782.67,FAILED,WITHDRAWAL,Saibaba Colony Branch,C8189,Shopping
+T407692,5,Coimbatore,2025-05-07,76408.75,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C4771,Shopping
+T407693,5,Coimbatore,2025-05-07,4153.99,SUCCESS,DEPOSIT,Saibaba Colony Branch,C4719,Shopping
+T407694,5,Coimbatore,2025-05-07,35360.75,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C2983,Shopping
+T407695,5,Coimbatore,2025-05-07,39529.01,FAILED,TRANSFER,Saibaba Colony Branch,C9086,Bill Payment
+T407696,5,Coimbatore,2025-05-07,17163.03,FAILED,WITHDRAWAL,Saibaba Colony Branch,C3465,Education Fees
+T407697,5,Coimbatore,2025-05-07,39627.55,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C8018,Travel
+T407698,5,Coimbatore,2025-05-07,73320.72,SUCCESS,TRANSFER,Saibaba Colony Branch,C2441,Others
+T407699,5,Coimbatore,2025-05-07,20648.4,FAILED,TRANSFER,Saibaba Colony Branch,C1916,Travel
+T407700,5,Coimbatore,2025-05-07,21094.65,SUCCESS,DEPOSIT,Saibaba Colony Branch,C4676,Loan Payment
+T407701,5,Coimbatore,2025-05-07,78798.64,SUCCESS,TRANSFER,Saibaba Colony Branch,C4301,Others
+T407702,5,Coimbatore,2025-05-07,61782.97,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C4997,Travel
+T407703,5,Coimbatore,2025-05-07,60915.45,FAILED,TRANSFER,Saibaba Colony Branch,C6729,Travel
+T407704,5,Coimbatore,2025-05-07,71704.88,SUCCESS,TRANSFER,Saibaba Colony Branch,C1933,Medical Expenses
+T407705,5,Coimbatore,2025-05-07,12667.71,FAILED,DEPOSIT,Saibaba Colony Branch,C2232,Education Fees
+T407706,5,Coimbatore,2025-05-07,91407.29,FAILED,WITHDRAWAL,Saibaba Colony Branch,C3956,Loan Payment
+T407707,5,Coimbatore,2025-05-07,72835.83,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C2579,Shopping
+T407708,5,Coimbatore,2025-05-07,61986.83,FAILED,TRANSFER,Saibaba Colony Branch,C5197,Travel
+T407709,5,Coimbatore,2025-05-07,90676.46,SUCCESS,DEPOSIT,Saibaba Colony Branch,C9682,Shopping
+T407710,5,Coimbatore,2025-05-07,28166.82,FAILED,WITHDRAWAL,Saibaba Colony Branch,C7439,Medical Expenses
+T407711,5,Coimbatore,2025-05-07,91541.08,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C7962,Education Fees
+T407712,5,Coimbatore,2025-05-07,23338.25,FAILED,TRANSFER,Saibaba Colony Branch,C1623,Travel
+T407713,5,Coimbatore,2025-05-07,46099.12,FAILED,TRANSFER,Saibaba Colony Branch,C9696,Shopping
+T407714,5,Coimbatore,2025-05-07,19127.4,FAILED,DEPOSIT,Saibaba Colony Branch,C8061,Shopping
+T407715,5,Coimbatore,2025-05-07,54904.78,SUCCESS,TRANSFER,Saibaba Colony Branch,C5178,Others
+T407716,5,Coimbatore,2025-05-07,88090.44,FAILED,WITHDRAWAL,Saibaba Colony Branch,C1194,Travel
+T407717,5,Coimbatore,2025-05-07,3367.71,SUCCESS,DEPOSIT,Saibaba Colony Branch,C3894,Medical Expenses
+T407718,5,Coimbatore,2025-05-07,5098.41,FAILED,TRANSFER,Saibaba Colony Branch,C7631,Others
+T407719,5,Coimbatore,2025-05-07,78775.56,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C9357,Shopping
+T407720,5,Coimbatore,2025-05-07,89319.85,SUCCESS,TRANSFER,Saibaba Colony Branch,C7606,Loan Payment
+T407721,5,Coimbatore,2025-05-07,58748.35,SUCCESS,TRANSFER,Saibaba Colony Branch,C9371,Others
+T407722,5,Coimbatore,2025-05-07,83359.67,FAILED,TRANSFER,Saibaba Colony Branch,C4898,Bill Payment
+T407723,5,Coimbatore,2025-05-07,56052.65,SUCCESS,DEPOSIT,Saibaba Colony Branch,C8134,Others
+T407724,5,Coimbatore,2025-05-07,52653.81,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C9750,Medical Expenses
+T407725,5,Coimbatore,2025-05-07,83017.93,FAILED,WITHDRAWAL,Saibaba Colony Branch,C5830,Travel
+T407726,5,Coimbatore,2025-05-07,88997.27,SUCCESS,DEPOSIT,Saibaba Colony Branch,C1388,Shopping
+T407727,5,Coimbatore,2025-05-07,99694.08,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C5957,Shopping
+T407728,5,Coimbatore,2025-05-07,77274.19,SUCCESS,DEPOSIT,Saibaba Colony Branch,C6166,Bill Payment
+T407729,5,Coimbatore,2025-05-07,842.55,SUCCESS,DEPOSIT,Saibaba Colony Branch,C3414,Bill Payment
+T407730,5,Coimbatore,2025-05-07,79676.45,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C4612,Travel
+T407731,5,Coimbatore,2025-05-07,91629.92,FAILED,DEPOSIT,Saibaba Colony Branch,C4505,Shopping
+T407732,5,Coimbatore,2025-05-07,92801.57,FAILED,DEPOSIT,Saibaba Colony Branch,C7966,Travel
+T407733,5,Coimbatore,2025-05-07,82896.61,SUCCESS,TRANSFER,Saibaba Colony Branch,C1766,Others
+T407734,5,Coimbatore,2025-05-07,64640.57,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C7758,Bill Payment
+T407735,5,Coimbatore,2025-05-07,61879.15,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C4745,Bill Payment
+T407736,5,Coimbatore,2025-05-07,88242.07,SUCCESS,DEPOSIT,Saibaba Colony Branch,C6383,Education Fees
+T407737,5,Coimbatore,2025-05-07,87986.5,SUCCESS,TRANSFER,Saibaba Colony Branch,C9557,Bill Payment
+T407738,5,Coimbatore,2025-05-07,1048.43,FAILED,DEPOSIT,Saibaba Colony Branch,C5569,Education Fees
+T407739,5,Coimbatore,2025-05-07,87422.4,FAILED,DEPOSIT,Saibaba Colony Branch,C2210,Medical Expenses
+T407740,5,Coimbatore,2025-05-07,9710.78,SUCCESS,TRANSFER,Saibaba Colony Branch,C2035,Loan Payment
+T407741,5,Coimbatore,2025-05-07,255.63,FAILED,TRANSFER,Saibaba Colony Branch,C7798,Shopping
+T407742,5,Coimbatore,2025-05-07,43679.86,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C4533,Travel
+T407743,5,Coimbatore,2025-05-07,59792.25,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C5379,Others
+T407744,5,Coimbatore,2025-05-07,57686.72,FAILED,WITHDRAWAL,Saibaba Colony Branch,C2739,Medical Expenses
+T407745,5,Coimbatore,2025-05-07,2102.84,FAILED,TRANSFER,Saibaba Colony Branch,C5226,Others
+T407746,5,Coimbatore,2025-05-07,89959.15,SUCCESS,TRANSFER,Saibaba Colony Branch,C7969,Others
+T407747,5,Coimbatore,2025-05-07,53802.84,SUCCESS,DEPOSIT,Saibaba Colony Branch,C7473,Others
+T407748,5,Coimbatore,2025-05-06,5123.52,FAILED,WITHDRAWAL,Saibaba Colony Branch,C8708,Bill Payment
+T407749,5,Coimbatore,2025-05-06,88803.44,FAILED,DEPOSIT,Saibaba Colony Branch,C8080,Travel
+T407750,5,Coimbatore,2025-05-06,98361.18,FAILED,DEPOSIT,Saibaba Colony Branch,C9311,Shopping
+T407751,5,Coimbatore,2025-05-06,22168.5,FAILED,TRANSFER,Saibaba Colony Branch,C7331,Bill Payment
+T407752,5,Coimbatore,2025-05-06,89107.54,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C8161,Loan Payment
+T407753,5,Coimbatore,2025-05-06,22893.85,FAILED,DEPOSIT,Saibaba Colony Branch,C4852,Bill Payment
+T407754,5,Coimbatore,2025-05-06,35445.9,SUCCESS,DEPOSIT,Saibaba Colony Branch,C9790,Shopping
+T407755,5,Coimbatore,2025-05-06,61910.5,FAILED,DEPOSIT,Saibaba Colony Branch,C8210,Education Fees
+T407756,5,Coimbatore,2025-05-06,65234.12,FAILED,TRANSFER,Saibaba Colony Branch,C3266,Education Fees
+T407757,5,Coimbatore,2025-05-06,1646.17,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C9584,Travel
+T407758,5,Coimbatore,2025-05-06,52130.24,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C9340,Travel
+T407759,5,Coimbatore,2025-05-06,82512.61,SUCCESS,TRANSFER,Saibaba Colony Branch,C2061,Bill Payment
+T407760,5,Coimbatore,2025-05-06,96157.48,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C4202,Others
+T407761,5,Coimbatore,2025-05-06,66446.09,SUCCESS,DEPOSIT,Saibaba Colony Branch,C8281,Medical Expenses
+T407762,5,Coimbatore,2025-05-06,89180.13,FAILED,WITHDRAWAL,Saibaba Colony Branch,C3133,Bill Payment
+T407763,5,Coimbatore,2025-05-06,60912.57,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C1197,Medical Expenses
+T407764,5,Coimbatore,2025-05-06,88649.11,FAILED,WITHDRAWAL,Saibaba Colony Branch,C3753,Bill Payment
+T407765,5,Coimbatore,2025-05-06,73832.3,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C6080,Shopping
+T407766,5,Coimbatore,2025-05-06,70240.06,SUCCESS,TRANSFER,Saibaba Colony Branch,C2999,Shopping
+T407767,5,Coimbatore,2025-05-06,30626.6,FAILED,TRANSFER,Saibaba Colony Branch,C7009,Loan Payment
+T407768,5,Coimbatore,2025-05-06,20659.4,FAILED,DEPOSIT,Saibaba Colony Branch,C4227,Bill Payment
+T407769,5,Coimbatore,2025-05-06,10748.19,SUCCESS,TRANSFER,Saibaba Colony Branch,C9901,Shopping
+T407770,5,Coimbatore,2025-05-06,86667.87,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C6507,Others
+T407771,5,Coimbatore,2025-05-06,26626.98,FAILED,TRANSFER,Saibaba Colony Branch,C5930,Bill Payment
+T407772,5,Coimbatore,2025-05-06,2658.72,FAILED,WITHDRAWAL,Saibaba Colony Branch,C5939,Loan Payment
+T407773,5,Coimbatore,2025-05-06,78022.9,FAILED,DEPOSIT,Saibaba Colony Branch,C8524,Travel
+T407774,5,Coimbatore,2025-05-06,91082.02,SUCCESS,TRANSFER,Saibaba Colony Branch,C7650,Bill Payment
+T407775,5,Coimbatore,2025-05-06,17907.84,FAILED,DEPOSIT,Saibaba Colony Branch,C4252,Shopping
+T407776,5,Coimbatore,2025-05-06,56995.65,SUCCESS,TRANSFER,Saibaba Colony Branch,C4703,Shopping
+T407777,5,Coimbatore,2025-05-06,5254.46,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C1419,Others
+T407778,5,Coimbatore,2025-05-06,34977.89,FAILED,DEPOSIT,Saibaba Colony Branch,C6926,Travel
+T407779,5,Coimbatore,2025-05-06,51588.44,FAILED,TRANSFER,Saibaba Colony Branch,C1727,Others
+T407780,5,Coimbatore,2025-05-06,74083.98,FAILED,WITHDRAWAL,Saibaba Colony Branch,C5730,Medical Expenses
+T407781,5,Coimbatore,2025-05-06,53147.59,SUCCESS,TRANSFER,Saibaba Colony Branch,C4212,Loan Payment
+T407782,5,Coimbatore,2025-05-06,3542.54,FAILED,TRANSFER,Saibaba Colony Branch,C6770,Medical Expenses
+T407783,5,Coimbatore,2025-05-06,73326.68,FAILED,DEPOSIT,Saibaba Colony Branch,C2570,Bill Payment
+T407784,5,Coimbatore,2025-05-06,66230.25,FAILED,WITHDRAWAL,Saibaba Colony Branch,C2552,Travel
+T407785,5,Coimbatore,2025-05-06,4504.49,FAILED,DEPOSIT,Saibaba Colony Branch,C6104,Others
+T407786,5,Coimbatore,2025-05-06,45049.77,FAILED,DEPOSIT,Saibaba Colony Branch,C7000,Travel
+T407787,5,Coimbatore,2025-05-06,27728.99,SUCCESS,TRANSFER,Saibaba Colony Branch,C8395,Loan Payment
+T407788,5,Coimbatore,2025-05-06,54395.1,FAILED,TRANSFER,Saibaba Colony Branch,C7568,Education Fees
+T407789,5,Coimbatore,2025-05-06,44711.05,SUCCESS,TRANSFER,Saibaba Colony Branch,C9583,Medical Expenses
+T407790,5,Coimbatore,2025-05-06,92064.67,SUCCESS,DEPOSIT,Saibaba Colony Branch,C1620,Bill Payment
+T407791,5,Coimbatore,2025-05-06,47897.88,FAILED,WITHDRAWAL,Saibaba Colony Branch,C8825,Medical Expenses
+T407792,5,Coimbatore,2025-05-06,79295.21,FAILED,DEPOSIT,Saibaba Colony Branch,C4042,Loan Payment
+T407793,5,Coimbatore,2025-05-06,98759.4,FAILED,WITHDRAWAL,Saibaba Colony Branch,C7017,Travel
+T407794,5,Coimbatore,2025-05-06,63165.4,FAILED,WITHDRAWAL,Saibaba Colony Branch,C5927,Medical Expenses
+T407795,5,Coimbatore,2025-05-06,68090.75,SUCCESS,TRANSFER,Saibaba Colony Branch,C6273,Education Fees
+T407796,5,Coimbatore,2025-05-06,68752.14,FAILED,TRANSFER,Saibaba Colony Branch,C9292,Loan Payment
+T407797,5,Coimbatore,2025-05-06,11831.69,SUCCESS,DEPOSIT,Saibaba Colony Branch,C2179,Bill Payment
+T407798,5,Coimbatore,2025-05-06,97149.43,SUCCESS,TRANSFER,Saibaba Colony Branch,C6004,Travel
+T407799,5,Coimbatore,2025-05-06,28419.48,SUCCESS,DEPOSIT,Saibaba Colony Branch,C5138,Travel
+T407800,5,Coimbatore,2025-05-06,95966.61,SUCCESS,DEPOSIT,Saibaba Colony Branch,C6552,Travel
+T407801,5,Coimbatore,2025-05-06,71155.94,FAILED,TRANSFER,Saibaba Colony Branch,C1760,Education Fees
+T407802,5,Coimbatore,2025-05-06,41157.97,SUCCESS,DEPOSIT,Saibaba Colony Branch,C6312,Loan Payment
+T407803,5,Coimbatore,2025-05-06,48809.33,FAILED,DEPOSIT,Saibaba Colony Branch,C2615,Others
+T407804,5,Coimbatore,2025-05-06,68761.95,FAILED,DEPOSIT,Saibaba Colony Branch,C9115,Medical Expenses
+T407805,5,Coimbatore,2025-05-06,17427.42,FAILED,WITHDRAWAL,Saibaba Colony Branch,C2900,Medical Expenses
+T407806,5,Coimbatore,2025-05-06,78638.48,FAILED,WITHDRAWAL,Saibaba Colony Branch,C3826,Bill Payment
+T407807,5,Coimbatore,2025-05-06,47202.48,SUCCESS,TRANSFER,Saibaba Colony Branch,C7094,Medical Expenses
+T407808,5,Coimbatore,2025-05-06,6535.22,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C8891,Travel
+T407809,5,Coimbatore,2025-05-06,85830.33,FAILED,TRANSFER,Saibaba Colony Branch,C2276,Shopping
+T407810,5,Coimbatore,2025-05-06,55688.31,FAILED,TRANSFER,Saibaba Colony Branch,C8031,Bill Payment
+T407811,5,Coimbatore,2025-05-06,50394.27,FAILED,WITHDRAWAL,Saibaba Colony Branch,C4146,Education Fees
+T407812,5,Coimbatore,2025-05-06,19374.98,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C2415,Travel
+T407813,5,Coimbatore,2025-05-06,90028.09,SUCCESS,TRANSFER,Saibaba Colony Branch,C7222,Medical Expenses
+T407814,5,Coimbatore,2025-05-06,74968.59,SUCCESS,TRANSFER,Saibaba Colony Branch,C6174,Bill Payment
+T407815,5,Coimbatore,2025-05-06,49661.02,SUCCESS,DEPOSIT,Saibaba Colony Branch,C7253,Shopping
+T407816,5,Coimbatore,2025-05-06,72194.57,FAILED,DEPOSIT,Saibaba Colony Branch,C9144,Shopping
+T407817,5,Coimbatore,2025-05-06,86716.01,FAILED,DEPOSIT,Saibaba Colony Branch,C5756,Travel
+T407818,5,Coimbatore,2025-05-06,98067.08,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C1086,Education Fees
+T407819,5,Coimbatore,2025-05-06,71553.6,SUCCESS,TRANSFER,Saibaba Colony Branch,C1486,Shopping
+T407820,5,Coimbatore,2025-05-06,38352.54,FAILED,WITHDRAWAL,Saibaba Colony Branch,C5942,Travel
+T407821,5,Coimbatore,2025-05-06,24097.08,FAILED,TRANSFER,Saibaba Colony Branch,C5049,Medical Expenses
+T407822,5,Coimbatore,2025-05-06,27084.76,SUCCESS,TRANSFER,Saibaba Colony Branch,C5996,Medical Expenses
+T407823,5,Coimbatore,2025-05-06,46852.14,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C7054,Medical Expenses
+T407824,5,Coimbatore,2025-05-06,25483.65,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C8780,Travel
+T407825,5,Coimbatore,2025-05-06,60591.37,SUCCESS,TRANSFER,Saibaba Colony Branch,C3982,Bill Payment
+T407826,5,Coimbatore,2025-05-06,73372.82,FAILED,TRANSFER,Saibaba Colony Branch,C3642,Shopping
+T407827,5,Coimbatore,2025-05-06,32487.33,FAILED,TRANSFER,Saibaba Colony Branch,C8217,Travel
+T407828,5,Coimbatore,2025-05-06,37187.06,FAILED,WITHDRAWAL,Saibaba Colony Branch,C2669,Medical Expenses
+T407829,5,Coimbatore,2025-05-06,88220.23,SUCCESS,TRANSFER,Saibaba Colony Branch,C2306,Others
+T407830,5,Coimbatore,2025-05-05,30405.8,FAILED,DEPOSIT,Saibaba Colony Branch,C4525,Loan Payment
+T407831,5,Coimbatore,2025-05-05,88854.53,SUCCESS,TRANSFER,Saibaba Colony Branch,C5914,Shopping
+T407832,5,Coimbatore,2025-05-05,46997.42,FAILED,DEPOSIT,Saibaba Colony Branch,C6769,Others
+T407833,5,Coimbatore,2025-05-05,30875.8,FAILED,WITHDRAWAL,Saibaba Colony Branch,C5070,Travel
+T407834,5,Coimbatore,2025-05-05,13925.22,FAILED,DEPOSIT,Saibaba Colony Branch,C3578,Bill Payment
+T407835,5,Coimbatore,2025-05-05,94907.96,FAILED,WITHDRAWAL,Saibaba Colony Branch,C5795,Medical Expenses
+T407836,5,Coimbatore,2025-05-05,39237.92,SUCCESS,DEPOSIT,Saibaba Colony Branch,C2454,Others
+T407837,5,Coimbatore,2025-05-05,37293.93,FAILED,DEPOSIT,Saibaba Colony Branch,C5488,Travel
+T407838,5,Coimbatore,2025-05-05,1806.57,SUCCESS,TRANSFER,Saibaba Colony Branch,C4797,Others
+T407839,5,Coimbatore,2025-05-05,16395.08,FAILED,TRANSFER,Saibaba Colony Branch,C1633,Bill Payment
+T407840,5,Coimbatore,2025-05-05,98598.57,SUCCESS,TRANSFER,Saibaba Colony Branch,C6949,Medical Expenses
+T407841,5,Coimbatore,2025-05-05,63525.71,SUCCESS,TRANSFER,Saibaba Colony Branch,C2619,Education Fees
+T407842,5,Coimbatore,2025-05-05,48056.88,FAILED,WITHDRAWAL,Saibaba Colony Branch,C2469,Loan Payment
+T407843,5,Coimbatore,2025-05-05,530.37,SUCCESS,TRANSFER,Saibaba Colony Branch,C1106,Loan Payment
+T407844,5,Coimbatore,2025-05-05,88084.51,FAILED,DEPOSIT,Saibaba Colony Branch,C5394,Travel
+T407845,5,Coimbatore,2025-05-05,48883.35,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C4492,Bill Payment
+T407846,5,Coimbatore,2025-05-05,5146.21,FAILED,TRANSFER,Saibaba Colony Branch,C4147,Education Fees
+T407847,5,Coimbatore,2025-05-05,69799.19,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C6180,Others
+T407848,5,Coimbatore,2025-05-05,1778.04,SUCCESS,DEPOSIT,Saibaba Colony Branch,C6412,Others
+T407849,5,Coimbatore,2025-05-05,80279.82,FAILED,WITHDRAWAL,Saibaba Colony Branch,C1870,Medical Expenses
+T407850,5,Coimbatore,2025-05-05,30161.25,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C6760,Education Fees
+T407851,5,Coimbatore,2025-05-05,78974.57,FAILED,DEPOSIT,Saibaba Colony Branch,C8949,Medical Expenses
+T407852,5,Coimbatore,2025-05-05,3044.45,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C5407,Education Fees
+T407853,5,Coimbatore,2025-05-05,25108.99,SUCCESS,TRANSFER,Saibaba Colony Branch,C3563,Travel
+T407854,5,Coimbatore,2025-05-05,65316.84,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C3000,Others
+T407855,5,Coimbatore,2025-05-05,78458.82,SUCCESS,DEPOSIT,Saibaba Colony Branch,C2023,Others
+T407856,5,Coimbatore,2025-05-05,29323.22,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C3208,Medical Expenses
+T407857,5,Coimbatore,2025-05-05,39621.43,FAILED,TRANSFER,Saibaba Colony Branch,C6198,Travel
+T407858,5,Coimbatore,2025-05-05,71542.44,FAILED,DEPOSIT,Saibaba Colony Branch,C2500,Travel
+T407859,5,Coimbatore,2025-05-05,43714.91,FAILED,DEPOSIT,Saibaba Colony Branch,C1772,Medical Expenses
+T407860,5,Coimbatore,2025-05-05,1895.77,FAILED,WITHDRAWAL,Saibaba Colony Branch,C5368,Travel
+T407861,5,Coimbatore,2025-05-05,11339.69,FAILED,DEPOSIT,Saibaba Colony Branch,C6169,Shopping
+T407862,5,Coimbatore,2025-05-05,34009.81,FAILED,WITHDRAWAL,Saibaba Colony Branch,C1562,Others
+T407863,5,Coimbatore,2025-05-05,71321.0,FAILED,TRANSFER,Saibaba Colony Branch,C7213,Education Fees
+T407864,5,Coimbatore,2025-05-05,22578.64,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C7280,Medical Expenses
+T407865,5,Coimbatore,2025-05-05,86223.56,FAILED,TRANSFER,Saibaba Colony Branch,C2012,Education Fees
+T407866,5,Coimbatore,2025-05-05,66336.78,FAILED,TRANSFER,Saibaba Colony Branch,C2151,Education Fees
+T407867,5,Coimbatore,2025-05-05,3651.75,FAILED,TRANSFER,Saibaba Colony Branch,C7387,Bill Payment
+T407868,5,Coimbatore,2025-05-05,89885.11,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C7643,Education Fees
+T407869,5,Coimbatore,2025-05-05,10428.01,FAILED,WITHDRAWAL,Saibaba Colony Branch,C4525,Medical Expenses
+T407870,5,Coimbatore,2025-05-05,59906.86,FAILED,DEPOSIT,Saibaba Colony Branch,C2689,Shopping
+T407871,5,Coimbatore,2025-05-05,68785.76,SUCCESS,TRANSFER,Saibaba Colony Branch,C5428,Bill Payment
+T407872,5,Coimbatore,2025-05-05,91635.22,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C7733,Education Fees
+T407873,5,Coimbatore,2025-05-05,9320.23,FAILED,WITHDRAWAL,Saibaba Colony Branch,C9905,Travel
+T407874,5,Coimbatore,2025-05-05,11805.23,SUCCESS,DEPOSIT,Saibaba Colony Branch,C9428,Travel
+T407875,5,Coimbatore,2025-05-05,69400.8,SUCCESS,TRANSFER,Saibaba Colony Branch,C7744,Loan Payment
+T407876,5,Coimbatore,2025-05-05,97321.37,FAILED,DEPOSIT,Saibaba Colony Branch,C4729,Bill Payment
+T407877,5,Coimbatore,2025-05-05,447.46,FAILED,WITHDRAWAL,Saibaba Colony Branch,C2501,Shopping
+T407878,5,Coimbatore,2025-05-05,66874.42,FAILED,DEPOSIT,Saibaba Colony Branch,C4690,Bill Payment
+T407879,5,Coimbatore,2025-05-05,40572.14,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C2782,Shopping
+T407880,5,Coimbatore,2025-05-05,70815.21,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C6170,Others
+T407881,5,Coimbatore,2025-05-05,39597.56,SUCCESS,TRANSFER,Saibaba Colony Branch,C5019,Bill Payment
+T407882,5,Coimbatore,2025-05-05,66616.35,SUCCESS,TRANSFER,Saibaba Colony Branch,C9902,Education Fees
+T407883,5,Coimbatore,2025-05-05,71422.49,SUCCESS,TRANSFER,Saibaba Colony Branch,C5048,Medical Expenses
+T407884,5,Coimbatore,2025-05-05,82201.9,FAILED,TRANSFER,Saibaba Colony Branch,C8694,Travel
+T407885,5,Coimbatore,2025-05-05,4299.02,SUCCESS,TRANSFER,Saibaba Colony Branch,C2490,Medical Expenses
+T407886,5,Coimbatore,2025-05-05,9013.79,FAILED,TRANSFER,Saibaba Colony Branch,C8239,Education Fees
+T407887,5,Coimbatore,2025-05-05,66150.54,FAILED,WITHDRAWAL,Saibaba Colony Branch,C5511,Shopping
+T407888,5,Coimbatore,2025-05-05,44919.56,SUCCESS,TRANSFER,Saibaba Colony Branch,C1934,Shopping
+T407889,5,Coimbatore,2025-05-05,96050.83,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C7513,Education Fees
+T407890,5,Coimbatore,2025-05-05,29803.77,FAILED,WITHDRAWAL,Saibaba Colony Branch,C2219,Travel
+T407891,5,Coimbatore,2025-05-05,80270.42,SUCCESS,TRANSFER,Saibaba Colony Branch,C8951,Medical Expenses
+T407892,5,Coimbatore,2025-05-05,63927.5,FAILED,WITHDRAWAL,Saibaba Colony Branch,C9746,Medical Expenses
+T407893,5,Coimbatore,2025-05-05,29679.36,SUCCESS,TRANSFER,Saibaba Colony Branch,C9287,Others
+T407894,5,Coimbatore,2025-05-05,81666.06,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C5278,Loan Payment
+T407895,5,Coimbatore,2025-05-05,57897.43,SUCCESS,DEPOSIT,Saibaba Colony Branch,C3069,Bill Payment
+T407896,5,Coimbatore,2025-05-05,19058.27,SUCCESS,TRANSFER,Saibaba Colony Branch,C7097,Travel
+T407897,5,Coimbatore,2025-05-05,12216.99,FAILED,TRANSFER,Saibaba Colony Branch,C4186,Medical Expenses
+T407898,5,Coimbatore,2025-05-05,56184.49,FAILED,TRANSFER,Saibaba Colony Branch,C1939,Others
+T407899,5,Coimbatore,2025-05-05,69040.21,FAILED,TRANSFER,Saibaba Colony Branch,C2701,Shopping
+T407900,5,Coimbatore,2025-05-05,62907.82,SUCCESS,TRANSFER,Saibaba Colony Branch,C8644,Shopping
+T407901,5,Coimbatore,2025-05-05,11369.47,SUCCESS,DEPOSIT,Saibaba Colony Branch,C2918,Loan Payment
+T407902,5,Coimbatore,2025-05-05,73073.08,FAILED,DEPOSIT,Saibaba Colony Branch,C3602,Travel
+T407903,5,Coimbatore,2025-05-05,60637.66,SUCCESS,DEPOSIT,Saibaba Colony Branch,C1442,Education Fees
+T407904,5,Coimbatore,2025-05-05,83423.89,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C5038,Medical Expenses
+T407905,5,Coimbatore,2025-05-05,87053.42,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C4570,Others
+T407906,5,Coimbatore,2025-05-05,79882.97,FAILED,TRANSFER,Saibaba Colony Branch,C2659,Travel
+T407907,5,Coimbatore,2025-05-05,14691.82,FAILED,DEPOSIT,Saibaba Colony Branch,C2713,Education Fees
+T407908,5,Coimbatore,2025-05-05,91939.43,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C1528,Medical Expenses
+T407909,5,Coimbatore,2025-05-05,91061.02,SUCCESS,TRANSFER,Saibaba Colony Branch,C1597,Shopping
+T407910,5,Coimbatore,2025-05-05,19623.95,FAILED,DEPOSIT,Saibaba Colony Branch,C7050,Medical Expenses
+T407911,5,Coimbatore,2025-05-05,3907.03,FAILED,TRANSFER,Saibaba Colony Branch,C8126,Travel
+T407912,5,Coimbatore,2025-05-05,87515.72,SUCCESS,DEPOSIT,Saibaba Colony Branch,C2687,Medical Expenses
+T407913,5,Coimbatore,2025-05-05,95706.36,SUCCESS,DEPOSIT,Saibaba Colony Branch,C1017,Medical Expenses
+T407914,5,Coimbatore,2025-05-05,43455.44,SUCCESS,TRANSFER,Saibaba Colony Branch,C8494,Loan Payment
+T407915,5,Coimbatore,2025-05-05,51627.43,FAILED,TRANSFER,Saibaba Colony Branch,C8624,Bill Payment
+T407916,5,Coimbatore,2025-05-05,3275.58,FAILED,WITHDRAWAL,Saibaba Colony Branch,C9100,Shopping
+T407917,5,Coimbatore,2025-05-05,87418.03,FAILED,WITHDRAWAL,Saibaba Colony Branch,C2669,Others
+T407918,5,Coimbatore,2025-05-05,251.79,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C2661,Others
+T407919,5,Coimbatore,2025-05-05,67560.77,SUCCESS,TRANSFER,Saibaba Colony Branch,C7659,Bill Payment
+T407920,5,Coimbatore,2025-05-05,57924.48,FAILED,WITHDRAWAL,Saibaba Colony Branch,C2240,Shopping
+T407921,5,Coimbatore,2025-05-05,79652.24,FAILED,TRANSFER,Saibaba Colony Branch,C6313,Shopping
+T407922,5,Coimbatore,2025-05-05,322.66,FAILED,TRANSFER,Saibaba Colony Branch,C5387,Bill Payment
+T407923,5,Coimbatore,2025-05-05,27776.51,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C9415,Medical Expenses
+T407924,5,Coimbatore,2025-05-04,79791.69,FAILED,WITHDRAWAL,Saibaba Colony Branch,C7905,Medical Expenses
+T407925,5,Coimbatore,2025-05-04,69918.72,FAILED,TRANSFER,Saibaba Colony Branch,C2202,Education Fees
+T407926,5,Coimbatore,2025-05-04,16208.13,SUCCESS,TRANSFER,Saibaba Colony Branch,C2908,Medical Expenses
+T407927,5,Coimbatore,2025-05-04,80837.24,FAILED,WITHDRAWAL,Saibaba Colony Branch,C2174,Medical Expenses
+T407928,5,Coimbatore,2025-05-04,83801.43,FAILED,TRANSFER,Saibaba Colony Branch,C9718,Loan Payment
+T407929,5,Coimbatore,2025-05-04,93643.97,FAILED,DEPOSIT,Saibaba Colony Branch,C8261,Shopping
+T407930,5,Coimbatore,2025-05-04,71121.1,SUCCESS,TRANSFER,Saibaba Colony Branch,C3896,Others
+T407931,5,Coimbatore,2025-05-04,90955.11,FAILED,WITHDRAWAL,Saibaba Colony Branch,C5151,Medical Expenses
+T407932,5,Coimbatore,2025-05-04,42783.91,SUCCESS,TRANSFER,Saibaba Colony Branch,C2197,Shopping
+T407933,5,Coimbatore,2025-05-04,97707.83,SUCCESS,DEPOSIT,Saibaba Colony Branch,C9455,Bill Payment
+T407934,5,Coimbatore,2025-05-04,58378.04,FAILED,WITHDRAWAL,Saibaba Colony Branch,C2947,Education Fees
+T407935,5,Coimbatore,2025-05-04,71895.55,SUCCESS,TRANSFER,Saibaba Colony Branch,C5275,Loan Payment
+T407936,5,Coimbatore,2025-05-04,18573.93,SUCCESS,TRANSFER,Saibaba Colony Branch,C5932,Travel
+T407937,5,Coimbatore,2025-05-04,54045.72,SUCCESS,DEPOSIT,Saibaba Colony Branch,C6741,Education Fees
+T407938,5,Coimbatore,2025-05-04,53608.93,SUCCESS,TRANSFER,Saibaba Colony Branch,C2872,Others
+T407939,5,Coimbatore,2025-05-04,64528.59,FAILED,WITHDRAWAL,Saibaba Colony Branch,C5835,Bill Payment
+T407940,5,Coimbatore,2025-05-04,84979.81,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C5687,Bill Payment
+T407941,5,Coimbatore,2025-05-04,23885.59,SUCCESS,DEPOSIT,Saibaba Colony Branch,C7472,Loan Payment
+T407942,5,Coimbatore,2025-05-04,53378.39,FAILED,DEPOSIT,Saibaba Colony Branch,C6447,Bill Payment
+T407943,5,Coimbatore,2025-05-04,83786.73,FAILED,DEPOSIT,Saibaba Colony Branch,C3409,Medical Expenses
+T407944,5,Coimbatore,2025-05-04,7292.81,SUCCESS,TRANSFER,Saibaba Colony Branch,C7856,Medical Expenses
+T407945,5,Coimbatore,2025-05-04,95245.32,SUCCESS,DEPOSIT,Saibaba Colony Branch,C3992,Others
+T407946,5,Coimbatore,2025-05-04,68850.72,SUCCESS,TRANSFER,Saibaba Colony Branch,C7689,Others
+T407947,5,Coimbatore,2025-05-04,35554.39,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C9452,Medical Expenses
+T407948,5,Coimbatore,2025-05-04,1613.23,FAILED,TRANSFER,Saibaba Colony Branch,C7726,Bill Payment
+T407949,5,Coimbatore,2025-05-04,83781.06,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C4408,Travel
+T407950,5,Coimbatore,2025-05-04,13655.18,FAILED,DEPOSIT,Saibaba Colony Branch,C4295,Medical Expenses
+T407951,5,Coimbatore,2025-05-04,14745.25,SUCCESS,TRANSFER,Saibaba Colony Branch,C4022,Medical Expenses
+T407952,5,Coimbatore,2025-05-04,95814.97,SUCCESS,TRANSFER,Saibaba Colony Branch,C7104,Shopping
+T407953,5,Coimbatore,2025-05-04,59541.56,FAILED,TRANSFER,Saibaba Colony Branch,C1449,Shopping
+T407954,5,Coimbatore,2025-05-04,51642.17,SUCCESS,TRANSFER,Saibaba Colony Branch,C3229,Others
+T407955,5,Coimbatore,2025-05-04,91192.4,FAILED,WITHDRAWAL,Saibaba Colony Branch,C8893,Education Fees
+T407956,5,Coimbatore,2025-05-04,26769.22,FAILED,DEPOSIT,Saibaba Colony Branch,C6284,Shopping
+T407957,5,Coimbatore,2025-05-04,11567.01,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C2424,Travel
+T407958,5,Coimbatore,2025-05-04,89744.23,FAILED,WITHDRAWAL,Saibaba Colony Branch,C9189,Education Fees
+T407959,5,Coimbatore,2025-05-04,25372.57,FAILED,DEPOSIT,Saibaba Colony Branch,C5123,Loan Payment
+T407960,5,Coimbatore,2025-05-04,84076.99,FAILED,TRANSFER,Saibaba Colony Branch,C5204,Education Fees
+T407961,5,Coimbatore,2025-05-04,33927.61,SUCCESS,TRANSFER,Saibaba Colony Branch,C7946,Education Fees
+T407962,5,Coimbatore,2025-05-04,84822.07,FAILED,TRANSFER,Saibaba Colony Branch,C5807,Bill Payment
+T407963,5,Coimbatore,2025-05-04,99672.23,SUCCESS,DEPOSIT,Saibaba Colony Branch,C6409,Loan Payment
+T407964,5,Coimbatore,2025-05-04,87809.84,FAILED,WITHDRAWAL,Saibaba Colony Branch,C8470,Others
+T407965,5,Coimbatore,2025-05-04,50680.11,SUCCESS,TRANSFER,Saibaba Colony Branch,C6308,Loan Payment
+T407966,5,Coimbatore,2025-05-04,45930.99,SUCCESS,TRANSFER,Saibaba Colony Branch,C7408,Travel
+T407967,5,Coimbatore,2025-05-04,27622.77,SUCCESS,TRANSFER,Saibaba Colony Branch,C3171,Travel
+T407968,5,Coimbatore,2025-05-04,57629.04,FAILED,WITHDRAWAL,Saibaba Colony Branch,C7674,Bill Payment
+T407969,5,Coimbatore,2025-05-04,49265.08,SUCCESS,TRANSFER,Saibaba Colony Branch,C6162,Others
+T407970,5,Coimbatore,2025-05-04,28172.51,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C7048,Medical Expenses
+T407971,5,Coimbatore,2025-05-04,41748.74,SUCCESS,TRANSFER,Saibaba Colony Branch,C9375,Education Fees
+T407972,5,Coimbatore,2025-05-04,12177.79,SUCCESS,DEPOSIT,Saibaba Colony Branch,C2666,Medical Expenses
+T407973,5,Coimbatore,2025-05-04,94784.91,FAILED,WITHDRAWAL,Saibaba Colony Branch,C8790,Others
+T407974,5,Coimbatore,2025-05-04,87476.23,FAILED,WITHDRAWAL,Saibaba Colony Branch,C1025,Medical Expenses
+T407975,5,Coimbatore,2025-05-04,7880.63,SUCCESS,TRANSFER,Saibaba Colony Branch,C2699,Others
+T407976,5,Coimbatore,2025-05-04,47408.0,SUCCESS,TRANSFER,Saibaba Colony Branch,C8684,Education Fees
+T407977,5,Coimbatore,2025-05-04,50386.6,SUCCESS,DEPOSIT,Saibaba Colony Branch,C7276,Shopping
+T407978,5,Coimbatore,2025-05-04,18469.4,SUCCESS,TRANSFER,Saibaba Colony Branch,C9484,Shopping
+T407979,5,Coimbatore,2025-05-04,2674.19,FAILED,TRANSFER,Saibaba Colony Branch,C3847,Loan Payment
+T407980,5,Coimbatore,2025-05-04,45945.45,FAILED,WITHDRAWAL,Saibaba Colony Branch,C9383,Loan Payment
+T407981,5,Coimbatore,2025-05-04,55174.14,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C8399,Education Fees
+T407982,5,Coimbatore,2025-05-04,58070.06,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C5231,Bill Payment
+T407983,5,Coimbatore,2025-05-04,88286.73,FAILED,WITHDRAWAL,Saibaba Colony Branch,C4059,Others
+T407984,5,Coimbatore,2025-05-04,68073.8,SUCCESS,TRANSFER,Saibaba Colony Branch,C8894,Others
+T407985,5,Coimbatore,2025-05-04,86057.67,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C3047,Others
+T407986,5,Coimbatore,2025-05-04,5924.39,FAILED,DEPOSIT,Saibaba Colony Branch,C5915,Others
+T407987,5,Coimbatore,2025-05-04,44584.13,FAILED,TRANSFER,Saibaba Colony Branch,C1547,Travel
+T407988,5,Coimbatore,2025-05-04,20677.43,SUCCESS,DEPOSIT,Saibaba Colony Branch,C4151,Shopping
+T407989,5,Coimbatore,2025-05-04,79758.35,FAILED,TRANSFER,Saibaba Colony Branch,C3811,Medical Expenses
+T407990,5,Coimbatore,2025-05-04,76563.63,FAILED,TRANSFER,Saibaba Colony Branch,C7714,Education Fees
+T407991,5,Coimbatore,2025-05-04,76544.71,SUCCESS,TRANSFER,Saibaba Colony Branch,C9408,Medical Expenses
+T407992,5,Coimbatore,2025-05-04,49114.31,FAILED,DEPOSIT,Saibaba Colony Branch,C3511,Shopping
+T407993,5,Coimbatore,2025-05-04,81169.58,SUCCESS,TRANSFER,Saibaba Colony Branch,C1592,Travel
+T407994,5,Coimbatore,2025-05-04,40259.25,FAILED,TRANSFER,Saibaba Colony Branch,C6214,Medical Expenses
+T407995,5,Coimbatore,2025-05-04,63638.82,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C4264,Travel
+T407996,5,Coimbatore,2025-05-04,13450.89,FAILED,DEPOSIT,Saibaba Colony Branch,C3366,Travel
+T407997,5,Coimbatore,2025-05-04,17437.74,SUCCESS,TRANSFER,Saibaba Colony Branch,C1914,Medical Expenses
+T407998,5,Coimbatore,2025-05-04,5734.38,SUCCESS,TRANSFER,Saibaba Colony Branch,C7073,Bill Payment
+T407999,5,Coimbatore,2025-05-04,75106.45,FAILED,TRANSFER,Saibaba Colony Branch,C7893,Education Fees
+T408000,5,Coimbatore,2025-05-04,83877.61,FAILED,TRANSFER,Saibaba Colony Branch,C7091,Others
+T408001,5,Coimbatore,2025-05-04,32551.41,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C8070,Others
+T408002,5,Coimbatore,2025-05-04,45444.91,FAILED,TRANSFER,Saibaba Colony Branch,C1211,Medical Expenses
+T408003,5,Coimbatore,2025-05-04,60806.38,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C5092,Shopping
+T408004,5,Coimbatore,2025-05-04,61175.68,SUCCESS,TRANSFER,Saibaba Colony Branch,C2377,Medical Expenses
+T408005,5,Coimbatore,2025-05-04,39100.15,FAILED,TRANSFER,Saibaba Colony Branch,C9966,Others
+T408006,5,Coimbatore,2025-05-04,65225.25,FAILED,WITHDRAWAL,Saibaba Colony Branch,C2981,Bill Payment
+T408007,5,Coimbatore,2025-05-04,72403.89,FAILED,TRANSFER,Saibaba Colony Branch,C1073,Others
+T408008,5,Coimbatore,2025-05-04,33273.7,SUCCESS,TRANSFER,Saibaba Colony Branch,C2158,Medical Expenses
+T408009,5,Coimbatore,2025-05-04,78208.3,SUCCESS,DEPOSIT,Saibaba Colony Branch,C2751,Medical Expenses
+T408010,5,Coimbatore,2025-05-04,91609.29,SUCCESS,DEPOSIT,Saibaba Colony Branch,C9377,Shopping
+T408011,5,Coimbatore,2025-05-04,76129.77,FAILED,DEPOSIT,Saibaba Colony Branch,C7008,Education Fees
+T408012,5,Coimbatore,2025-05-04,29247.62,FAILED,WITHDRAWAL,Saibaba Colony Branch,C1409,Travel
+T408013,5,Coimbatore,2025-05-04,48875.62,FAILED,TRANSFER,Saibaba Colony Branch,C7040,Loan Payment
+T408014,5,Coimbatore,2025-05-03,39207.72,FAILED,TRANSFER,Saibaba Colony Branch,C3888,Medical Expenses
+T408015,5,Coimbatore,2025-05-03,9887.49,FAILED,DEPOSIT,Saibaba Colony Branch,C1168,Bill Payment
+T408016,5,Coimbatore,2025-05-03,50911.01,FAILED,WITHDRAWAL,Saibaba Colony Branch,C9580,Medical Expenses
+T408017,5,Coimbatore,2025-05-03,28475.89,FAILED,WITHDRAWAL,Saibaba Colony Branch,C9555,Travel
+T408018,5,Coimbatore,2025-05-03,12548.31,SUCCESS,TRANSFER,Saibaba Colony Branch,C1164,Education Fees
+T408019,5,Coimbatore,2025-05-03,2266.65,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C8320,Bill Payment
+T408020,5,Coimbatore,2025-05-03,91494.63,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C4672,Bill Payment
+T408021,5,Coimbatore,2025-05-03,90744.01,FAILED,WITHDRAWAL,Saibaba Colony Branch,C5678,Others
+T408022,5,Coimbatore,2025-05-03,27430.85,SUCCESS,DEPOSIT,Saibaba Colony Branch,C4304,Loan Payment
+T408023,5,Coimbatore,2025-05-03,60104.95,SUCCESS,TRANSFER,Saibaba Colony Branch,C6620,Travel
+T408024,5,Coimbatore,2025-05-03,99283.31,SUCCESS,DEPOSIT,Saibaba Colony Branch,C8420,Medical Expenses
+T408025,5,Coimbatore,2025-05-03,91670.47,FAILED,TRANSFER,Saibaba Colony Branch,C1655,Medical Expenses
+T408026,5,Coimbatore,2025-05-03,23489.66,FAILED,TRANSFER,Saibaba Colony Branch,C3849,Travel
+T408027,5,Coimbatore,2025-05-03,8297.55,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C8424,Medical Expenses
+T408028,5,Coimbatore,2025-05-03,69658.21,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C9348,Bill Payment
+T408029,5,Coimbatore,2025-05-03,47863.63,SUCCESS,DEPOSIT,Saibaba Colony Branch,C7658,Bill Payment
+T408030,5,Coimbatore,2025-05-03,48337.65,FAILED,WITHDRAWAL,Saibaba Colony Branch,C3629,Education Fees
+T408031,5,Coimbatore,2025-05-03,8249.08,FAILED,DEPOSIT,Saibaba Colony Branch,C6619,Others
+T408032,5,Coimbatore,2025-05-03,64108.78,FAILED,TRANSFER,Saibaba Colony Branch,C1062,Others
+T408033,5,Coimbatore,2025-05-03,88107.38,SUCCESS,DEPOSIT,Saibaba Colony Branch,C9988,Education Fees
+T408034,5,Coimbatore,2025-05-03,36199.1,SUCCESS,TRANSFER,Saibaba Colony Branch,C6206,Travel
+T408035,5,Coimbatore,2025-05-03,77905.93,FAILED,TRANSFER,Saibaba Colony Branch,C7392,Others
+T408036,5,Coimbatore,2025-05-03,12062.63,SUCCESS,TRANSFER,Saibaba Colony Branch,C4334,Shopping
+T408037,5,Coimbatore,2025-05-03,56036.34,FAILED,TRANSFER,Saibaba Colony Branch,C3943,Loan Payment
+T408038,5,Coimbatore,2025-05-03,49077.76,FAILED,TRANSFER,Saibaba Colony Branch,C7168,Travel
+T408039,5,Coimbatore,2025-05-03,89629.44,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C8077,Others
+T408040,5,Coimbatore,2025-05-03,88681.88,FAILED,DEPOSIT,Saibaba Colony Branch,C4395,Medical Expenses
+T408041,5,Coimbatore,2025-05-03,81545.47,FAILED,WITHDRAWAL,Saibaba Colony Branch,C8372,Travel
+T408042,5,Coimbatore,2025-05-03,15622.6,SUCCESS,DEPOSIT,Saibaba Colony Branch,C9787,Shopping
+T408043,5,Coimbatore,2025-05-03,63139.07,SUCCESS,DEPOSIT,Saibaba Colony Branch,C8925,Education Fees
+T408044,5,Coimbatore,2025-05-03,82541.04,FAILED,WITHDRAWAL,Saibaba Colony Branch,C2511,Education Fees
+T408045,5,Coimbatore,2025-05-03,53817.92,FAILED,TRANSFER,Saibaba Colony Branch,C6754,Others
+T408046,5,Coimbatore,2025-05-03,30708.24,FAILED,DEPOSIT,Saibaba Colony Branch,C4731,Bill Payment
+T408047,5,Coimbatore,2025-05-03,26656.51,FAILED,DEPOSIT,Saibaba Colony Branch,C3346,Bill Payment
+T408048,5,Coimbatore,2025-05-03,55114.73,SUCCESS,DEPOSIT,Saibaba Colony Branch,C3009,Bill Payment
+T408049,5,Coimbatore,2025-05-03,57645.16,FAILED,TRANSFER,Saibaba Colony Branch,C5462,Education Fees
+T408050,5,Coimbatore,2025-05-03,13846.27,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C2502,Medical Expenses
+T408051,5,Coimbatore,2025-05-03,32724.95,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C1852,Loan Payment
+T408052,5,Coimbatore,2025-05-03,84566.54,FAILED,DEPOSIT,Saibaba Colony Branch,C1803,Shopping
+T408053,5,Coimbatore,2025-05-03,26459.21,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C3500,Others
+T408054,5,Coimbatore,2025-05-03,17036.8,SUCCESS,DEPOSIT,Saibaba Colony Branch,C9791,Loan Payment
+T408055,5,Coimbatore,2025-05-03,60116.79,SUCCESS,DEPOSIT,Saibaba Colony Branch,C4623,Shopping
+T408056,5,Coimbatore,2025-05-03,39032.92,SUCCESS,DEPOSIT,Saibaba Colony Branch,C8584,Others
+T408057,5,Coimbatore,2025-05-03,72168.68,SUCCESS,TRANSFER,Saibaba Colony Branch,C2877,Shopping
+T408058,5,Coimbatore,2025-05-03,27463.38,FAILED,TRANSFER,Saibaba Colony Branch,C1420,Education Fees
+T408059,5,Coimbatore,2025-05-03,53530.74,FAILED,WITHDRAWAL,Saibaba Colony Branch,C8603,Others
+T408060,5,Coimbatore,2025-05-03,75648.9,SUCCESS,DEPOSIT,Saibaba Colony Branch,C4213,Others
+T408061,5,Coimbatore,2025-05-03,1400.77,FAILED,TRANSFER,Saibaba Colony Branch,C3918,Travel
+T408062,5,Coimbatore,2025-05-03,39392.32,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C9093,Others
+T408063,5,Coimbatore,2025-05-03,50204.0,FAILED,DEPOSIT,Saibaba Colony Branch,C3669,Education Fees
+T408064,5,Coimbatore,2025-05-03,67067.28,SUCCESS,DEPOSIT,Saibaba Colony Branch,C3604,Loan Payment
+T408065,5,Coimbatore,2025-05-03,86420.54,FAILED,DEPOSIT,Saibaba Colony Branch,C8671,Travel
+T408066,5,Coimbatore,2025-05-03,51480.37,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C2660,Bill Payment
+T408067,5,Coimbatore,2025-05-03,9302.98,FAILED,DEPOSIT,Saibaba Colony Branch,C3211,Education Fees
+T408068,5,Coimbatore,2025-05-03,11697.88,FAILED,WITHDRAWAL,Saibaba Colony Branch,C6890,Shopping
+T408069,5,Coimbatore,2025-05-03,222.06,FAILED,TRANSFER,Saibaba Colony Branch,C2884,Education Fees
+T408070,5,Coimbatore,2025-05-03,779.02,SUCCESS,DEPOSIT,Saibaba Colony Branch,C5195,Travel
+T408071,5,Coimbatore,2025-05-03,25259.87,FAILED,TRANSFER,Saibaba Colony Branch,C1100,Bill Payment
+T408072,5,Coimbatore,2025-05-03,85013.76,SUCCESS,DEPOSIT,Saibaba Colony Branch,C7130,Education Fees
+T408073,5,Coimbatore,2025-05-03,48861.91,FAILED,DEPOSIT,Saibaba Colony Branch,C2701,Others
+T408074,5,Coimbatore,2025-05-03,66288.95,SUCCESS,DEPOSIT,Saibaba Colony Branch,C2209,Medical Expenses
+T408075,5,Coimbatore,2025-05-03,75736.95,FAILED,TRANSFER,Saibaba Colony Branch,C3470,Loan Payment
+T408076,5,Coimbatore,2025-05-03,48256.55,FAILED,DEPOSIT,Saibaba Colony Branch,C1148,Education Fees
+T408077,5,Coimbatore,2025-05-03,93334.4,SUCCESS,TRANSFER,Saibaba Colony Branch,C8185,Travel
+T408078,5,Coimbatore,2025-05-03,20176.25,SUCCESS,WITHDRAWAL,Saibaba Colony Branch,C7857,Travel
+T408079,5,Coimbatore,2025-05-03,8333.09,SUCCESS,DEPOSIT,Saibaba Colony Branch,C5844,Loan Payment
